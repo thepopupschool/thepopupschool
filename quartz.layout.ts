@@ -8,11 +8,6 @@ function truncate(str: string, n: number) {
 const explorerConfig: Parameters<typeof Component.Explorer>[0] = {
   folderClickBehavior: "link",
   sortFn: (a, b) => {
-    console.log(
-      "a.file?.frontmatter?.order > b.file?.frontmatter?.order",
-      a.file?.frontmatter?.order,
-      b.file?.frontmatter?.order,
-    )
     if (Number(a.file?.frontmatter?.order) < Number(b.file?.frontmatter?.order)) {
       return -1
     } else {
