@@ -1,6 +1,31 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
+function truncate(str: string, n: number) {
+  return str.length > n ? str.slice(0, n - 1) + ".." : str
+}
+
+const explorerConfig: Parameters<typeof Component.Explorer>[0] = {
+  folderClickBehavior: "link",
+  sortFn: (a, b) => {
+    console.log(
+      "a.file?.frontmatter?.order > b.file?.frontmatter?.order",
+      a.file?.frontmatter?.order,
+      b.file?.frontmatter?.order,
+    )
+    if (Number(a.file?.frontmatter?.order) < Number(b.file?.frontmatter?.order)) {
+      return -1
+    } else {
+      return 0
+    }
+  },
+  mapFn: (node) => {
+    if (node.file) {
+      node.displayName = `Mod${node.file?.frontmatter?.order}: ${truncate(node.displayName, 25)}`
+    }
+  },
+}
+
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
@@ -26,10 +51,10 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer(explorerConfig)),
   ],
   right: [
-    Component.Graph(),
+    // Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
@@ -43,7 +68,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer(explorerConfig)),
   ],
   right: [],
 }
