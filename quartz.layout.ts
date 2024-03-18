@@ -6,7 +6,7 @@ function truncate(str: string, n: number) {
 }
 
 const explorerConfig: Parameters<typeof Component.Explorer>[0] = {
-  folderClickBehavior: "link",
+  folderClickBehavior: "collapse",
   sortFn: (a, b) => {
     if (Number(a.file?.frontmatter?.order) < Number(b.file?.frontmatter?.order)) {
       return -1
@@ -27,8 +27,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      Substack: "https://bonnittaroy.substack.com/",
     },
   }),
 }
