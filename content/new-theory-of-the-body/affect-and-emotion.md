@@ -79,25 +79,23 @@ After discovering Russel's work I added two dimensions to her grid--- a more ser
 From the standpoint of transformational practices, this grid tells us that we can start where we are and move the signature of the affect first down from the emotional narrative-imaginal-mimetic stack where it presents only an avenue for hopelessly complexifying the present moment into a simluation, an obvious obstacle for healing, and secondly toward the direction not only of well-being, but also toward liberating wisdom. [^9]
 
 
-:::note[Side note 1: Anxiety]
-Before we go further, I just want to add another definition that is useful. It comes from the method/work of [Habib Davanloo](https://www.amazon.com/Intensive-Short-Term-Dynamic-Psychotherapy-Selected/dp/0471497045) he called Intensive Short-term Dynamic Psychotherapy (which was foundational work for Diana Fosha's AEDP). For our purposes we don't need to get into all the details, so here is our working definition
+> [!info] Side note 1: Anxiety
+> Before we go further, I just want to add another definition that is useful. It comes from the method/work of [Habib Davanloo](https://www.amazon.com/Intensive-Short-Term-Dynamic-Psychotherapy-Selected/dp/0471497045) he called Intensive Short-term Dynamic Psychotherapy (which was foundational work for Diana Fosha's AEDP). For our purposes we don't need to get into all the details, so here is our working definition
+>
+> **Anxiety = dispositional state that results in the down-regulation of arousal energy.**
+>
+> Let's say I have to speak at a funeral and I know that I am going to cry due to the panic/grief I feel for the loved one and family, and also I have fear arising too. I intentionally, or not, keep the system down-regulated at the dispositional state, rather than entering any specific affect stream. As a result I experience a generalized discomfort state of anxiety, which is the experience of down-regulation.
+>
+> Or let's say I am feeling lustful around someone. I go over to talk to them and I feel, well, the lust becomes fuzzy and is replaced by a sense of anxiety.
+>
+>Or let's say I get caught in a bad situation and am called out for it. Instead of getting angry, I begin to justify my actions with all kinds of bullshit. I probably will also experience quite a bit of anxiety, as I down-regulate the anger. Which brings us to side note 2:
 
-**Anxiety = dispositional state that results in the down-regulation of arousal energy.**
-
-Let's say I have to speak at a funeral and I know that I am going to cry due to the panic/grief I feel for the loved one and family, and also I have fear arising too. I intentionally, or not, keep the system down-regulated at the dispositional state, rather than entering any specific affect stream. As a result I experience a generalized discomfort state of anxiety, which is the experience of down-regulation.
-
-Or let's say I am feeling lustful around someone. I go over to talk to them and I feel, well, the lust becomes fuzzy and is replaced by a sense of anxiety.
-
-Or let's say I get caught in a bad situation and am called out for it. Instead of getting angry, I begin to justify my actions with all kinds of bullshit. I probably will also experience quite a bit of anxiety, as I down-regulate the anger. Which brings us to side note 2:
-:::
-
-:::note[Side note 2: Guilt and Shame]
-Guilt and shame are *emotions* not affects, because they depend on culturally conditioned interpretations of affect states. Guilt is the emotion that is associated with having done something wrong that *one knew was wrong to do.* This "knowing what is wrong" --- what is against the cultural norms and rules--- is the conditioned part. Guilt can trigger anger or fear, but it also can bring up play and seeking, as when the guilty person takes a game-theoretic approach to getting off the hook.
-
-Shame, on the contrary, is a deeper, more complex emotion that always comes as a double-bind. It happens early in life when you have an authentic impulse to do something (like jump and clap for the fun of it) and it is reflected back to you as something wrong (stop it!). You are in a double-bind in the sense you either have to discomfirm the authentic impulse, or go against the cultural norm. You cannot accommodate both, you are forced to choose.
-
-Guilt and shame can become entangled when, as for example, when people are born with a-typical impulses (like pedophilia) that are authentic to them, but they are smart enough or aware enough to not cross the moral line. See for example [this medium article](https://medium.com/matter/youre-16-youre-a-pedophile-you-dont-want-to-hurt-anyone-what-do-you-do-now-e11ce4b88bdb) about one young man's struggle with being a "morally responsible pedophile." On the other hand, authentic impulses put pressure on society to reexamine the normative standards and moral rules as, for example, with homosexuality (which is an authentic impulse in some people, but was for a time considered socially immoral).
-:::
+> [!info] Side note 2: Guilt and Shame
+> Guilt and shame are *emotions* not affects, because they depend on culturally conditioned interpretations of affect states. Guilt is the emotion that is associated with having done something wrong that *one knew was wrong to do.* This "knowing what is wrong" --- what is against the cultural norms and rules--- is the conditioned part. Guilt can trigger anger or fear, but it also can bring up play and seeking, as when the guilty person takes a game-theoretic approach to getting off the hook.
+>
+> Shame, on the contrary, is a deeper, more complex emotion that always comes as a double-bind. It happens early in life when you have an authentic impulse to do something (like jump and clap for the fun of it) and it is reflected back to you as something wrong (stop it!). You are in a double-bind in the sense you either have to discomfirm the authentic impulse, or go against the cultural norm. You cannot accommodate both, you are forced to choose.
+>
+> Guilt and shame can become entangled when, as for example, when people are born with a-typical impulses (like pedophilia) that are authentic to them, but they are smart enough or aware enough to not cross the moral line. See for example [this medium article](https://medium.com/matter/youre-16-youre-a-pedophile-you-dont-want-to-hurt-anyone-what-do-you-do-now-e11ce4b88bdb) about one young man's struggle with being a "morally responsible pedophile." On the other hand, authentic impulses put pressure on society to reexamine the normative standards and moral rules as, for example, with homosexuality (which is an authentic impulse in some people, but was for a time considered socially immoral).
 
 ## How does this fit into the sensemaking up-hierarchy model?
 
