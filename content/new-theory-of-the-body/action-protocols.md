@@ -42,6 +42,10 @@ Every neuron acts in a local habitat which is part of this global ecosystem. The
 
 Never before has this particular tree-me existed. Given its vast complexity and participatory immediacy, never again will this particular tree-me exist. Only the generalized trace, grossly imprecise and distorted by generalities and distanced by time, might be brought forth by initiating a simulation which can only serve up the low-resolution replay of memory.
 
+## Lookup
+
+- https://bonnittaroy.substack.com/p/a-new-theory-of-the-body-action-protocols
+
 [^1]: Coherence rarely means "the same" --- rather it is a functional context in which each local actor can receive in a way that it "makes greater sense" to them. This is the root function of "common sense" which takes on different forms in different cultural (local) settings.
 
 [^2]: In the module on Perception in the course series, we will see that perception is no mere passive portal, but an active participatory function, with affect-laden desire designed to "go somewhere" ...
