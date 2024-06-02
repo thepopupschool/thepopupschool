@@ -5,4 +5,5 @@ enableToc: false
 
 <img src="/static/logo.png" alt="Logo" />
 
-> [!info] Begin [here](why-we-need-a-school-like-this)
+> [!info] [[why-we-need-a-school-like-this|Why we need a school like this]]
+
