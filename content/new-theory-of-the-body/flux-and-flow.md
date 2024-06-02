@@ -1,7 +1,7 @@
 ---
 title: On flow and flux
 date: 2023-03-22
-order: 3
+order: 8
 ---
 
 In our memory course we briefly introduced the distinction between flux and flow by quoting Nick Lane's *Transformer*:

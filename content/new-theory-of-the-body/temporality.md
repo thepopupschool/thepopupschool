@@ -2,15 +2,15 @@
 title: "Temporality: Duration & Epoch"
 description: "... putting the mind back into the body and the body back into nature"
 date: 2022-12-31
-order: 0
+order: 4
 ---
 
 In this series I have been presenting a few [interaction metaphors](new-theory-of-the-body/up-hierarchy) that should be helpful in our co-creating A New Theory of the Body.
 
-- Sense-making up-hierarchy
-- Habitat/ Habitas
-- Action Protocols
-- Action Thresholds
+- [Sense-making up-hierarchy](new-theory-of-the-body/up-hierarchy)
+- [Habitat/ Habitas](new-theory-of-the-body/habitat-and-habitas)
+- [Action Protocols](new-theory-of-the-body/action-protocols)
+- [Action Thresholds](new-theory-of-the-body/action-thresholds)
 
 In this article I want to introduce you to two terms that play an important role in understanding temporality of experience as a generative process: *duration* and *epoch.*
 

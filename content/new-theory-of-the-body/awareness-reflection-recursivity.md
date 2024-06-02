@@ -2,7 +2,7 @@
 title: "Awareness: Reflection, Recursivity, Reflexivity"
 description: Putting the mind back into the body and the body back into nature
 date: 2023-06-20
-order: 6
+order: 12
 ---
 
 > The stream of James turns out to be a self-referential metaphor\

@@ -2,7 +2,7 @@
 title: Representational Thinking, Narrative, Meaning & the Justification System
 description: Putting the mind back into the body and the body back into nature
 date: 2023-05-05
-order: 4
+order: 10
 ---
 
 > Nobody knows how people do it. The unconscious mind gives it,\

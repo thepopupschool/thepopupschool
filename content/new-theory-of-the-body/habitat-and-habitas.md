@@ -2,7 +2,7 @@
 title: Habitat and Habitas
 description: "... putting the mind back into the body and the body back into nature"
 date: 2022-12-27
-order: 0
+order: 1
 ---
 
 One helpful way to think about natural, embodied, and cognitive up-hierarhcies is in terms of *habitat and habitas*. Both words come from the root word for "dwell." You might think of habitat as a dwelling, and habitas as an in-dwelling.[^1] Habitat-habitas is also a helpful way to think of interpenetration and the point that everything is mutually dependent on everything else (the Buddhist doctrine of co-origination). What we will add to these models is the realization that on the micro-scale, no one thing is dependent on another thing in the exact same way. Or, in other words, while it is true that any one entity is dependent on every other entity, no one entity is dependent on an other entity in the very same way the other entity is dependent on it. This is a fundamental law of asymmetry in process philosophy that recognizes the necessity of assymetric relations in a generative and creative universe.

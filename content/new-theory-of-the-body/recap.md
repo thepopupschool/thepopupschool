@@ -2,7 +2,7 @@
 title: Recap
 description: Putting the mind back into the body and the body back into nature
 date: 2023-07-22
-order: 7
+order: 13
 ---
 
 

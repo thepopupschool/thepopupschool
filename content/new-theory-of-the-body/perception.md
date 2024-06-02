@@ -1,7 +1,7 @@
 ---
 title: On Perception
 date: 2023-02-04
-order: 2
+order: 6
 ---
 
 > The theory of the body is already a theory of perception.

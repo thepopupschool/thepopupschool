@@ -1,7 +1,7 @@
 ---
 title: Memory
 date: 2023-02-04
-order: 3
+order: 7
 ---
 
 > Human memory is short and terribly fickle.
