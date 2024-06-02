@@ -76,6 +76,10 @@ For example,
     wholes evolve from prior wholes
     What other kinds of paradox / confusion around parts and wholes can you think of?
 
+## Lookup
+
+- https://bonnittaroy.substack.com/p/a-new-theory-of-the-body-up-hierarchy
+
 [^1]: In some ways we are reluctant to discover the truth, because we fear we will be facing all the myths that say people are cancerous growths on an otherwise perfect earth, that we are war-mongering, death-delivering, monsters who will destroy this planet in order to escape the solar system, only to repeat our ravaging ways. On the other hand, actually discovering that we belong, are welcomed and loved by nature, would demand an upheaval of self-soul and psyche, the likes of which we have never seen before.
 
 [^2]: https://medium.com/agile-sensemaking/sensemaking-up-hierarchies-a4eea852c139\
