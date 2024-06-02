@@ -16,7 +16,7 @@ const explorerConfig: Parameters<typeof Component.Explorer>[0] = {
   },
   mapFn: (node) => {
     if (node.file) {
-      node.displayName = `Mod${node.file?.frontmatter?.order}: ${truncate(node.displayName, 25)}`
+      node.displayName = truncate(node.displayName, 25)
     }
   },
 }
