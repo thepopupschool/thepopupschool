@@ -13,7 +13,7 @@ The idea of a new theory of the body came to me as an insight on the Respond Net
 
 > If wisdom comes from the body, do we need a new theory of the body to account for it?
 
-I realized that the purpose of a new theory of the body--- a purpose aligned with everything we do in this school--- would mean that the theory would have to show the deep continuity of mind, body and world. Make no mistake. This will not be a theory of *emergentism*, which I have argued in a [previous post](https://open.substack.com/pub/bonnittaroy/p/why-we-need-a-school-like-this-part?r=108vl&utm_campaign=post&utm_medium=web), actually sets a divine gap between nature and human, body and mind.
+I realized that the purpose of a new theory of the body--- a purpose aligned with everything we do in this school--- would mean that the theory would have to show the deep continuity of mind, body and world. Make no mistake. This will not be a theory of *emergentism*, which I have argued in a [previous post](why-we-need-a-school-like-this), actually sets a divine gap between nature and human, body and mind.
 
 > The sense of separation comes not despite the term, "Emergence" but with it. This is because "emergence" means something like "a miracle happens here" --- a placeholder where no other explantory theory is possible. It is this miracle--- reminiscent of the hand of god--- that separates us. A divine gap that cannot be mended.
 

@@ -58,19 +58,19 @@ As I wrote in the Prelude for the Before Socrates Series:
 ## Cohorts
 
 https://bonnittaroy.substack.com/p/video-recording-the-moral-animal/comments
-<iframe width="100%" height="1000" src="https://www.youtube.com/watch?v=GQjRrajFMd0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="1000" src="https://www.youtube.com/embed/GQjRrajFMd0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 https://bonnittaroy.substack.com/p/video-recording-moral-animal-cohort/comments
-<iframe width="100%" height="1000" src="https://www.youtube.com/watch?v=1wRTyJZEhLQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="1000" src="https://www.youtube.com/embed/1wRTyJZEhLQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 https://bonnittaroy.substack.com/p/video-recording-the-moral-animal-722/comments
-<iframe width="100%" height="1000" src="https://www.youtube.com/watch?v=8BxX2ovB6X0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="1000" src="https://www.youtube.com/embed/8BxX2ovB6X0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 https://bonnittaroy.substack.com/p/video-recording-the-moral-animal-c99/comments
-<iframe width="100%" height="1000" src="https://www.youtube.com/watch?v=lRm3YC_hzeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="1000" src="https://www.youtube.com/embed/lRm3YC_hzeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 https://bonnittaroy.substack.com/p/video-recording-the-moral-animal-10a/comments
-<iframe width="100%" height="1000" src="https://www.youtube.com/watch?v=wPs6D9Qf5uU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="1000" src="https://www.youtube.com/embed/wPs6D9Qf5uU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 https://bonnittaroy.substack.com/p/video-recording-the-moral-animal-c8c/comments
-<iframe width="100%" height="1000" src="https://www.youtube.com/watch?v=Uq8oCfiWNI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="1000" src="https://www.youtube.com/embed/Uq8oCfiWNI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

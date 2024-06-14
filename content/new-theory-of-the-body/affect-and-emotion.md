@@ -127,7 +127,7 @@ One final piece of this pie is the relationship between all of this and action p
 ## Cohorts
 
 <iframe width="100%" height="1000" src="https://www.youtube.com/embed/33YvVHwZJuQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-bonnittaroy.substack.com/p/affect-recordings-first-4-cohorts
+https://bonnittaroy.substack.com/p/affect-recordings-first-4-cohorts
 <iframe width="100%" height="1000" src="https://www.youtube.com/embed/2RPZQNvuieE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <iframe width="100%" height="1000" src="https://www.youtube.com/embed/7PRviHWERMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <iframe width="100%" height="1000" src="https://www.youtube.com/embed/xE5TewNlWSk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
