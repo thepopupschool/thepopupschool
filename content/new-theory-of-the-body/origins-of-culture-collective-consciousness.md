@@ -120,5 +120,24 @@ In her essay *What is Lyric Philosophy*, she presents 61 bare bones, the first 
 
 - https://bonnittaroy.substack.com/p/origins-of-culture-collective-consciousness
 
+
+## Cohorts
+
+https://bonnittaroy.substack.com/p/video-recording-collective-culture/comments
+<iframe width="100%" height="1000" src="https://www.youtube.com/watch?v=S-efrS-ZINM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+https://bonnittaroy.substack.com/p/video-recording-culture-cohort-2/comments
+<iframe width="100%" height="1000" src="https://www.youtube.com/watch?v=NoL38vkas_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+https://bonnittaroy.substack.com/p/video-recording-culture-cohort-3/comments
+<iframe width="100%" height="1000" src="https://www.youtube.com/watch?v=nTPLgoH2JYw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+https://bonnittaroy.substack.com/p/video-recording-culture-cohorts-4/comments
+<iframe width="100%" height="1000" src="https://www.youtube.com/watch?v=yVChiHOI5cc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+The following recording was stopped at the breakout, but it ended early.
+<iframe width="100%" height="1000" src="https://www.youtube.com/watch?v=O0lBxcTjujw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 [^1]: I will be introducing Lyric Culture in a new SEEDS essay series early next year. Also, the first [2024 retreat at Sky Meadow](https://www.eventcreate.com/e/pop-upschoolretreatseries) will include reflections on Lyric Philosophy.
 
