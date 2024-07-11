@@ -1,7 +1,6 @@
 ---
 title: "Cohort 2: Origin of the body"
-sidebar:
-  hidden: true
+date: 2023-09-08
 ---
 
 <iframe width="100%" height="1000" src="https://www.youtube.com/embed/JNklgLgsvsc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

@@ -1,5 +1,6 @@
 ---
 title: A new theory of the body
+date: 2022-12-04
 ---
 
 > [!tldr]

@@ -1,7 +1,6 @@
 ---
 title: "Cohort 1: Origin of the body"
-sidebar:
-  hidden: true
+date: 2023-09-08
 ---
 
 
