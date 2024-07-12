@@ -24,17 +24,19 @@ export default ((userOpts?: Options) => {
         {
           opts.pagination ? <Pagination {...props} /> : null
         }
-        <hr />
-        <p>
-          Pop-Up School © {year}
-        </p>
-        <ul>
-          {Object.entries(links).map(([text, link]) => (
-            <li>
-              <a href={link}>{text}</a>
-            </li>
-          ))}
-        </ul>
+        <div class="footer-inner">
+          <hr />
+          <p>
+            Pop-Up School © {year}
+          </p>
+          <ul>
+            {Object.entries(links).map(([text, link]) => (
+              <li>
+                <a href={link}>{text}</a>
+              </li>
+            ))}
+          </ul>
+        </div>
       </footer>
     )
   }
