@@ -1,0 +1,5 @@
+---
+title: Lyric thought
+---
+
+

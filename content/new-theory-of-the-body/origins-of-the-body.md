@@ -74,7 +74,7 @@ This module is based on practicing collective insight by attending to this quest
 
 Here is a video showing my own process so far. It starts off describing the difference between a compound individual and a collective, through the notion of internal relations or "ingress." Then I outline the larger conversation that will seed the insight practice.
 
-<video controlslist="nodownload" poster="https://substack-video.s3.amazonaws.com/video_upload/post/136396851/c622cb8c-d45b-4df0-90be-0e056c7c2d7b/transcoded-00001.png?refresh=undefined" src="blob:https://bonnittaroy.substack.com/cee16908-529b-4563-acfb-f94d6e8d30c1" controls=""></video>
+<video controlslist="nodownload" src="https://www.dropbox.com/scl/fi/xkrwmuog4k3uxmavja5cr/origins-of-the-body.mp4?rlkey=107lp7ennjixw2r5fup3q0sg4&raw=1" controls=""></video>
 
 ## Lookup
 

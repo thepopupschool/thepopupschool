@@ -2,7 +2,6 @@
 title: "On Lyric Thought: Integrity"
 description: "Reflections on Jan Zwicky's Lyric Philosophy"
 date: 2023-03-05
-order: 1
 ---
 
 > Lyric clarity is gestural integrity.
