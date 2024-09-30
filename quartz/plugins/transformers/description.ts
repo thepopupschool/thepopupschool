@@ -18,7 +18,7 @@ const urlRegex = new RegExp(
   "g",
 )
 
-export const Description: QuartzTransformerPlugin<Partial<Options> | undefined> = (userOpts) => {
+export const Description: QuartzTransformerPlugin<Partial<Options>> = (userOpts) => {
   const opts = { ...defaultOptions, ...userOpts }
   return {
     name: "Description",
@@ -42,21 +42,25 @@ export const Description: QuartzTransformerPlugin<Partial<Options> | undefined> 
             const finalDesc: string[] = []
             const len = opts.descriptionLength
             let sentenceIdx = 0
+            let currentDescriptionLength = 0
 
             if (sentences[0] !== undefined && sentences[0].length >= len) {
               const firstSentence = sentences[0].split(" ")
-              while (finalDesc.length < len) {
+              while (currentDescriptionLength < len) {
                 const sentence = firstSentence[sentenceIdx]
                 if (!sentence) break
                 finalDesc.push(sentence)
+                currentDescriptionLength += sentence.length
                 sentenceIdx++
               }
               finalDesc.push("...")
             } else {
-              while (finalDesc.length < len) {
+              while (currentDescriptionLength < len) {
                 const sentence = sentences[sentenceIdx]
                 if (!sentence) break
-                finalDesc.push(sentence.endsWith(".") ? sentence : sentence + ".")
+                const currentSentence = sentence.endsWith(".") ? sentence : sentence + "."
+                finalDesc.push(currentSentence)
+                currentDescriptionLength += currentSentence.length
                 sentenceIdx++
               }
             }

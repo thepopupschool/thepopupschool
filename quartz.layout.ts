@@ -42,6 +42,7 @@ const explorerConfig: Parameters<typeof Component.Explorer>[0] = {
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
+  afterBody: [],
   footer: Component.Footer({
     links: {
       Substack: "https://bonnittaroy.substack.com/",
