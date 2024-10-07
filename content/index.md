@@ -13,3 +13,4 @@ next: false
 # Courses
 
 - [[new-theory-of-the-body]]
+- [[lyric-philosophy-and-culture]]

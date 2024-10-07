@@ -245,3 +245,9 @@ Generating a Living World: Christopher Alexander
 Pragmatic Imagination: Ann Pendleton-Julian & John Seely Brown
 
 A Gnostic Revival: Mipham's Beacon of Certainty
+
+## Lookup
+
+- https://bonnittaroy.substack.com/p/lyric-culture-ontological-design
+- https://bonnittaroy.substack.com/p/lyric-culture-ontological-design-c19
+- https://bonnittaroy.substack.com/p/lyric-culture-ontological-design-8e1
