@@ -185,14 +185,22 @@ A new theory of the body would incorporate an ecological theory of perception an
 ## Cohorts
 
 <iframe width="100%" height="1000" src="https://www.youtube.com/embed/pWY9x6xoqN8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 https://bonnittaroy.substack.com/p/video-recording-perception-cohort/
+
 <iframe width="100%" height="1000" src="https://www.youtube.com/embed/nWRraC9W8cU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 https://bonnittaroy.substack.com/p/video-recordings-perception-cohorts/
+
 <iframe width="100%" height="1000" src="https://www.youtube.com/embed/n-N8X0XA_RU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <iframe width="100%" height="1000" src="https://www.youtube.com/embed/Ng-oZKjkCDc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <iframe width="100%" height="1000" src="https://www.youtube.com/embed/nyDOnHDkOvg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 https://bonnittaroy.substack.com/p/video-recording-perception-cohort-28b/
+
 <iframe width="100%" height="1000" src="https://www.youtube.com/embed/cBrYk0cxMA4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 https://bonnittaroy.substack.com/p/affect-cohort-6-recording/
 
 ## Resources
