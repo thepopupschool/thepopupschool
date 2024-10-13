@@ -12,10 +12,9 @@ My relationship to Zwicky's notion of integrity is being played out through the 
 
 Integrity means, to me as a writer, writing the way Aretha Franklin sings in the video clip below. It pushes the *lyric sensibility beyond what seems humanly possible. *She takes what is deeply hidden and stretches it toward the sky--- building an arc between earth and heaven. This is the purpose of humans, the daoists say, to thread tether the earth to the heavens, the soil to the sun, life to life-giver.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CBKwV6oNYvw?si=76AAWWDtO0hUps1g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/CBKwV6oNYvw?si=76AAWWDtO0hUps1g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
----
-
+> [!note] ​
 > Integrity calls for grit.
 
 Integrity: congruence, coherence, conviction. Congruent within the pluridimensionality of your self as a compound individual composed of other individuals. Coherent across the pluridimensionality of the larger, collective bodies, of which you are a member. Conviction with respect to your actions.
@@ -30,23 +29,44 @@ Integrity means being bound to the wholeness of what is. Encompassing it all. On
 
 The notion of *authenticity* creeps in when we feel the need to idealize the self. Integrity means that you take a stand, that you stand up for your self, despite the flaws and failures. But when you are in integrity, you don't feel exposed. You feel you no longer have to make a case for yourself. It's not prideful. It's peaceful. Because the matter is settled.
 
+> [!quote] ​
 > Integrity of expression is determined both within a context of utterance, and in the larger sphere in which language is also a part of the world.
-
-– Jan Zwicky
+> – Jan Zwicky
 
 Working on this book, I am struck by how all our all-too-human questions about God seem to be out of integrity with nature. I feel the whole sphere of "religious thought and dialogue" either tugging at my heart strings and suggesting I take the escape route towards the fire (theistic and salvific) or the ice (rational and mechanical). These accounts, written by masters and mystics, seem to be out of integrity and leaning toward contrivance. Why can't we speak of God with a greater integrity?
 
+> [!quote] ​
 > Sensitivity to resonance, honed by love of clarity, gives us, I believe, our best chance of access to the real.
-
-– Jan Zwicky
+> – Jan Zwicky
 
 Echoing Zwicky's quote above, I would like to say "Sensitivity to integrity, honed by the love of the real, gives us our best chance of access to clarity." Integrity, clarity and the real are an autopoeitic set, a perfect triangle, which, when given two sides, solves itself through some natural law.
 
 **What does it even mean to have a religion that is integral to the real without turning the real into a contrivance?**
 
-**A real-igion. A real- alignment.
+**A real-igion. A real- alignment.**
 
 That is a question I'd love to explore.**
+
+## Cohort
+
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/hMCVVmolB7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+https://bonnittaroy.substack.com/p/video-recording-lyric-thought-integirty/comments
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/o8Vz7aw22kY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/WtxEPPSfwIc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/8n-rxKBun7I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+https://bonnittaroy.substack.com/p/video-recordings-lyric-thought-integrity/comments
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/BQQ8vp8CI5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/2qSrnw2aY-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+https://bonnittaroy.substack.com/p/video-recording-lyric-thought-integrity/comments
 
 ## Lookup
 
