@@ -2,6 +2,8 @@
 title: "Lyric Culture: Ontological Design for Back Loop Realities"
 description: ""
 date: 2024-01-04
+prev: false
+next: false
 ---
 
 ## We are not in Kansas anymore
