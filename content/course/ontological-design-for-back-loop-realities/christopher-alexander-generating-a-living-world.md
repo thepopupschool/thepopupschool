@@ -95,7 +95,7 @@ In the article, Jenny reminds us that Alexander was experimenting with the diffe
 
 * * * * *
 
-## The Nature of Order
+# The Nature of Order
 
 *The Nature of Order* is itself a beautiful example of unfolding process. Christopher Alexander called it "*an essay"* [^3] but it is not your everyday ordinary essay, since it runs over 2000 pages in total. To *essay*, also means to *strive*; and I think this is the sense he means --- he is essaying his way through the nature of order. The four volumes unfold as follows:
 
@@ -104,7 +104,7 @@ Book Two: The Process of Creating Life\
 Book Three: A Vision of a Living World\
 Book Four: The Luminous Ground [^4]
 
-### Book One
+## Book One: The Phenomenon of Life
 
 **Book One** begins with a prologue to the entire series. Here Alexander shares his difficulties in accepting the implications of his own journey--- spiritual and religious implications that his formal training, as a mathematician and empiricist would find ridiculous. "Even now, on some days," he reflects,
 
@@ -116,7 +116,7 @@ Alexander goes on to describe and illustrate how objects and scenes have differe
 
 > What we call "life" is a general condition which exists to some degree of other, in every part of space: brick, stone, grass, river, painting, building, daffodil, human being, forest, city. And further: The key to this idea is that every part of space--- every connected region of space, small or large--- has some degree of life, and that this degree of life is well defined, objectively existing and measurable.
 
-#### *But what is doing the measuring?*
+### *But what is doing the measuring?*
 
 Alexander identifies what he calls "wholeness and the theory of centers" as the essential qualities in what has more life. A center does not have to be "in the center" of something. A center is a point of relation, a grounding point from which life can propagate. Take a blank sheet of paper. Mark it with a dot anywhere on the paper. The location of the dot determines what becomes possible --- the kinds of symmetries of asymmetries unfold from the chosen spot. A sheet of paper with a dot on it has a kind of wholeness that the paper does not. We might say *the paper remains latent until the dot potentiates in it*. The dot sits in a specific location, and *implies* what might unfold. There is a gradient array susbsisting in the possible relationships that the dot can unfold. The dot becomes a provocation. It already has meaning and generates meaning ...
 
@@ -235,6 +235,168 @@ Alexander concludes Book One by reminding us that the built environment plays a 
 > The life which appears is an attribute of space itself.
 
 > Our job, as architects, builders, citizens, is to create this life in the air and stones and rooms and gardens--- to create life in the fabric of space itself. This is not merely a poetic way of talking. It is a new physical conception of how the world is made and how it must be understood.
+
+## In Book Two, The Process of Creating Life
+
+Christopher Alexander, toward the end of the book, introduces the notion of *Deep Feeling* --- which is that which is attune to, evaluating what has more life. He describes this one insight as "the most important and profound aspect of living process," "the most enlightening and appealing," as wells as, intellectually, "the most controversial and the most difficult to accept."
+
+> [!quote] ​
+> The illiterate of the future will be those who cannot feel.\
+> – Bonnitta Roy
+
+The difficulty today is that, as we move through devastated and ugly environments, we train ourselves *not to feel* --- since the feelings that these environments evoke are painful. We retreat into a dense core of numbness. Ontological design for a living world, therefore, begins with *learning how to feel*, and this in turn depends upon being able to access islands of sanctuary.
+
+It is important to note that this is where many people get Alexander wrong. They think he is using the word "feeling" in a psychological way. But he is not. He is pointing to something that is subjective, but not psychological, but also objective--- something that is inherent in the object. He is pointing out a **specific organ of perception** that most modern people no longer use to evaluate beauty in terms of wholeness, aliveness, and what belongs with what, where and when. It is a term that gives us the capacity for ontological design.
+
+> [!note] Interactive
+> One way to get started with this new sense of "feel" is to work with color. Here are two interactives game that awakens the deep, embodied evaluative senses in you. Let us know in the comments what you think.\
+> <https://color.method.ac/>\
+> <https://trycolors.com/games/guess-mix>
+
+---
+
+The person who feels mostly in the psychological sense is vulnerable to all kinds of manipulation from propaganda, advertising, and social media. The limbic system is overwhelmed and operates at high tension on a continuous basis, drowning out the capacity to feel in the second sense of an evaluative, discerning, organ of perception. When you play the interactive game above, you might experience the two sense of "feeling" oscillating. You start working with the colors in an perceptual sense, but then you are getting frustrated that you are failing, and the psychological sense of feel starts to overwhelm your ability to attend to the game with the evaluative sense of feel. Oscillating back and forth between a feeling of attending and the psychological feelings, you can begin to discern the difference.
+
+The feeling that is a perception participates in a feedback-loop with action in the world that satisfies the perceptual arousal. The feeling that is psychological never satisfies --- it merely dissipates. Wholeness, aliveness, and living centers are perceived through this feeling organ, especially as it participates in the world. This feeling organ may turn out to be, as Alexander suggested, "the greatest importance for the future of mankind." And yet, "for us, in our era," Alexander writes, "it is not so easy."
+
+> The word "feeling" has been contaminated. It is confused with emotions--- with feelings (in the plural) such as wonder, sadness, anger---which confuse rather than help because they make us ask ourselves *which* kind of feeling should I follow?
+
+> The feeling I am talking about is unitary. It is feeling in the singular which comes from the whole. It arises in us, but it originates in the wholeness which is actually there. The process of respecting and extending and creating the whole, and the process of using feeling, are one and the same.
+
+> [!note] ​
+> Real feeling, true feeling, is the experience of the whole.
+
+As an example, Alexander compares art as expression of feelings with "feeling in the work of art." In the first case which he says is "not very interesting" is when the artist puts their feelings into the work of art. In the second case, what he calls the essential case, the work itself, its unfolding process generates feeling in the artist, guiding the artist toward the wholeness that is there and not yet there. The wholeness that guides has the quality of *latency*, and the artist unfolds its potency. He writes
+
+> *What matters is that the building--- the room, the canyon, the painting, the ornament, the garden--- as they are created, send profound feeling back towards us.*
+
+The feeling itself grows toward a greater wholeness, from anticipation and perhaps reticence towards resonance, confidence and recognition. The artist and the work compose one *living center that grows*. Each step guides us toward the next, "we can grasp the latent structure as an emotional substance, we may feel it as a vision--- a dimly held feeling which describes where we are going, but is not yet concrete ... "
+
+And above all, it is a movement toward a structure which makes us feel our own existence more deeply.
+
+![meaning of feeling](images/meaning-of-feeling.jpg)
+
+## Book Three : A Vision of a Living World
+
+In Book Three Christopher Alexander outlines the kind of process approach to world-building that would secure whole living structure. The idea is that when the builder *becomes living process*, then what they build unfolds from their center as living structure.
+
+> The result does not need to be governed by ideas or by conceptions of what might exist; indeed, conceptual ideas are often harmful. The whole is governed, at each stage, by what is.
+
+> [!note] ​
+> The process itself fosters wholeness and life.
+
+Living structure, he says, enables people to truly enjoy belonging to the earth. In terms of contemporary built-space, this is a transitive equation: we don't feel like we belong to our public spaces, because our public spaces don't belong to us--- they are faceless, nameless structures where neither the individual nor the multitudes of differences are reflected. This condition imposes a severe blight on human subjectivity. Up until the modern era, Alexander writes, in traditional society, the public spaces between buildings was like "the living room of society."
+
+> [!note] ​
+> Public land was the living room for society.
+
+> Where does Sakraji get the dignity and joy he has? He gets it because he belongs, wholly to his village, and it belongs to him. And how does he get this belonging? He gets it because he and his villagers control everything in their environment.
+
+This is a matter of governance. "Design alone cannot accomplish this." Alexander writes. "It needs a change in the way we make it possible for people to control the world around them."
+
+At the very end of Book Three, Alexander takes up the role of color. Color, when employed fully and in harmony, "produces inner light." It is this idea that will become the central focus of the final book --- the self-luminosity of things that have life--- they become radiant. Radiance is the light that shines from the living centers. Here Alexander is getting close to the mystical aspects of his work,
+
+> [!note] ​
+> Color has feeling, color produces feeling, color is perceived from feeling.
+
+It seems, for Alexander, that the purpose of architecture is to start with space, its own unique flows that are imperceptible to most, and from that unfolding, the architect opens space up to inner light. Architecture, properly defined, is the unfolding of inner light such that the thing, the building, the garden, the street, the alleyway becomes self-luminous--- they disclose themselves. (In book four, Alexander discovers that this disclosure runs in both directions, and the self is encountered... )
+
+
+![color feeling 1](images/color-feeling-1.jpg)
+![color feeling 2](images/color-feeling-2.jpg)
+![color feeling 3](images/color-feeling-3.jpg)
+![color feeling 4](images/color-feeling-4.jpg)
+
+"Often, in conceiving a building, before I even have the outline of the volume clear, I look, in my mind, for a vision of the color," Alexander writes
+
+> The color, in a holistic way, appears as a product of the forces on the site. One sees what kind of overall color structure may be most harmonious in that place, One can feel the harmony. One gets an idea, a glimpse, of the quality of color, hence the quality of structure which will help that part of the world, fit into it, so that it becomes more whole, more dazzling, in a quiet and unassuming way.
+>
+> And, once the building exists, months or years later, the importance of light continues. Even the paint on the building, on the walls, on the furniture, on the garden fence, this is all essential.
+
+![color vision](images/color-vision.jpg)
+
+In order to allow the wholeness to unfold, the architect doesn't work with ideas--- they work with space, feeling, color, and an intense sense of living centers --- each of which acts as a guide from this step to the next step. If you get too stuck in drawing centers, you must return to the colors; too much obsession with the colors means you must work with the feeling; overwhelmed with the feeling you must step back and ask the space what is wanting to be shaped by the process. These become the core themes of the final book.
+
+
+### Book Four: The Luminous Ground
+
+In Book Four, all of Christopher Alexander's insights are seen in terms of a deep, profound mystical light, the implications of which is a radically new vision of reality. Let's pick up the theme of color to see how Alexander develops it further in book four.
+
+Because this book's central theme is about encountering the "I" which is "that interior element in a work of art, or in a work of nature, which makes one feel related to it. ... It is the spirit which animates each living center." One might say that the "I" is the felt-sense of the center, and the "center" is the living structure of the "I"." In Chapter 7, Alexander wants to show us directly, visible, the I itself, and he is attempting this by showing us color, in particular "a kind of color which I believe allows the I to be seen."
+
+> [!note] ​
+> Of all the phenomena I know, this is the one which comes closest\
+> to letting us see the I directly, as if we were actually looking at it.\
+> It is what I call the phenomenon of inner light.
+
+Alexander goes on to speak of color, first as fundamental to the structure of space wherein both space effects color and color effects the expression of space in a way that is more than just "pouring on paint" over a geometric surface. From this he goes on to talk about a special kind of unity that is generated by color which "lies in a realm which is not entirely accessible to structural descriptions." Even the order which is described by the field of centers, although touches it and is necessary to this unity, it is through colors, and the inner light that is generates, that captures its essence --- they bring us to face the transcendental realm.
+
+### What could this possibly mean?
+
+> This deeper unity depends on a series of qualities in color, like the geometric properties we first learnt to see in the geometric field of centers, but now having to do with unity, not merely structure. In the geometric field, each of these properties is one of the ways in which centers can be built out of centers. In the realm of color, too, these properties somehow generate pure unity, by generating wholeness out of other wholeness. But in the realm of color, we hae, for the first time, also been confronted with an additional phenomenon: a purely unitary, non-structural aspect of wholeness. The aspect of wholeness which shines, like light, from the colored thing, and which pervades it, permeates, shines throughout it, as a whole.
+
+Color renders the wholeness of centers a special kind of unity, an undivided quality which transcends structure and "seems to spring from the very ground of things directly to our consciousness." Alexander interprets this "very ground of things" as the "I itself." This suggests, to Alexander, that the ground can be directly perceived from this vantage point, and postulates the capacity of artists and builders to use colors in a more harmonious whole so that others might see the ground more directly.
+
+---
+
+As moderns, we have separated subjective and objective, qualia and quality, inner sensing and outer perception, spirit and matter. We recognize that these mover closer to us when we experience the wholeness that is Nature. In this school, we have bemoaned the fact that there is less and less natural environment for people to learn from. But Christopher Alexander's insights are telling us that there is the same capacity to disclose the luminous ground, by attending to a certain, "living process" in the ways we go about making a living, arranging and creating our built world. He is saying that design matters because it is *world-building, *and world-building can express the deepest reality in the cosmos. This is why, he would argue, that earlier societies could create beautiful worlds --- something we as moderns have forgotten--- because this wound of separation had not hit them yet. A creators, they were taking up the role of The Creator, and understood the profound responsibility this entailed. Alexander writes
+
+> The profound wholeness which I have described ..., the "mirror of the self," in these things which ties them somehow to a person's deep experience of life, has historically been created millions of times. After spending my life looking for these profound examples, I have reached the conclusion that the specific living quality I have identified and shown ... almost every time that it has been done most profoundly, *has been done in a mystical-religious context*.
+
+---
+
+### What is this "I"?
+
+I believe, fundamentally, Alexander's "I" is the experience of deep relation that is left when the subject and object frame dissolves. His insights are a first-person record of Whitehead's "prehensive" universe, where this feeling-resonance is both source and ground, and the fundamental property of the "I"- sense of the experience. Alexander chooses the word "I" because the experience is *personal*, he writes
+
+> I feel the experience of the relationship with the tree as *personal*. It has to do with ME. I feel related to the tree, I feel that my own existence grows, extends, and becomes wholly good, as I experience my connection with the tree.
+
+This "I" is *personal*, it is *singular* (every I-like thing encountered is the same in all the universe), and it is *suffused with relatedness*.
+
+A certain kind of attention to things, Alexander discovers, has the effect of bleeding the objective and the subjective into an unbounded wholeness. The subject *goes out* or *prehends* the object, it is an intimate gesture; and the object is known as *coming forward* or *prehending the self* --- this too is intimacy.
+
+Persons and things that have more life are capable of being transparent in this way. The dead world is opaque. Life, Alexander concludes, *is this I-like presence*, and its nature is unfolding wholeness.
+
+With their I-like nature, Alexander wonders, is it possible to consider all living centers as beings, drawing attention to the animate quality that appears when connected to this I.
+
+---
+
+### The Goal of Tears
+
+I want to end this essay with two chapters from the final part of the final book that represent a twist in Alexander's thought. Chapter 8 has the surprising title *The Goal of Tears*. The goal of tears is related to the unity of living wholeness, because
+
+> [!note] ​
+> ... if it is truly alive, one can feel it's own death within it, even while it lives ...
+
+We can see that this is a deepening of the original idea of beauty as something that withstands and endures and is worn through time. The wearing-down of things let's us know they are alive, they have all this life compressed down into them. We feel a living fire burn, like the sun, completely metabolizing itself. When tears well up in us, we feel we are touching something deeply true, real and sacred. Something both timeless and yet also fleeting. This is not the kind of ecstatic joy that the mystics talk about--- it is a kind of ecstatic sadness.
+
+I think what makes things of beauty evoke sadness in us is that, in order to make them beautiful, you need to make them vulnerable. They have to surrender to time and change. Even those structures that endure time --- the pyramids, the Parthenon --- their beauty is eroded by time, by the loss of meaning, by their loss of centrality in the human system. Something that was alive in its contexts becomes only "precious" --- an heirloom devoid of its story. The new story is one of sadness, of a trail of tears. The sadness comes to us deeply and personally, when it is we who have built the structure and created its beauty, because we know we have designed into it its vulnerability.
+
+> This deep sadness, when experienced in a living environment, may not always appear outwardly beautiful or harmonious. For example, at one time, my backyard had ducks and fishes. The place where they lived was quite unimposing from a "designer" point of view.
+>
+> The stones, rocks, concrete were a bit messed up. There were plastic pipes from the water circulating pumps; there was an old red pump propped up on the fence. The duck run, like a coop, was made of unexciting bits of wood and chicken-wire. There was straw on the ground, mud, and so on. Nevertheless, the backyard was the envy of all out neighbors. There is a low wall and an open fence. All our neighbors came to see the fish, even to take their daily walks with an aim of coming to say hello to the ducks and the fish. So it was very open.
+>
+> I once heard two small boys walking past, in the street, and one said to the other "I wish I lived in that house." Another day, a young woman was walking by, saw me working in the yard and said, "I love your house so much, it is like a paradise. I wish you would adopt me." Hardly a day went by when it wasn't like that, without someone coming by and telling us how much they enjoyed it. Yet it was the most ordinary thing in the world.
+>
+> It is gone now. The garden is still there, but that feeling has vanished from it.
+
+---
+
+### The Face of God
+
+At the end of his work, Christopher Alexander believed that by taking on the creative process and putting it into service of life and beauty, one was actually acting as a conduit for manifesting God. "We do not need to wait for any afterlife," Alexander writes, "because this wonderful transcendent thing happening before our eyes, is itself God, now."
+
+> [!note] ​
+>And this is the ultimate aim of all making: to make a thing which does manifest spirit, which shows us feeling, which makes God visible and shows us the ultimate meaning of existence, in the actual sticks and stones of the made thing.
+
+For Alexander, both the path to God and the goal of manifesting God has to do with getting to a state of non-separateness.
+
+> [!note] ​
+> ... wholeness is the state in which each thing is continuous and part of the larger whole. It is a state in which the world is melted.
+
+The connection between building and religion, Alexander discovers, is not historical, but very practical, empirical--- both teach people how to lose themselves, not only how to become non-separate but --- far harder--- how to become *willing* to become not-separate. And here Alexander bumps into the central mystery of it all. The things that are made from this state of non-separateness, are so unique, what they have to say is so unique, they become the most individuated, rare, precious and sacred.
+
+> If you see the watery pale yellow sunlight shining behind dark gray clouds, with the pale blue of heaven shining in between some wintery morning, and you see, in that light, the original light of the universe--- then, you may say, in still different terms, that sometimes, very occasionally, an artist who weaves a carpet, or who shapes a building, or who paints a tile, manages to make something which has this same light in it, where this same Self is shining out ... he has made something as close to a picture of God or Self as it can be, and it affects us, like the light of morning does, because it seems to show us directly to the heart of this self, and connects us with it, almost to the point of pain.
 
 ---
 
