@@ -14,3 +14,4 @@ next: false
 
 - [[new-theory-of-the-body]]
 - [[lyric-philosophy-and-culture]]
+- [[the-varieties-of-religious-experience]]
