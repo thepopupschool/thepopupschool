@@ -412,11 +412,44 @@ The connection between building and religion, Alexander discovers, is not histor
 
 ## Cohort
 
-- [Video Recording: Ontological Design: Christopher Alexander Cohort 1](https://bonnittaroy.substack.com/p/video-recording-ontological-design/comments)
-- [Video Recording Christopher Alexander Cohort 2](https://bonnittaroy.substack.com/p/video-recording-christopher-alexander/comments)
-- [Video Recording: Christopher Alexander Cohort 3](https://bonnittaroy.substack.com/p/video-recording-christopher-alexander-17c/comments)
-- [Video Recording: Christopher Alexander Cohort 4](https://bonnittaroy.substack.com/p/video-recording-christopher-alexander-8d8/comments)
-- [Video Recording- Christopher Alexander Cohort 5](https://bonnittaroy.substack.com/p/video-recording-christopher-alexander-0c4/comments)
+[Video Recording: Ontological Design: Christopher Alexander Cohort 1](https://bonnittaroy.substack.com/p/video-recording-ontological-design/comments)
+
+<iframe src="https://www.youtube-nocookie.com/embed/7sFbC--mtQc" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="100%" height="500"></iframe>
+
+[Video Recording Christopher Alexander Cohort 2](https://bonnittaroy.substack.com/p/video-recording-christopher-alexander/comments)
+
+<iframe src="https://www.youtube-nocookie.com/embed/0V1GM6gTA4s" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="100%" height="500"></iframe>
+
+[Video Recording: Christopher Alexander Cohort 3](https://bonnittaroy.substack.com/p/video-recording-christopher-alexander-17c/comments)
+
+<iframe src="https://www.youtube-nocookie.com/embed/Y6XN8SvaeXY" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="100%" height="500"></iframe>
+
+[Video Recording: Christopher Alexander Cohort 4](https://bonnittaroy.substack.com/p/video-recording-christopher-alexander-8d8/comments)
+
+<iframe src="https://www.youtube-nocookie.com/embed/IsdkKi3B1EE" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="100%" height="500"></iframe>
+
+[Video Recording- Christopher Alexander Cohort 5](https://bonnittaroy.substack.com/p/video-recording-christopher-alexander-0c4/comments)
+
+<iframe src="https://www.youtube-nocookie.com/embed/iltSH5P_x1I" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="100%" height="500"></iframe>
+
+
+## Suggested Reading
+
+Similar to Alexander’s work:
+- Nikos A. Salingaros: Twelve Lectures on Architecture // A Theory of Architecture
+
+Regenerative Design:
+- Daniel Christian Wahl: Designing Regenerative Cultures
+- Mang and Haggard: Regenerative Development and design
+
+Philosophic:
+- Mehaffy and Salingaros: Design for a Living Planet
+- Arne Naess: The Ecology of Wisdom
+
+Interactive- Participatory
+- Young, Haas, McGown: Coyote’s Guide to Connecting with Nature
+- Randolf T. Hester: Design for Ecological Democracy
+
 
 ## Lookup
 
