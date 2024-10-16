@@ -77,8 +77,15 @@ it is a whole new game. The third window not only provides a new way to frame th
 
 ## Cohort
 
-- [Pragmatic Imagination Cohort 1 - by Bonnitta Roy](https://bonnittaroy.substack.com/p/pragmatic-imagination-cohort-1/comments)
-- [Video Recording: Pragmatic Imagination Cohort 2](https://bonnittaroy.substack.com/p/video-recording-pragmatic-imagination/comments)
+[Pragmatic Imagination Cohort 1 - by Bonnitta Roy](https://bonnittaroy.substack.com/p/pragmatic-imagination-cohort-1/comments)
+
+<iframe src="https://www.youtube-nocookie.com/embed/4PwDFddpo4c?mute=1" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="100%" height="500"></iframe>
+
+<iframe src="https://www.youtube-nocookie.com/embed/kCFd6V34OPc" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="100%" height="500"></iframe>
+
+[Video Recording: Pragmatic Imagination Cohort 2](https://bonnittaroy.substack.com/p/video-recording-pragmatic-imagination/comments)
+
+<iframe src="https://www.youtube-nocookie.com/embed/SEFp2f9SJGI" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="100%" height="500"></iframe>
 
 ## Lookup
 
