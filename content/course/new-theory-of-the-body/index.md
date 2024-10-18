@@ -23,6 +23,6 @@ It occurs to me now, that *emergentism* also sets an unbridgeable gap between 
 
 ---
 
-[[course/new-theory-of-the-body/up-hierarchy|Start here]]
+## Start [[course/new-theory-of-the-body/up-hierarchy|here]]
 
 ---
