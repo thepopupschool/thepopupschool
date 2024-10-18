@@ -1,6 +1,6 @@
 ---
 title: POP-ED
-description: "Seeing through the A(I)-pocalypse "
+description: "Opinion pieces on current events on rare occassions"
 date: 2023-07-07
 prev: false
 next: false
