@@ -19,4 +19,4 @@ next: false
 
 [Meeting recording - by Bonnitta Roy - The Pop-Up School](https://bonnittaroy.substack.com/p/meeting-recording)
 
-![[new-theory-of-the-body/origins-of-the-self]]
+![[course/new-theory-of-the-body/origins-of-the-self]]
