@@ -7,11 +7,11 @@ next: false
 
 <img src="/static/logo.png" alt="Logo" />
 
-> [!info] [[why-we-need-a-school-like-this|Why we need a school like this]]
+> [!info] [[seeds/why-we-need-a-school-like-this|Why we need a school like this]]
 
 > [!info] [[seeds|Seeds]]
 
-> [!info] [POP-ED](https://bonnittaroy.substack.com/s/pop-op-ed) 
+> [!info] [[pop-ed]]
 
 # Courses
 
