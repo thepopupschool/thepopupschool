@@ -15,14 +15,14 @@ next: false
 
 # Courses
 
-- [[course/new-theory-of-the-body]]
-- [[course/lyric-philosophy-and-culture]]
-- [[course/the-varieties-of-religious-experience]]
-- [[course/ontological-design-for-back-loop-realities]]
-- [[course/generative-self]]
-- [[course/embodiment]]
-- [[course/indigeneity]]
-- [[course/the-origins-on-the-self]]
+- [[course/new-theory-of-the-body|A new theory of the body]]
+- [[course/lyric-philosophy-and-culture|Lyric Philosophy and Culture]]
+- [[course/the-varieties-of-religious-experience|The Varieties of Religious Experience]]
+- [[course/ontological-design-for-back-loop-realities|Ontological Design for Back Loop Realities]]
+- [[course/generative-self|Generative Self]]
+- [[course/embodiment|Embodiment]]
+- [[course/indigeneity|Indigeneity]]
+- [[course/the-origins-on-the-self|The Origins on the Self]]
 
 
 
