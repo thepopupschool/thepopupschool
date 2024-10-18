@@ -1,8 +1,10 @@
 ---
 title: Lyric Philosophy and Culture
 date: 2023-12-31
+prev: false
 ---
 
-[[ontological-design-for-back-loop-realities/we-are-not-in-kansas-anymore]]
+[[lyric-philosophy-and-culture/we-are-not-in-kansas-anymore]]
+
 
 

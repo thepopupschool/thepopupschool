@@ -2,6 +2,10 @@
 title: "Pragmatic Imagination: Ann Pendleton-Julian & John Seely Brown"
 description: Ontological Design for Back Loop Realities
 date: 2024-10-11
+prev:
+    label: "Christopher Alexander: Generating a Living World "
+    link: christopher-alexander-generating-a-living-world
+next: false
 ---
 
 We ended the last session of the previous course with an exercise:

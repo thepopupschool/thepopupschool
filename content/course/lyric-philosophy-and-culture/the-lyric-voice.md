@@ -2,6 +2,7 @@
 title: "The Lyric Voice"
 description: "Lyrical musings intimating a new culture"
 date: 2024-01-11
+prev: false
 ---
 
 <audio controls>

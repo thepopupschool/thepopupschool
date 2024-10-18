@@ -2,6 +2,12 @@
 title: "Christopher Alexander: Generating a Living World "
 description: Ontological Design for Back Loop Realities
 date: 2024-08-27
+prev:
+    label: "Lyric Culture: Ontological Design for Back Loop Realities"
+    link: /course/lyric-philosophy-and-culture/we-are-not-in-kansas-anymore
+next:
+    label: "Pragmatic Imagination: Ann Pendleton-Julian & John Seely Brown"
+    link: pragmatic-imagination
 ---
 
 <iframe src="https://www.youtube-nocookie.com/embed/o6q1dDAv6zY" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="100%" height="500"></iframe>

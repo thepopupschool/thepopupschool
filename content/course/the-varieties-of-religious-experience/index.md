@@ -2,6 +2,8 @@
 title: "The Varieties of Religious Experience"
 description: ""
 date: 2024-06-12
+prev: false
+next: false
 ---
 
 **This month we will turn toward a fascinating topic — the ways in which people experience God, the Divine, or the Sacred, or have insight into “ultimate reality.”**

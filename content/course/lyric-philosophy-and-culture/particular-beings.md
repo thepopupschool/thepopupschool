@@ -2,6 +2,7 @@
 title: "Lyric Culture- Particular Beings"
 description: "Reality and Subjectivity in the Back Loop"
 date: 2024-05-27
+next: false
 ---
 
 > [!quote] ​
