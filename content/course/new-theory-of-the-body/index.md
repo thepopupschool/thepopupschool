@@ -19,7 +19,7 @@ I realized that the purpose of a new theory of the body--- a purpose aligned wit
 
 It occurs to me now, that *emergentism* also sets an unbridgeable gap between human and the Divine. We need a theory, an understanding, that connects and heals – makes and mends (makes ammends)
 
-> ... putting the mind back into the body and the body back into nature
+> [!tip] ... putting the mind back into the body and the body back into nature
 
 ---
 
