@@ -7,7 +7,8 @@ next: false
 
 <img src="/static/logo.png" alt="Logo" />
 
-> [!info] [[seeds/why-we-need-a-school-like-this|Why we need a school like this]]
+> [!question]
+> **You might wonder [[seeds/why-we-need-a-school-like-this|why we need a school like this?]]**
 
 > [!info] [[seeds|Seeds]]
 
