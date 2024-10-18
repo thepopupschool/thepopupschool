@@ -87,6 +87,10 @@ it is a whole new game. The third window not only provides a new way to frame th
 
 <iframe src="https://www.youtube-nocookie.com/embed/SEFp2f9SJGI" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="100%" height="500"></iframe>
 
+[Video Recording: Pragmatic Imagination Cohort 3](https://bonnittaroy.substack.com/p/video-recording-pragmatic-imagination-105)
+
+<iframe src="https://www.youtube-nocookie.com/embed/MublCioatYM" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="100%" height="500"></iframe>
+
 ## Lookup
 
 - [Pragmatic Imagination: Ann Pendleton-Julian & John Seely Brown (pt 1)](https://bonnittaroy.substack.com/p/pragmatic-imagination-ann-pendleton)
