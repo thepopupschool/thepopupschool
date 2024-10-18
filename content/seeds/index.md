@@ -5,6 +5,8 @@ prev: false
 next: false
 ---
 
+Short essays, informative briefs, timely observations and philosophical reflections for all friends of the POP-UP School
+
 - https://bonnittaroy.substack.com/p/the-agent-in-the-machine
 - https://bonnittaroy.substack.com/p/why-metaphysics-matters-hartshornes
 - https://bonnittaroy.substack.com/p/wild-mind-wild-earth
