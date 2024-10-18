@@ -11,7 +11,7 @@ next: false
 
 > [!info] [[seeds|Seeds]]
 
-> [!info] [[pop-ed]]
+> [!info] [[pop-ed|POP-ED]]
 
 # Courses
 
