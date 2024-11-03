@@ -12,5 +12,5 @@ order: 17
 
 # Origins of the Self Part 3: Individuation Beyond Identity
 
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/=Cg3NFwN3zN4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="1000" src="https://www.youtube.com/embed/Cg3NFwN3zN4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
