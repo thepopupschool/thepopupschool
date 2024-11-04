@@ -12,7 +12,10 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "goatcounter",
+      websiteId: 'stats',
+      host: 'hobl.at',
+      scriptSrc: 'https://stats.hobl.at/count.js'
     },
     locale: "en-US",
     baseUrl: "pop-up-school.surge.sh",
