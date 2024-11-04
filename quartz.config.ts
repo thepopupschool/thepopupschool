@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       provider: "goatcounter",
       websiteId: 'stats',
       host: 'thepopupschool.org',
-      scriptSrc: 'https://stats.hobl.at/count.js'
+      scriptSrc: 'https://stats.thepopupschool.org/count.js'
     },
     locale: "en-US",
     baseUrl: "pop-up-school.surge.sh",

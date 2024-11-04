@@ -122,10 +122,6 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
     `)
   } else if (cfg.analytics?.provider === "goatcounter") {
     componentResources.afterDOMLoaded.push(`
-      const goatcounterPreScript = document.createElement("script")
-      goatcounterPreScript.textContent = "window.goatcounter = { path: function(p) { return location.host + p } }"
-      document.head.appendChild(goatcounterPreScript)
-
       const goatcounterScript = document.createElement("script")
       goatcounterScript.src = "${cfg.analytics.scriptSrc ?? "https://gc.zgo.at/count.js"}"
       goatcounterScript.async = true
