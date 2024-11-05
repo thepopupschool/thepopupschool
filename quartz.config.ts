@@ -18,7 +18,7 @@ const config: QuartzConfig = {
       scriptSrc: 'https://stats.thepopupschool.org/count.js'
     },
     locale: "en-US",
-    baseUrl: "pop-up-school.surge.sh",
+    baseUrl: "thepopupschool.org",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
