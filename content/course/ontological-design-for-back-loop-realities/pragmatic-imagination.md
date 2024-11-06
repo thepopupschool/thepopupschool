@@ -78,24 +78,40 @@ An historical era is said to be "prefigured" when the seeds of what will emerge 
 > In thinking from the perspective of material, social, and mental ecologies,\
 it is a whole new game. The third window not only provides a new way to frame the world, but also a new role for the imagination--- an imagination engangled with action and put to purpose.
 
+## Six Principles
 
-## Cohort
+At the end of their work, the authors Ann Pendleton-Julian and John Seeley Brown (APJ-JSB) identify six principles for pragmatic imagination:
 
-[Pragmatic Imagination Cohort 1 - by Bonnitta Roy](https://bonnittaroy.substack.com/p/pragmatic-imagination-cohort-1/comments)
+**1. The imagination serves diverse cognitive processes as an entire spectrum of activity. (This is not a polarization of reasoning versus imagination.)**
 
-<iframe src="https://www.youtube-nocookie.com/embed/4PwDFddpo4c?mute=1" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="100%" height="500"></iframe>
+**2. There is always a gap between what we actually experience and the cultural lens through which we interpret that experience. Imagination helps resolve the gap, but the gap must first be revealed for what it is — a mistmatch between reality and conventional sensemaking norms.**
 
-<iframe src="https://www.youtube-nocookie.com/embed/kCFd6V34OPc" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="100%" height="500"></iframe>
+> Somewhere at the edge of abductive reasoning where it blends into the domain of the speculative imagination, the imagination’s functioning shifts from sense-making to sense-breaking in order to generate novel content for consideration. It widens the gap to disrupt normative thought processes and practices. It is then also employed alongside reasoning to close the widened gap so that novel content can be assimilated.
 
-[Video Recording: Pragmatic Imagination Cohort 2](https://bonnittaroy.substack.com/p/video-recording-pragmatic-imagination/comments)
+**3. The Pragmatic Imagination pro-actively imagines the actual in light of meaningful purposeful possibilities and sees the opportunity in everything.**
 
-<iframe src="https://www.youtube-nocookie.com/embed/SEFp2f9SJGI" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="100%" height="500"></iframe>
+> The actual must always be seen in light of the possible.
 
-[Video Recording: Pragmatic Imagination Cohort 3](https://bonnittaroy.substack.com/p/video-recording-pragmatic-imagination-105)
+**4. The Pragmatic Imagination sees thought and action as indivisible and reciprocal. Therefore it is a part of all cognitive activity that serves thought and action for anticipating, and thought and action for follow-through. And the generative/poietic/sometimes-disruptive side of the spectrum is especially critical in a world that requires radically new visions and actions.**
 
-<iframe src="https://www.youtube-nocookie.com/embed/MublCioatYM" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="100%" height="500"></iframe>
+> The imagination must be instrumentalized to turn ideas into action.
 
-## Lookup
+**5. The imagination must be instrumentalized to turn ideas into action— the entire spectrum of the imagination especially the generative/poietic/sometimes-disruptive side.**
 
-- [Pragmatic Imagination: Ann Pendleton-Julian & John Seely Brown (pt 1)](https://bonnittaroy.substack.com/p/pragmatic-imagination-ann-pendleton)
+**6. Because the imagination is not under conscious control, we need to understand, find, and design ways to set it in motion and scaffold it throughout meaningful activity.**
+
+## Cohorts
+
+> [!info] Note that access requires a paid membership.
+
+- [Cohort 1](https://bonnittaroy.substack.com/p/pragmatic-imagination-cohort-1)
+- [Cohort 2](https://bonnittaroy.substack.com/p/video-recording-pragmatic-imagination)
+- [Cohort 3](https://bonnittaroy.substack.com/p/video-recording-pragmatic-imagination-105)
+- [Cohort 4](https://bonnittaroy.substack.com/p/video-recording-pragmatic-imagination-1c8)
+- [Cohort 5](https://bonnittaroy.substack.com/p/video-recording-pragmatic-imagination-b3f)
+
+## Further Resources
+
+- [Original Content Material Part 1](https://bonnittaroy.substack.com/p/pragmatic-imagination-ann-pendleton)
+- [Original Content Material Part 2](https://bonnittaroy.substack.com/p/pragmatic-imagination-pt-2-the-six)
 

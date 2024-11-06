@@ -5,7 +5,7 @@ date: 2023-10-05
 order: 15
 ---
 
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/U93x9AWeuOA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/U93x9AWeuOA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 In the video above, Michael Levin tries to draw strong parallels between individual and collective intelligence. I am trying to understand the intuitive distinction between the compound individual and the collective society of compound individuals. I have been arguing that the terms specified by process relational philosophy: *internal *and *external* relations, can help us proceed with more clarity.
 
@@ -116,27 +116,19 @@ In her essay *What is Lyric Philosophy*, she presents 61 bare bones, the first 
 9. Resonance is a form of clarity
 10. Philosophy is thinking in love with clarity.
 
-## Lookup
 
-- https://bonnittaroy.substack.com/p/origins-of-culture-collective-consciousness
+## Further Resources
 
+- [Original Content Material](https://bonnittaroy.substack.com/p/origins-of-culture-collective-consciousness)
 
 ## Cohorts
 
-https://bonnittaroy.substack.com/p/video-recording-collective-culture/comments
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/S-efrS-ZINM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+> [!info] Note that access requires a paid membership.
 
-https://bonnittaroy.substack.com/p/video-recording-culture-cohort-2/comments
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/NoL38vkas_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-https://bonnittaroy.substack.com/p/video-recording-culture-cohort-3/comments
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/nTPLgoH2JYw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-https://bonnittaroy.substack.com/p/video-recording-culture-cohorts-4/comments
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/yVChiHOI5cc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-The following recording was stopped at the breakout, but it ended early.
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/O0lBxcTjujw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+- [Cohort 1](https://bonnittaroy.substack.com/p/video-recording-collective-culture)
+- [Cohort 2](https://bonnittaroy.substack.com/p/video-recording-culture-cohort-2)
+- [Cohort 3](https://bonnittaroy.substack.com/p/video-recording-culture-cohort-3)
+- [Cohorts 4,5](https://bonnittaroy.substack.com/p/video-recording-culture-cohorts-4)
 
 
 [^1]: I will be introducing Lyric Culture in a new SEEDS essay series early next year. Also, the first [2024 retreat at Sky Meadow](https://www.eventcreate.com/e/pop-upschoolretreatseries) will include reflections on Lyric Philosophy.

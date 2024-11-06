@@ -123,21 +123,15 @@ In this module, we will practice using language as action-protocols, which is a 
 
 [Exercise on "Climate Change, Existential Risk, Meaning Crisis, Sensemaking Crisis, Enlightenment, Waking Up, Meta-Crisis, Systemic Racism, Transgender/ Gender Dysphoria]
 
-## Lookup
+## Further Resources
 
-- https://bonnittaroy.substack.com/p/representational-thinking-narrative/comments
-
+- [Original Content Material](https://bonnittaroy.substack.com/p/representational-thinking-narrative/comments)
 
 ## Cohorts
 
+> [!info] Note that access requires a paid membership.
 
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/h5YmLGK57b8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/wAU1Q4T-RPU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/vcpX5lkC80A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-https://bonnittaroy.substack.com/p/video-recordings-representational/
-
----
+- [Cohorts 1,2,3](https://bonnittaroy.substack.com/p/video-recordings-representational/)
 
 [^1]: According to their results, the average three-year-old test taker knows just over 3,000 words. The average four-year-old test taker knows over 4,000 words. The average eight-year-old test taker knows over 11,000 words. The average forty-year-old, by contrast, knows about 30,000 words
 
@@ -153,8 +147,9 @@ https://bonnittaroy.substack.com/p/video-recordings-representational/
 
 [^7]: Although the yin-yang symbol has been popularized as the symbolic core of Daoism, in reality the trigrams play more of a central part, because the one, which becomes the two (yin-yang) automatically gives rise to the third (ten thousand things). It is also not trivial to note, that since the axial age irruption of the Mental structure of consciousness, with Plato's Ideals, stories took on a dualistic structure based on ultimate contrasts. This in turn predetermines the Hegelian synthetic structure of rationality. See especially Alfonso Verdu: *Dialectial Aspects in Bhuddist Thoughts for the evolution of Daoist metaphysics ex:*
 
-    ![](../../../assets/images/yin-yan-trigram.png)
+    ![](../../images/yin-yan-trigram.png)
 
 [^8]: If you ever wonder about how paticle physics works, based on the triple: fundamental particles, fundamental forces, and fundamental interactions, and why this simple model can explain the entire universe, then you understand how elemental triples are, and that while they are formed in the mind, they arise in interaction with the world, as world. See
 
-    <iframe width="100%" height="1000" src="https://www.youtube.com/embed/TDYex6VSd7o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe width="100%" height="300" src="https://www.youtube.com/embed/TDYex6VSd7o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+

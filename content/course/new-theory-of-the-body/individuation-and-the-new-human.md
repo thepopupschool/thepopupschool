@@ -16,7 +16,7 @@ Individuation is a process of becoming whole. If you reflect on how compartmenta
 
 When I taught the MA in Consciousness Studies and Transpersonal Psychology, I used to show the following clip from the movie *Guess Who's COming for Dinner*. It tells the story of a black man and white woman who want to marry meeting each other's parents. The clip begins with Sidney Poitier's character arguing with his father, because his father doesn't approve of bi-racial marriage.
 
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/LTgahyvBMk4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/LTgahyvBMk4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **What do you see ?**
 
@@ -39,7 +39,7 @@ This has little to do with "progress" as modern people think of it. It has to do
 There is something in the Zeitgeist of modern humans that wants to transform into ... some thing else. Here is one techno-future option that is being pushed by many powerful tech giants, and being pursued by many others.
 
 
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/qnk9ovzMLy8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/qnk9ovzMLy8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
@@ -49,40 +49,17 @@ This is not a problem of "who am I becoming?" but a question of "who are we beco
 
 **What do you see?**
 
-## Lookup
+## Further Resources
 
-- https://bonnittaroy.substack.com/p/individuation-and-the-new-human-pt2
-
+- [Original Content Material](https://bonnittaroy.substack.com/p/individuation-and-the-new-human-pt2)
 
 ## Cohorts
 
-https://bonnittaroy.substack.com/p/video-recording-the-new-human-cohort/comments
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/cB9Q8hLmuzc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+> [!info] Note that access requires a paid membership.
 
-https://bonnittaroy.substack.com/p/video-recording-the-new-human-cohort-9ab/comments
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/3ntjhlWnits" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-https://bonnittaroy.substack.com/p/video-recording-the-new-human-cohort-552/comments?utm_source=profile&utm_medium=reader2
-
-Unfortunately, I forgot to record the session after the breakout; then David and Phoebe came in at the end (mistaking the starting time) and we recorded a short discussion with them. I have written some "show notes" for what we talked about after the breakout
-
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/mk_0at0wMDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-Some notes of what we talked about:
-
-- People realized that all four "future zones" are actually happening now and at the same time.
-- There was a need to define what "conscious evolution" means, whether, for example, that means transcendence of the human condition or a more deeply rooted relationship with the body and nature.
-- Zone 1 (accelerated tech and regressed conscoiusness) was the least attractive scenario, leading to the world in the film "The Matrix"
-- An evolved consciousness would build different kinds of technologies, use them for different puposes and ends, and probably design them at human scale
-- There are two possibilities from a "pragmatic optimist" perspective --- either consciousness leaps ahead and creates a "fifth attractor" for others to follow, or technological acceleration will burn itself out, along with burning out our current consciousness, forcing a new mind to emerge
-- All species will overshoot their environment if nothing pushes them back. In healthy, natural ecosystems, other species and forces maintain a balance. There are cyclical population explosions and collapses, due to predation, drought, and certain pathogens that cycle through populations when they get too dense (ex: bats). Humans may be "pushed back" by the very forces of nature, and by the very future we most fear. This means that the balance we need the most may require the (short term) future we fear the most.
-- Either people are nature and nature is self-terminating; or people are nature and nature is not self-terminating; or people are not nature, and represent a terminal threat to nature
-
-https://bonnittaroy.substack.com/p/video-recording-the-new-human-cohort-f35/comments
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/OJhtukXa04Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-https://bonnittaroy.substack.com/p/video-recording-the-new-human-cohort-771/comments
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/DIoF4wUeN0Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-https://bonnittaroy.substack.com/p/season-finale-video-recording-the/comments
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/KMIqGRBOI78" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+- [Cohort 1](https://bonnittaroy.substack.com/p/video-recording-the-new-human-cohort)
+- [Cohort 2](https://bonnittaroy.substack.com/p/video-recording-the-new-human-cohort-9ab)
+- [Cohort 3](https://bonnittaroy.substack.com/p/video-recording-the-new-human-cohort-552)
+- [Cohort 4](https://bonnittaroy.substack.com/p/video-recording-the-new-human-cohort-f35)
+- [Cohort 5](https://bonnittaroy.substack.com/p/video-recording-the-new-human-cohort-771)
+- [Cohort 6](https://bonnittaroy.substack.com/p/season-finale-video-recording-the)

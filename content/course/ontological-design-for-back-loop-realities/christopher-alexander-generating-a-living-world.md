@@ -404,44 +404,6 @@ The connection between building and religion, Alexander discovers, is not histor
 
 > If you see the watery pale yellow sunlight shining behind dark gray clouds, with the pale blue of heaven shining in between some wintery morning, and you see, in that light, the original light of the universe--- then, you may say, in still different terms, that sometimes, very occasionally, an artist who weaves a carpet, or who shapes a building, or who paints a tile, manages to make something which has this same light in it, where this same Self is shining out ... he has made something as close to a picture of God or Self as it can be, and it affects us, like the light of morning does, because it seems to show us directly to the heart of this self, and connects us with it, almost to the point of pain.
 
----
-
-[^1]: Jenny Quillien, Pam Rostal and Dave West
-
-[^2]: There is an interesting confluence here between the pattern-recognition AI and large language modles, and the engineering mindset to pattern languages. I would love to dive into this thought, but it is beyond the scope of this article. Maybe another day.
-
-[^3]: An Essay on the Art of Building and the Nature of the Universe
-
-[^4]: Ronen has compiled a great way to access all the four books by reading excerpts here https://iamronen.com/quality/christopher-alexander-the-nature-of-order/
-
-[^5]: Here is a wonderful example of the exercise https://iamronen.com/blog/2018/01/23/drawing-centers/
-
-## Cohort
-
-[Video Recording: Ontological Design: Christopher Alexander Cohort 1](https://bonnittaroy.substack.com/p/video-recording-ontological-design/comments)
-
-<iframe src="https://www.youtube-nocookie.com/embed/7sFbC--mtQc" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="100%" height="500"></iframe>
-
-[Video Recording Christopher Alexander Cohort 2](https://bonnittaroy.substack.com/p/video-recording-christopher-alexander/comments)
-
-<iframe src="https://www.youtube-nocookie.com/embed/0V1GM6gTA4s" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="100%" height="500"></iframe>
-
-[Video Recording: Christopher Alexander Cohort 3](https://bonnittaroy.substack.com/p/video-recording-christopher-alexander-17c/comments)
-
-<iframe src="https://www.youtube-nocookie.com/embed/Y6XN8SvaeXY" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="100%" height="500"></iframe>
-
-[Video Recording: Christopher Alexander Cohort 4](https://bonnittaroy.substack.com/p/video-recording-christopher-alexander-8d8/comments)
-
-<iframe src="https://www.youtube-nocookie.com/embed/IsdkKi3B1EE" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="100%" height="500"></iframe>
-
-[Video Recording- Christopher Alexander Cohort 5](https://bonnittaroy.substack.com/p/video-recording-christopher-alexander-0c4/comments)
-
-<iframe src="https://www.youtube-nocookie.com/embed/iltSH5P_x1I" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="100%" height="500"></iframe>
-
-## Bonus Material
-
-<iframe src="https://www.youtube-nocookie.com/embed/FptmjWzj6Vw" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="100%" height="500"></iframe>
-
 ## Suggested Reading
 
 Similar to Alexander’s work:
@@ -459,10 +421,32 @@ Interactive- Participatory
 - Young, Haas, McGown: Coyote’s Guide to Connecting with Nature
 - Randolf T. Hester: Design for Ecological Democracy
 
+## Bonus Material
 
-## Lookup
+<iframe src="https://www.youtube-nocookie.com/embed/FptmjWzj6Vw" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="100%" height="500"></iframe>
 
-- [Christopher Alexander: Generating a Living World (pt1)](https://bonnittaroy.substack.com/p/christopher-alexander-generating)
-- [Christopher Alexander: Generating a Living World (pt 2)](https://bonnittaroy.substack.com/p/christopher-alexander-generating-4eb)
+## Cohorts
 
+> [!info] Note that access requires a paid membership.
+
+- [Cohort 1](https://bonnittaroy.substack.com/p/video-recording-ontological-design)
+- [Cohort 2](https://bonnittaroy.substack.com/p/video-recording-christopher-alexander)
+- [Cohort 3](https://bonnittaroy.substack.com/p/video-recording-christopher-alexander-17c)
+- [Cohort 4](https://bonnittaroy.substack.com/p/video-recording-christopher-alexander-8d8)
+- [Cohort 5](https://bonnittaroy.substack.com/p/video-recording-christopher-alexander-0c4)
+
+## Further Resources
+
+- [Original Content Material Part 1](https://bonnittaroy.substack.com/p/christopher-alexander-generating)
+- [Original Content Material Part 2](https://bonnittaroy.substack.com/p/christopher-alexander-generating-4eb)
+
+[^1]: Jenny Quillien, Pam Rostal and Dave West
+
+[^2]: There is an interesting confluence here between the pattern-recognition AI and large language modles, and the engineering mindset to pattern languages. I would love to dive into this thought, but it is beyond the scope of this article. Maybe another day.
+
+[^3]: An Essay on the Art of Building and the Nature of the Universe
+
+[^4]: Ronen has compiled a great way to access all the four books by reading excerpts here https://iamronen.com/quality/christopher-alexander-the-nature-of-order/
+
+[^5]: Here is a wonderful example of the exercise https://iamronen.com/blog/2018/01/23/drawing-centers/
 

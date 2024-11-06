@@ -81,40 +81,10 @@ The question I will pose next week is
 
 Looking forward to launching this course. Much of our time will be sharing our own experiences in break-out groups, based on prompts. Will be super interesting, and fun.
 
-## Cohort
+## Further Resources
 
-[Video Recording - Varieties of Religious Experience & Pure Awareness Cohort 1](https://bonnittaroy.substack.com/p/video-recording-varieties-of-religious/comments)
-
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/h93ONTI612U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-[Video Recording- Varieties of Religious Experience & Pure Awareness](https://bonnittaroy.substack.com/p/video-recording-varieties-of-religious-fe6/comments)
-
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/i4PqwHCzQ4o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-[Video Recording - Varieties of Religious Experience & Pure Awareness Cohort 3](https://bonnittaroy.substack.com/p/video-recording-varieties-of-religious-c61/comments)
-
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/uuC-DZ43pzc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-[Video Recording - Varieties of Religious Experience & Pure Awareness Cohort 4](https://bonnittaroy.substack.com/p/video-recording-varieties-of-religious-64f/comments)
-
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/tqYZ-xl3Z0o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-In the video David references the Heiti book and what he writes about Simon Weil and attention. Today I read this in the same book where he sets up a “conversation” between Zwicky and Sue Sinclair.
-
-> Sue Sinclair: James Joyce, in an early draft of Portrait of the Artist as a Young Man, describes the epiphany before an object as a moment in which “its soul, its whatness, leaps to us from the vestment of its appearance. The soul of the commonest object … seems to us radiant. It seems to me that it’s impossible to think of a radiant, soulful object as … standing reserve, as something that exists only for me to make use of as I will. I can’t clearcut an acre of forest in which I recognize its whatness, its radiance.
-
-> [!note] ​
-> But is is true?
-> For as long as literature has witnessed the radiance of things,
-> we have been wrecking it.
-
-[Video Recording - Varieties of Religious Experience & Pure Awareness Final](https://bonnittaroy.substack.com/p/video-recording-varieties-of-religious-d91/comments)
-
-We concluded by talking about mystics…
-
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/dIQFfdPCbmw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-And here is the poem I referenced at the end
+- [Original Content Material](https://bonnittaroy.substack.com/p/the-varieites-of-religious-experience)
+- [Original Content Material](https://bonnittaroy.substack.com/p/varieties-of-religious-experience)
 
 > The mystic's toes \
 > Are naked \
@@ -132,13 +102,15 @@ And here is the poem I referenced at the end
 > The nails \
 > groomed to perfection \
 
-## Lookup
+## Cohorts
 
-[The Varieites of Religious Experience - by Bonnitta Roy](https://bonnittaroy.substack.com/p/the-varieites-of-religious-experience)
+> [!info] Note that access requires a paid membership.
 
-[Varieties of Religious Experience X Pure Awareness - Course Content (pt 1)](https://bonnittaroy.substack.com/p/varieties-of-religious-experience)
-
----
+- [Cohort 1](https://bonnittaroy.substack.com/p/video-recording-varieties-of-religious)
+- [Cohort 2](https://bonnittaroy.substack.com/p/video-recording-varieties-of-religious-fe6)
+- [Cohort 3](https://bonnittaroy.substack.com/p/video-recording-varieties-of-religious-c61)
+- [Cohort 4](https://bonnittaroy.substack.com/p/video-recording-varieties-of-religious-64f)
+- [Cohort 5](https://bonnittaroy.substack.com/p/video-recording-varieties-of-religious-d91)
 
 [^1]: Quoted in William James' *Varieties of Religious Experience*
 

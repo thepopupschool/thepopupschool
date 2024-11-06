@@ -5,35 +5,14 @@ date: 2023-07-22
 order: 13
 ---
 
+> [!info] Note that access requires a paid membership.
 
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/gTXGIOjS3Tw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+- [Cohort 1](https://bonnittaroy.substack.com/p/video-recording-2023-course-recap)
+- [Cohort 2](https://bonnittaroy.substack.com/p/video-recording-recap-cohort-2/)
+- [Cohorts 3,4](https://bonnittaroy.substack.com/p/video-recordings-recap-cohorts-3/)
+- [Cohort 5](https://bonnittaroy.substack.com/p/video-recording-recap-cohort-5/)
+- [Cohort 6](https://bonnittaroy.substack.com/p/video-recording-recap-session-finale/)
 
-https://bonnittaroy.substack.com/p/video-recording-2023-course-recap
+## Further Resources
 
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/O4_aqyfeDE4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-https://bonnittaroy.substack.com/p/video-recording-recap-cohort-2/
-
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/BYlZacha9dU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/dYWRTfAeIoQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-https://bonnittaroy.substack.com/p/video-recordings-recap-cohorts-3/
-
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/0K6YbNAS7VQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-In which we reflect on the past, and prepare for the future.
-Wide ranging, like herding cats.
-
-https://bonnittaroy.substack.com/p/video-recording-recap-cohort-5/
-
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/aea3oKTh2o0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-In which we ponder what can scale .. and the moral animal
-
-
-https://bonnittaroy.substack.com/p/video-recording-recap-session-finale/
-
-## Lookup
-
-- https://bonnittaroy.substack.com/p/recap-sessions-note-new-link
 - https://samchaltain.substack.com/p/wanted-a-new-lexicon-for-humanity

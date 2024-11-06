@@ -1,7 +1,7 @@
 ---
 title: Imagination & Syn(ae)sthesia
 description: Putting the mind back into the body and the body back into nature
-date: 2023-03-03
+date: 2023-04-03
 order: 9
 ---
 
@@ -106,31 +106,21 @@ So to the wretched writer I should like to say that there's one body only whose 
 
 One of the most common and primal versions of syn*ae*sthesia is how musical chords come to be felt as emotions. See for example
 
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/ZJDDwB7aZ3U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/EWHpdmDHrn8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/ZJDDwB7aZ3U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/EWHpdmDHrn8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Lookup
+## Further Resources
 
-- https://bonnittaroy.substack.com/p/imagination-and-synaesthesia-course/comments
+- [Original Content Material](https://bonnittaroy.substack.com/p/imagination-and-synaesthesia-course/comments)
+- [Reality Thresholds](https://youtu.be/Bjg1ZFxK52Y?si=WBq-A4leKyzfViII) 
 
 ## Cohorts
 
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/cLK9ZBJD654" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/EoNqA8z8i8k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+> [!info] Note that access requires a paid membership.
 
-https://bonnittaroy.substack.com/p/imagination-video-recordings/
-
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/8clpit6_nMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/aQ7CciPu9zQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-https://bonnittaroy.substack.com/p/imagination-cohorts-3-and-4-video/
-
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/eeRf33WkRGQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/OVQy0Vti-rs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-https://bonnittaroy.substack.com/p/imagination-cohorts-5-6-video-recording/
-
----
+- [Cohort 1,2](https://bonnittaroy.substack.com/p/imagination-video-recordings/)
+- [Cohort 3,4](https://bonnittaroy.substack.com/p/imagination-cohorts-3-and-4-video/)
+- [Cohort 5,6](https://bonnittaroy.substack.com/p/imagination-cohorts-5-6-video-recording/)
 
 [^1]: It is interesting to note that what colors are associated with which letters, numbers, months or days varys wisely across synesthetes. For a fascinating example, see Daniel Tammet, the man who could recount pi to 22,000 numerals, by painting a landscape in his mind
 
@@ -138,7 +128,7 @@ https://bonnittaroy.substack.com/p/imagination-cohorts-5-6-video-recording/
 
     See
 
-    <iframe width="100%" height="1000" src="https://www.youtube.com/embed/X3AlKU7dfOM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe width="100%" height="300" src="https://www.youtube.com/embed/X3AlKU7dfOM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [^2]: As you may remember, the dialectic-synthetic is an *upward* path that starts with thesis, antithesis, and resolves them into a higher, more complex, synthetic whole. This new term, functions as a new thesis, which must face its own antithesis. Ad infinitum.
 

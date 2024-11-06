@@ -119,24 +119,17 @@ If there is anger wanting to be acknowledged, you might explore what play or mas
 
 One final piece of this pie is the relationship between all of this and action protocols. The practice here is to build a system of robust action protocols that, when a specific affect stream is called forth, moves the energy in an up-hierarhcy, from affect-laden drives toward clarity of perception in the external habitat (what is *actually happening here, what is actually the case*) and keep that flowing toward actionable choices (or real actions taken) that will satisfy the arousal state. *Only then* the information in the experience is updated in the memory stack (it actually happens overnight in sleep phases, when working current memory processes are downloaded from hippocampal areas in the mid brain to deeper, episodic memory stacks in the lower brain, essentially completing the descending "global updating" of the sensemaking up-hierarhcy). We will develop this more as we move on to perception and memory in the next modules.
 
+## Further Resources
 
-## Lookup
-
-- https://bonnittaroy.substack.com/p/affect-and-emotion-and-disposition/comments
+- [Original Content Material](https://bonnittaroy.substack.com/p/affect-and-emotion-and-disposition/comments)
 
 ## Cohorts
 
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/33YvVHwZJuQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-https://bonnittaroy.substack.com/p/affect-recordings-first-4-cohorts
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/2RPZQNvuieE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/7PRviHWERMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/xE5TewNlWSk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/eQnNs8xAmHU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-https://bonnittaroy.substack.com/p/affect-cohort-5-recording/
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/JN8kkrptU88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-https://bonnittaroy.substack.com/p/affect-cohort-6-recording/
+> [!info] Note that access requires a paid membership.
 
----
+- [Cohorts 1,2,3,4](https://bonnittaroy.substack.com/p/affect-recordings-first-4-cohorts) 
+- [Cohort 5](https://bonnittaroy.substack.com/p/affect-cohort-5-recording/) 
+- [Cohort 5](https://bonnittaroy.substack.com/p/affect-cohort-6-recording/) 
 
 [^1]: From Wikipedia: Vagal tone is activity of the [vagus nerve](https://en.wikipedia.org/wiki/Vagus_nerve), the 10th [cranial nerve](https://en.wikipedia.org/wiki/Cranial_nerve) and a fundamental component of the [parasympathetic](https://en.wikipedia.org/wiki/Parasympathetic_nervous_system) branch of the [autonomic nervous system](https://en.wikipedia.org/wiki/Autonomic_nervous_system). This branch of the nervous system is not under conscious control and is largely responsible for the regulation of several body compartments at rest. Vagal activity results in various effects, including: [heart rate](https://en.wikipedia.org/wiki/Heart_rate) reduction, [vasodilation/constriction](https://en.wikipedia.org/wiki/Vasodilation) of [vessels](https://en.wikipedia.org/wiki/Blood_vessel), glandular activity in the [heart](https://en.wikipedia.org/wiki/Heart), [lungs](https://en.wikipedia.org/wiki/Lung), and [digestive tract](https://en.wikipedia.org/wiki/Gastrointestinal_tract), liver, immune system regulation as well as control of gastrointestinal sensitivity, motility and inflammation.
 

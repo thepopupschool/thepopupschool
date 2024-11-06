@@ -47,31 +47,16 @@ Echoing Zwicky's quote above, I would like to say "Sensitivity to integrity, hon
 
 That is a question I'd love to explore.**
 
-## Cohort
+## Cohorts
 
+> [!info] Note that access requires a paid membership.
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/hMCVVmolB7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+- [Cohort 1](https://bonnittaroy.substack.com/p/video-recording-lyric-thought-integirty/comments)
+- [Cohort 2,3,4](https://bonnittaroy.substack.com/p/video-recordings-lyric-thought-integrity/comments)
+- [Cohorts 5,6](https://bonnittaroy.substack.com/p/video-recording-lyric-thought-integrity/comments)
 
-https://bonnittaroy.substack.com/p/video-recording-lyric-thought-integirty/comments
+## Further Resources
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/o8Vz7aw22kY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/WtxEPPSfwIc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/8n-rxKBun7I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-https://bonnittaroy.substack.com/p/video-recordings-lyric-thought-integrity/comments
-
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/BQQ8vp8CI5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/2qSrnw2aY-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-https://bonnittaroy.substack.com/p/video-recording-lyric-thought-integrity/comments
-
-## Lookup
-
-- https://bonnittaroy.substack.com/p/on-lyric-thought-integrity
-
----
+- [Original Content Material](https://bonnittaroy.substack.com/p/on-lyric-thought-integrity)
 
 [^1]: While I was writing this I had a quick exchange with my colleagues at Endemic. Zach surmizes that computation is text at a distance. At each step the message has greater "reach" but sacrifices intimacy (depth effect). I ask, *What kind of animal might not have to sacrifice intimacy/* *depth for reach*? In original, occult terminology, [Egregores](https://en.wikipedia.org/wiki/Egregore) were construed to be independent entities (not collective swarms) such as [angelic watchers](https://en.wikipedia.org/wiki/Watcher_(angel)). This concept would satisfy the conditions I posed.

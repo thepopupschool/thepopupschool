@@ -11,9 +11,9 @@ It is not possible to consider morality outside of understanding human culture. 
 
 The Greek worldview that we moderns have inherited, which tried to isolate moral virtues such as "courage," "eros," and "agape" --- established a transcendental realm that opened up a rupture between mind and earth, human and nature. But for Paleolithic man, togetherness and kinship were the primary qualities of culture, and this extended into the natural world and non-human beings. We talked about this in our course on the origins of *human culture* --- that at some point in history, people stopped telling the story of themselves as part of a story of the universe, and started tracing their origins to founding human ancestors, often associated with territorial claims.
 
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/8tIdCsMufIY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/8tIdCsMufIY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/ymI5Uv5cGU4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/ymI5Uv5cGU4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 The term *Moral Animal*, then is meant to remind us of what David Hinton calls the primordial ethics, of kindship and togetherness that constitutes the "single tissue" that we share with all planetary beginnings, beings, and becomings. Hinton echoes Whitehead's notions of external and internal relations when he writes "we inhabit this tissue, and this tissue inhabits us."
 
@@ -51,26 +51,17 @@ As I wrote in the Prelude for the Before Socrates Series:
 
 *A thing is right when it tends to preserve the integrity, stability, and beauty of the biotic community. It is wrong when it tends otherwise.*
 
-## Lookup
+## Further Resources
 
-- https://bonnittaroy.substack.com/p/the-moral-animal-course-content
+- [Original Content Material](https://bonnittaroy.substack.com/p/the-moral-animal-course-content)
 
 ## Cohorts
 
-https://bonnittaroy.substack.com/p/video-recording-the-moral-animal/comments
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/GQjRrajFMd0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+> [!info] Note that access requires a paid membership.
 
-https://bonnittaroy.substack.com/p/video-recording-moral-animal-cohort/comments
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/1wRTyJZEhLQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-https://bonnittaroy.substack.com/p/video-recording-the-moral-animal-722/comments
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/8BxX2ovB6X0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-https://bonnittaroy.substack.com/p/video-recording-the-moral-animal-c99/comments
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/lRm3YC_hzeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-https://bonnittaroy.substack.com/p/video-recording-the-moral-animal-10a/comments
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/wPs6D9Qf5uU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-https://bonnittaroy.substack.com/p/video-recording-the-moral-animal-c8c/comments
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/Uq8oCfiWNI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+- [Cohort 1](https://bonnittaroy.substack.com/p/video-recording-the-moral-animal)
+- [Cohort 2](https://bonnittaroy.substack.com/p/video-recording-moral-animal-cohort)
+- [Cohort 3](https://bonnittaroy.substack.com/p/video-recording-the-moral-animal-722)
+- [Cohort 4](https://bonnittaroy.substack.com/p/video-recording-the-moral-animal-c99)
+- [Cohort 5](https://bonnittaroy.substack.com/p/video-recording-the-moral-animal-10a)
+- [Cohort 6](https://bonnittaroy.substack.com/p/video-recording-the-moral-animal-c8c)

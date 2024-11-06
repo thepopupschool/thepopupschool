@@ -24,6 +24,6 @@ I want to pair this with a long passage from Harry Hunt's *On the Nature of Con
 >
 > – William James
 
-## Lookup
+## Further Resources
 
-- https://bonnittaroy.substack.com/p/on-flux-and-flow/comments
+- [Original Content Material](https://bonnittaroy.substack.com/p/on-flux-and-flow/comments)

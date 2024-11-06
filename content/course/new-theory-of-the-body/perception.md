@@ -2,6 +2,9 @@
 title: On Perception
 date: 2023-02-04
 order: 6
+next:
+    label: "Memory"
+    link: memory
 ---
 
 > The theory of the body is already a theory of perception.
@@ -174,40 +177,24 @@ A new theory of the body would incorporate an ecological theory of perception an
 
 "The starting point is precisely the ordinary type of conceptuality and direct perception one now has."
 
+## Further Resources
 
-## Lookup
-
-- https://bonnittaroy.substack.com/p/on-perception/comments
+- [Original Content Material](https://bonnittaroy.substack.com/p/on-perception/comments)
+- https://thesideview.co/journal/cognition-in-the-wild/
 - links shared in the comments
     - [From Evan Thompson... on consciousness : "I wouldn't say that consciousness is separate from nature, but we need a new theory of nature to account for that." (He's working our project from the reverse direction. Maybe we'll meet in the middle."](https://www.youtube.com/watch?v=9ejW63jqP4U&t=2904s)
     - https://en.wikipedia.org/wiki/Troxler's_fading
 
+![[perceptual-density]]
+![[organs-of-perception]]
+
 ## Cohorts
 
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/pWY9x6xoqN8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+> [!info] Note that access requires a paid membership.
 
-https://bonnittaroy.substack.com/p/video-recording-perception-cohort/
-
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/nWRraC9W8cU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-https://bonnittaroy.substack.com/p/video-recordings-perception-cohorts/
-
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/n-N8X0XA_RU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/Ng-oZKjkCDc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/nyDOnHDkOvg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-https://bonnittaroy.substack.com/p/video-recording-perception-cohort-28b/
-
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/cBrYk0cxMA4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-https://bonnittaroy.substack.com/p/affect-cohort-6-recording/
-
-## Resources
-
-- https://thesideview.co/journal/cognition-in-the-wild/
-
----
+- [Cohort 1](https://bonnittaroy.substack.com/p/video-recording-perception-cohort/)
+- [Cohort 2,3,4](https://bonnittaroy.substack.com/p/video-recordings-perception-cohorts/)
+- [Cohort 5](https://bonnittaroy.substack.com/p/video-recording-perception-cohort-28b/)
 
 [^1]: If perception proved not to be trustworthy in the mind of philosophers it would prove to be more than trustworthy in the bodies of extreme athletes who had trained to be able to give up thinking when it mattered most.
 

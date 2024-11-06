@@ -37,9 +37,9 @@ In the illustration above, the entire two-beat pattern constitutes an **epoch**
 
 Meditative awareness, stretches the duration across more of the epoch, such that we begin to consciously experience the coming-into-being of the thought forms from the deep netherworlds of bodily process, like a dreamscape slowly unfolding on its way to perishing. In heightened states of perceptual acuity like kensho or satori, there is a phase shift in the opposite direction, such that the conscious perception is simultaneously present with the upswell of its becoming in which the startling beauty of reality arises, and time itself is lost, along with the sense of self which relies on it. Finally, meditative absorptions such as the jhanas, postpone the duration to varying degrees until, in the deepest states, only unconscious processing remains without any shift in phase.[^3]
 
-## Lookup
+## Further Resources
 
-- https://bonnittaroy.substack.com/p/a-new-theory-of-the-body-temporality
+- [Original Content Material](https://bonnittaroy.substack.com/p/a-new-theory-of-the-body-temporality)
 
 [^1]: In *Metapsychology of the Creative Process: Continuous novelty as the ground for creative advance, *Jason Brown writes:
     > [T]he depth of self in memory and its role in the createion of the present ggive the feeling of transition from *past *to *future*, with the combination accounting for the sense of causal progression. Though firmly fixed in the present, self or thought may be felt as an inclination to the future or an impulse to a further point. One could say the self has one foot in the past of memory and another in hte present of perception, while perception has one foot in the passing present and another in the immeidate future.Many forms of imagery take the self into the past. Perception carries the self into the future.

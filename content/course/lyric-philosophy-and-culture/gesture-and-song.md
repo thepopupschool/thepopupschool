@@ -52,16 +52,20 @@ What would it mean to develop the intelligence in our hands?
 
 [Prompts for conversations…]
 
-[Bonus material]
+## Bonus Material
 
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/PJwDiSBafIQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Cohort
 
-- https://bonnittaroy.substack.com/p/video-recording-lyric-thought-gesture/comments
-- https://bonnittaroy.substack.com/p/video-recording-gesture-and-song-d63/comments
-- https://bonnittaroy.substack.com/p/video-recording-gesture-and-song-d6b/comments
+> [!info] Note that access requires a paid membership.
 
-## Lookup
+- [Cohort 1](https://bonnittaroy.substack.com/p/video-recording-lyric-thought-gesture)
+- [Cohort 2](https://bonnittaroy.substack.com/p/video-recording-gesture-and-song)
+- [Cohort 3](https://bonnittaroy.substack.com/p/video-recording-gesture-and-song-521)
+- [Cohort 4](https://bonnittaroy.substack.com/p/video-recording-gesture-and-song-d63)
+- [Cohort 5](https://bonnittaroy.substack.com/p/video-recording-gesture-and-song-d6b)
 
-- https://bonnittaroy.substack.com/p/on-lyric-thought-gesture-and-song
+## Further Resources
+
+- [Original Content Material](https://bonnittaroy.substack.com/p/on-lyric-thought-gesture-and-song)

@@ -3,6 +3,13 @@ title: "The Lyric Voice"
 description: "Lyrical musings intimating a new culture"
 date: 2024-01-11
 prev: false
+next:
+    label: "On Lyric Thought: Resonance"
+    link: resonance
+---
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/CrLm7SiGU8U?si=1vuFaPMBpWdvqlUO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
 <audio controls>
@@ -75,24 +82,17 @@ world in a way, or to a degree, that is painful.
 
 ## Cohorts
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/IVoPWYSPra0?si=uVt1FF2DfshnoZJ-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+> [!info] Note that access requires a paid membership.
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/x0ocXvTMy1c?si=iPzurw5LlV2Mmqwa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+- [Cohort 1](https://bonnittaroy.substack.com/p/video-recording-lyric-voice-cohort)
+- [Cohorts 2,3](https://bonnittaroy.substack.com/p/video-recordings-lyric-culture)
+- [Cohorts 4,5](https://bonnittaroy.substack.com/p/video-recordings-lyric-culture-cohorts)
+- [Cohort 5](https://bonnittaroy.substack.com/p/video-recording-lyric-voice-cohort-160)
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/GMNgVaHBTEE?si=EMEiRHg3lUEM7mfN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## Further Resources
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/fqn9GjAdTRo?si=v9sFTrF3ux4GWi-Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/g7-a1aXqeV8?si=YAHtgsRIgdKNd94t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Here is the photo of the universe I was referencing.
+- [Original Content Material](https://bonnittaroy.substack.com/p/the-lyric-voice)
+- [Original Content Material(Presentation)](https://bonnittaroy.substack.com/p/video-presentation)
+- [[no-view]]
 
 ![universe](../../images/universe.jpg)
-
-
-
-## Lookup
-
-- https://bonnittaroy.substack.com/p/the-lyric-voice
-- https://bonnittaroy.substack.com/p/video-recording-lyric-voice-cohort/comments
-- https://bonnittaroy.substack.com/p/video-recordings-lyric-culture

@@ -1,6 +1,7 @@
 ---
 title: Cosmopolitan Self Session 2
 date: 2022-02-23
+draft: true
 ---
 
 The next two sessions of the Cosmopolitan Self Course will spend more time on small group dialogue around the question of the human collective. Here are the videos we will be working with next. They are short enough so we will watch them at the beginning of the session. But if you can’t come in on time, or don’t want to wait for the session recording, here are the links to the session and the videos

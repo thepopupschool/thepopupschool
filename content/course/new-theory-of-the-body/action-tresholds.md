@@ -26,9 +26,9 @@ In [his book ](https://www.dukeupress.edu/facing-the-planetary)*[Facing the Pl
 
 This pluripotentiality consitutes the numinous causal field. A New Theory of the Body would correctly situate the body within this field of possibility and its role as a causal agent.
 
-## Lookup
+## Further Resources
 
-- https://bonnittaroy.substack.com/p/a-new-theory-of-the-body-action-thresholds
+- [Original Content Material](https://bonnittaroy.substack.com/p/a-new-theory-of-the-body-action-thresholds)
 
 [^1]: If no sense were being made, the organism would fall apart. I believe that we have a "sense-making crisis" today because we arseparated from our body and nature --- the lving ground and origin of all sense-fullness.
 

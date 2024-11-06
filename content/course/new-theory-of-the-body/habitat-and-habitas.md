@@ -31,9 +31,9 @@ My looking at the tree *directly effects their response*--- which means my inte
 
 It would be impossible to draw a simple illustration of the complexity of the relations. But in the next post, I will talk more about action protocols and see if we can build more understanding.
 
-## Lookup
+## Further Resources
 
-- https://bonnittaroy.substack.com/p/a-new-theory-of-the-body-habitat
+- [Original Content Material](https://bonnittaroy.substack.com/p/a-new-theory-of-the-body-habitat)
 
 [^1]: I am using these terms in the way that process relational philosophy talks about the difference between external and internal relations; where habitat is constituted by external relations, and habitas is constituted by internal relations.
 

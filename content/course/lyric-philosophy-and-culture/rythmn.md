@@ -140,32 +140,21 @@ Pure Radiance, or luminosity, is a state where even the subtle separation betwee
 >Freed from the categories of our collective monad, nature and our life therein do present themselves as ordered and meaningful. There is an order, there is a moral and a vital law, there is a place and a task for humans therein. Abandoned by its human maker, our urban world may appear absurd. The forest, abandoned by humans, lives on in its ageless rhythm.
 > – Erizam Kohak, *The Embers and the Stars*
 
-**Bonus Material\
-The Rhythms of Being**
+## Bonus Material
+
+**The Rhythms of Being**
 
 <iframe src="https://www.youtube-nocookie.com/embed/ZyXrtODhJEA" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="100%" height="500"></iframe>
 
 ## Cohort
 
-- https://bonnittaroy.substack.com/p/veido-recordings-lyric-culture-rhythm
+> [!info] Note that access requires a paid membership.
 
-<iframe src="https://www.youtube-nocookie.com/embed/ykLFnT3YBUs" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="100%" height="500"></iframe>
-<iframe src="https://www.youtube-nocookie.com/embed/jd5RPFwv_Y0" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="100%" height="500"></iframe>
+- [Cohorts 1,2](https://bonnittaroy.substack.com/p/veido-recordings-lyric-culture-rhythm)
+- [Cohort 3](https://bonnittaroy.substack.com/p/video-recording-lyric-culture-rhythm)
+- [Cohort 4](https://bonnittaroy.substack.com/p/video-recording-lyric-culture-rhythm-05e)
+- [Cohort 5](https://bonnittaroy.substack.com/p/video-recording-lyric-culture-cohort)
 
-- https://bonnittaroy.substack.com/p/video-recording-lyric-culture-rhythm
+## Further Resources
 
-<iframe src="https://www.youtube-nocookie.com/embed/wXgt0AARhxs" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="100%" height="500"></iframe>
-
-- https://bonnittaroy.substack.com/p/video-recording-lyric-culture-rhythm-05e/comments
-
-<iframe src="https://www.youtube-nocookie.com/embed/nyDIwUIr5kQ" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="100%" height="500"></iframe>
-
-- https://bonnittaroy.substack.com/p/video-recording-lyric-culture-cohort/comments
-
-<iframe src="https://www.youtube-nocookie.com/embed/vgF5OYhKInM" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="100%" height="500"></iframe>
-
-
-
-## Lookup
-
-- https://bonnittaroy.substack.com/p/the-rhythms-of-being-course-content
+- [Original Content Material](https://bonnittaroy.substack.com/p/the-rhythms-of-being-course-content)

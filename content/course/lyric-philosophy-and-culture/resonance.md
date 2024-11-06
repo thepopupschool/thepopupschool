@@ -73,24 +73,15 @@ Alfred Staraat 1979 p. 12-14
 
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/VPLCk-FTVvw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Cohort
+## Cohorts
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/_UhJChzdmLQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+> [!info] Note that access requires a paid membership.
 
-https://bonnittaroy.substack.com/p/video-recording-lyric-resonance-cohort/comments
+- [Cohort 1](https://bonnittaroy.substack.com/p/video-recording-lyric-resonance-cohort)
+- [Cohort 2](https://bonnittaroy.substack.com/p/video-recording-lyric-resonance-cohort-c7f)
+- [Cohort 3](https://bonnittaroy.substack.com/p/video-recording-lyric-culture-resonance)
+- [Cohort 4](https://bonnittaroy.substack.com/p/video-recording-lyric-culture-resonance-df9)
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/moHyhSlqGpM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## Further Resources
 
-https://bonnittaroy.substack.com/p/video-recording-lyric-resonance-cohort-c7f/comments
-
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/nhkBA9dNLf4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-https://bonnittaroy.substack.com/p/video-recording-lyric-culture-resonance/comments
-
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/rRJv0Nb1NbE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-https://bonnittaroy.substack.com/p/video-recording-lyric-culture-resonance-df9/comments
-
-## Lookup
-
-- https://bonnittaroy.substack.com/p/on-lyric-thought-resonance
+- [Original Content Material](https://bonnittaroy.substack.com/p/on-lyric-thought-resonance)

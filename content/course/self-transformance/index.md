@@ -2,6 +2,7 @@
 title: "Self-Transformance: The philosophy, phenomenology and practice of embodied transformation"
 prev: false
 date: 2022-01-01
+draft: true
 ---
 
 ## Course proposal:

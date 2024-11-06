@@ -1,6 +1,7 @@
 ---
 title: Cosmopolitan Self Session 1
 date: 2022-02-13
+draft: true
 ---
 
 **Homework - Watch: Line Goes Up**

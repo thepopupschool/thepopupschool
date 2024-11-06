@@ -3,6 +3,9 @@ title: "Awareness: Reflection, Recursivity, Reflexivity"
 description: Putting the mind back into the body and the body back into nature
 date: 2023-06-20
 order: 12
+next:
+    label: "Recap"
+    link: recap
 ---
 
 > The stream of James turns out to be a self-referential metaphor\
@@ -38,18 +41,18 @@ When you understand the deeper meaning of causal twin-ness, then you realize you
 
 ## Recursivity - the snake eating its tail
 
-![](../../../assets/images/ouroboros-1.jpg)
+![](../../images/ouroboros-1.jpg)
 
 [The ouroboros is an ancient symbol](https://en.wikipedia.org/wiki/Ouroboros), depicted in early Egypt as a snake eating its own tail. There are hundreds, if not thousands of variations of this symbol, across cultures and time. Here is a simple minimalist abstraction:
 
-![](../../../assets/images/ouroboros-2.png)
+![](../../images/ouroboros-2.png)
 
 Recursivity means something like "start at square one, you always return to square one, despite how much you've tried to distance yourself from it." It is a hallmark of discursive thought, where we begin with a problem, step it up into higher, more complex levels of analysis, in which we get the feeling that we are getting somewhere, only to discover, after a long effort, that our destination is merely a more complex version of the same problem. *Does this sound familiar?*
 
 Infinite regression is a particular kind of recursivity. It often comes up when people are doing awareness practices. First, you notice that "someone is aware," and that comes as an insight. But then you wonder, "who is aware that someone is aware?" and *that *comes as an insight.[^1] In this case, infinite regression occurs because people take the insight to mean that there is someone behind the curtain. This is a subtle reification that we should pay no attention to, *because there is no man behind the curtain*. The experience itself, given in the very first realization *is the insight.* It merely repeats itself as the very same insight in different "meta" versions of itself. The construction remains the same, no matter how meta we go on it. This of course, points to why it is an instance of recursion. No matter how meta we go to escape it, the same insight appears over and over again. Back to square one.
 
 
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/YWyCCJ6B2WE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/YWyCCJ6B2WE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Reflexivity: sense-full- ness/ mindful heeding
 
@@ -65,21 +68,11 @@ Mindful heeding/ sense- full- ness means attending to everything all at once--- 
 
 This brings us to awareness. Which is not reflective, recursive, infinitely regressive, or mindful, sense full, heeding. How does the notion of "pure awareness" relate to dispositional state, affect, perception, imagination, intuition, and abstraction? And how does it relate to consciousness itself? In the live on-line sessions we will attend to the question of awareness in collective insight practice. You won't want to miss these, as the cap-stone of our background series.
 
-## Lookup
+## Further Resources
 
-- https://bonnittaroy.substack.com/p/awareness-reflection-recursivity/
-
-## Cohort
-
-
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/0XIu48OFzFg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/nbfAtrXzmys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-https://bonnittaroy.substack.com/p/video-links-awareness-cohorts-1-and/
-
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/BwYzJ35zoS4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-https://bonnittaroy.substack.com/p/video-recodring-awareness-cohort/
+- [Original Content Material](https://bonnittaroy.substack.com/p/awareness-reflection-recursivity/)
+- [The Most Misunderstood Concept in Physics](https://www.youtube.com/watch?v=DxL2HoqLbyA)
+- [This is not reflexivity (as we define it). This is recursive reflection. Worth a watch](https://www.youtube.com/watch?v=FZVMB8mrNO0)
 
 > Through all beings spreads the one space:\
 > the world's inner space.\
@@ -89,22 +82,15 @@ https://bonnittaroy.substack.com/p/video-recodring-awareness-cohort/
 > I look outside,\
 > and it is in me that the tree grows!’\
 
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/b78Ok-pd8us" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+## Cohort
 
-https://bonnittaroy.substack.com/p/video-recording-awareness-cohort/
+> [!info] Note that access requires a paid membership.
 
-[Here is the link to the video I referenced](https://www.youtube.com/watch?v=DxL2HoqLbyA)
-
-
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/6AgkPVzruIA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-https://bonnittaroy.substack.com/p/video-recording-awareness-final-cohort/comments
-
-[This is not reflexivity (as we define it) This is recursive reflection ](https://www.youtube.com/watch?v=FZVMB8mrNO0)
-
-
-
----
+- [Cohorts 1,2](https://bonnittaroy.substack.com/p/video-links-awareness-cohorts-1-and/)
+- [Cohort 3](https://bonnittaroy.substack.com/p/video-recodring-awareness-cohort/)
+- [Cohort 4](https://bonnittaroy.substack.com/p/video-recording-awareness-cohort)
+- [Cohort 5](https://bonnittaroy.substack.com/p/video-recording-awareness-cohort-836)
+- [Cohort 6](https://bonnittaroy.substack.com/p/video-recording-awareness-final-cohort)
 
 [^1]: In my masters course I always began the first session with the Daoist story about the knife:
 

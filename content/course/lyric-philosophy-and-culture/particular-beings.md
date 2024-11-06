@@ -40,21 +40,20 @@ Finally, attending in this manner, renders the world as fully animated, as fully
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/jOIDXUxYi98?si=UTJ_kIZeWtA3Qzzv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-## Cohort
-
-https://bonnittaroy.substack.com/p/video-recordings-lyric-culture-particular/comments
-
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/tWnqZg1_MlU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/HaQB2N-28uA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 What is the goal of lyric approach to life?
-
 
 To become, in body, mind, and community ….
 
 … soft, open, able, responsive, trusting, alive, exuberant, fluid, flexible, caring, nurturing, connected, with wisdom, joy and hope.
 
-## Lookup
+## Cohorts
 
-- https://bonnittaroy.substack.com/p/lyric-culture-particular-beings
+> [!info] Note that access requires a paid membership.
+
+- [Cohorts 1,2](https://bonnittaroy.substack.com/p/video-recordings-lyric-culture-particular/comments)
+
+## Further Resources
+
+- [Original Content Material](https://bonnittaroy.substack.com/p/lyric-culture-particular-beings)
+- [Thinking vs. Feeling? w/ Vivian Dittmar - YouTube](https://www.youtube.com/watch?v=hPnHBdTDOVg)
+- [ParticularsVIvianDittmar - YouTube](https://www.youtube.com/watch?v=birdjRNKSOQ)

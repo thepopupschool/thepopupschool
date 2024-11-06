@@ -2,6 +2,7 @@
 title: Embodiment
 prev: false
 next: false
+draft: true
 ---
 
 - https://bonnittaroy.substack.com/p/embodiment-course-launches-sept-10

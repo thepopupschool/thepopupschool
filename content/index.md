@@ -20,10 +20,10 @@ next: false
 - [[course/lyric-philosophy-and-culture|Lyric Philosophy and Culture]]
 - [[course/the-varieties-of-religious-experience|The Varieties of Religious Experience]]
 - [[course/ontological-design-for-back-loop-realities|Ontological Design for Back Loop Realities]]
-- [[course/self-transformance|Self Transformance]]
-- [[course/embodiment|Embodiment]]
-- [[course/indigeneity|Indigeneity]]
-- [[course/the-origins-on-the-self|The Origins on the Self]]
+- [[course/self-transformance|Self Transformance (wip)]]
+- [[course/embodiment|Embodiment (wip)]]
+- [[course/indigeneity|Indigeneity (wip)]]
+- [[course/the-origins-on-the-self|The Origins on the Self (wip)]]
 
 
 

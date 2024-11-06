@@ -1,6 +1,7 @@
 ---
 title: Cosmopolitan Self
 date: 2022-02-01
+draft: true
 ---
 
 <iframe src="https://www.youtube-nocookie.com/embed/n_kHaCdVjz8" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="100%" height="500"></iframe>

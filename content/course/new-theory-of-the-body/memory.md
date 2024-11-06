@@ -1,6 +1,6 @@
 ---
 title: Memory
-date: 2023-02-04
+date: 2023-03-07
 order: 7
 ---
 
@@ -123,33 +123,19 @@ Now I want to challenge this model, because I think it is a circumstance of "as 
 2. **it is what I have experienced as [cognition in the wild. ](https://thesideview.co/journal/cognition-in-the-wild/) [^13], and**
 3. **it is more likely that cognition and learning evolved in unpredictable environments in our evolutionary past, and hence, it doesn't make sense that it relies so heavily on predictive processing. [^14]**
 
-## Lookup
+## Further Resources
 
-- https://bonnittaroy.substack.com/p/memory-course-content/comments
+- [Original Content Material](https://bonnittaroy.substack.com/p/memory-course-content/comments)
 
 ## Cohorts
 
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/m8BsF0Xb1f0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+> [!info] Note that access requires a paid membership.
 
-https://bonnittaroy.substack.com/p/video-recording-memory-cohort-1/
-
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/P9ZIuVyjkUg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-https://bonnittaroy.substack.com/p/memory-cohort-3/
-
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/G6gLxxuoaHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-https://bonnittaroy.substack.com/p/memory-cohort-4-video-recording/
-
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/mpaa9EqhEOA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-https://bonnittaroy.substack.com/p/memory-cohort-5-recording/
-
-<iframe width="100%" height="1000" src="https://www.youtube.com/embed/0ZyFK5x8AKg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-https://bonnittaroy.substack.com/p/memory-cohort-6-final-recording/
-
----
+- [Cohort 1](https://bonnittaroy.substack.com/p/video-recording-memory-cohort-1/) 
+- [Cohort 3](https://bonnittaroy.substack.com/p/memory-cohort-3/)
+- [Cohort 4](https://bonnittaroy.substack.com/p/memory-cohort-4-video-recording/)
+- [Cohort 5](https://bonnittaroy.substack.com/p/memory-cohort-5-recording/)
+- [Cohort 6](https://bonnittaroy.substack.com/p/memory-cohort-6-final-recording/)
 
 [^1]: Walter Benjamin wrote of collective historical memory's motivation to "blast a unique experience of the past out of the continuum of history" in order to wrestle meaning from the past for the present.
 
