@@ -34,11 +34,11 @@ Words like "poximal" and "distal" help us avoid the unfortunate terms like "lowe
 
 To get your mind off the holarchy model, it may be helpful here to watch Rich Blundell's video series on the continuity of universe, life and human culture.
 
-<iframe src="https://player.vimeo.com/video/432639406?h=43138f4f32" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/432639406?h=43138f4f32" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-<iframe src="https://player.vimeo.com/video/428973009?autoplay=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/428973009?autoplay=0" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-<iframe src="https://player.vimeo.com/video/296685703?autoplay=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/296685703?autoplay=0" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 
 ---
