@@ -21,6 +21,7 @@ const config: QuartzConfig = {
     baseUrl: "thepopupschool.org",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
+    generateSocialImages: false,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
