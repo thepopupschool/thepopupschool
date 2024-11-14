@@ -42,7 +42,23 @@ const explorerConfig: Parameters<typeof Component.Explorer>[0] = {
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.Comments({
+      provider: 'giscus',
+      options: {
+        // from data-repo
+        repo: 'thepopupschool/discussions',
+        // from data-repo-id
+        repoId: 'R_kgDONPdMVg',
+        // from data-category
+        category: 'Courses',
+        // from data-category-id
+        categoryId: 'DIC_kwDONPdMVs4CkRnl',
+        mapping: "pathname",
+        strict: true,
+      }
+    }),
+  ],
   footer: Component.Footer({
     links: {
       Substack: "https://bonnittaroy.substack.com/",
