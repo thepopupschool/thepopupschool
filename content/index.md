@@ -3,6 +3,7 @@ title: Welcome to the Pop-Up School
 enableToc: false
 prev: false
 next: false
+comments: true
 ---
 
 <img src="/static/logo.png" alt="Logo" />
@@ -24,7 +25,5 @@ next: false
 - [[course/embodiment|Embodiment (wip)]]
 - [[course/indigeneity|Indigeneity (wip)]]
 - [[course/the-origins-on-the-self|The Origins on the Self (wip)]]
-
-
 
 
