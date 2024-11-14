@@ -3,6 +3,7 @@ title: A new theory of the body
 description: "... putting the mind back into the body and the body back into nature"
 date: 2022-12-04
 prev: false
+comments: true
 ---
 
 **Dear Friends of the POP-UP School,**

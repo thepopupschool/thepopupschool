@@ -5,6 +5,7 @@ order: 6
 next:
     label: "Memory"
     link: memory
+comments: true
 ---
 
 > The theory of the body is already a theory of perception.

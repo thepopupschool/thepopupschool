@@ -3,6 +3,7 @@ title: "The Moral Animal"
 description: A Surprising New Vision for a Sacred World
 date: 2023-10-25
 order: 16
+comments: true
 ---
 
 ## Primordial Ethics

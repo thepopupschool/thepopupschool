@@ -1,6 +1,7 @@
 ---
 title: Organs of Perception
 date: 2023-02-15
+comments: true
 ---
 
 

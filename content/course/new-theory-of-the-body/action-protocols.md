@@ -3,6 +3,7 @@ title: Action Protocols
 description: "... putting the mind back into the body and the body back into nature"
 date: 2022-12-28
 order: 2
+comments: true
 ---
 
 In my previous articles I introduced some interaction metaphors that should be useful in our 2023 course: [sensemaking up-hierarchy](new-theory-of-the-body/up-hierarchy) and [habitat - habitas](new-theory-of-the-body/habitat-and-habitas). When we view the whole from a collective system level, we see that local agents are sensing and reporting up-wards as actions taken. As the information "rises" toward a centralized processing region, information becomes more global but also more generalized, eventually reaching a context that is coherent.[^1]

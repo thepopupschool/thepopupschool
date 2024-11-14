@@ -5,6 +5,7 @@ date: 2022-12-26
 order: 0
 tags: "interaction metaphor"
 prev: false
+comments: true
 ---
 
 ## An interaction metaphor

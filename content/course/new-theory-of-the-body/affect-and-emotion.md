@@ -2,6 +2,7 @@
 title: Affect & Emotion (& Disposition)
 date: 2023-01-08
 order: 5
+comments: true
 ---
 
 The first module in our 2023 series A New Theory of the Body involves an examination of affect and emotion, but we will also include a third component - that of disposition. We will need rigorous definitions of these terms.

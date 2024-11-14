@@ -6,6 +6,7 @@ order: 12
 next:
     label: "Recap"
     link: recap
+comments: true
 ---
 
 > The stream of James turns out to be a self-referential metaphor\

@@ -3,6 +3,7 @@ title: "Temporality: Duration & Epoch"
 description: "... putting the mind back into the body and the body back into nature"
 date: 2022-12-31
 order: 4
+comments: true
 ---
 
 In this series I have been presenting a few [interaction metaphors](new-theory-of-the-body/up-hierarchy) that should be helpful in our co-creating A New Theory of the Body.

@@ -2,6 +2,7 @@
 title: "Origins of the Self: An Integrated Model"
 date: 2023-10-27
 order: 17
+comments: true
 ---
 
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/QivUf1QXtP8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

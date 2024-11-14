@@ -3,6 +3,7 @@ title: "Origins of Culture: Collective Consciousness"
 description: Putting the mind back into the body and the body back into nature
 date: 2023-10-05
 order: 15
+comments: true
 ---
 
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/U93x9AWeuOA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

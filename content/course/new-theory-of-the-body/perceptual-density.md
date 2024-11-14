@@ -1,6 +1,7 @@
 ---
 title: Percentual Density
 date: 2023-02-15
+comments: true
 ---
 
 <figure style="margin: 0">

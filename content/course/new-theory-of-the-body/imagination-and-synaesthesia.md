@@ -3,6 +3,7 @@ title: Imagination & Syn(ae)sthesia
 description: Putting the mind back into the body and the body back into nature
 date: 2023-04-03
 order: 9
+comments: true
 ---
 
 > Life is like a box of chocolate.

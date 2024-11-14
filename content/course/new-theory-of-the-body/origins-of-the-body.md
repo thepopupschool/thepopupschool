@@ -3,6 +3,7 @@ title: Origin of the body
 description: Putting the mind back into the body and the body back into nature
 date: 2023-09-08
 order: 14
+comments: true
 ---
 
 ![](images/cosmic-baby.jpg)
