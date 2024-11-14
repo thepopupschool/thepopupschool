@@ -56,6 +56,10 @@ export const sharedPageComponents: SharedLayout = {
         categoryId: 'DIC_kwDONPdMVs4CkRnl',
         mapping: "pathname",
         strict: true,
+        // themeUrl: "https://thepopupschool.org/static/giscus",
+        themeUrl: "https://giscus.app/themes",
+        lightTheme: "light",
+        darkTheme: "dark",
       }
     }),
   ],
