@@ -2,6 +2,7 @@
 title: "No View"
 description: "An improvised answer to an improbable question"
 date: 2024-01-27
+comments: true
 ---
 
 I wanted to write a cogent response to Jampa's question on "No View" that came up [in this session.](https://youtu.be/fqn9GjAdTRo?si=eP9FFmP1Le86kaiv) The question was something like does lyric culture advocate, or include, or is based on "No View." I understood the phrase "No View" in the context of Zen, and I have also heard Soryu Forall, specifically, talk about it, and I am assuming that is the context that the question was being asked--- so that was the context I am working with here.

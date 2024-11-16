@@ -2,6 +2,7 @@
 title: "The Rhythms of Being"
 description: "On Lyric Culture"
 date: 2024-05-01
+comments: true
 ---
 
 > [!quote] ​

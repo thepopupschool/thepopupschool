@@ -2,6 +2,7 @@
 title: "On Lyric Thought: Gesture & Song"
 description: "Reflections on Jan Zwicky's Lyric Philosophy"
 date: 2024-04-02
+comments: true
 ---
 
 

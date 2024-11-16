@@ -2,6 +2,7 @@
 title: "On Lyric Thought: Resonance"
 description: "Reflections on Jan Zwicky's Lyric Philosophy"
 date: 2024-02-01
+comments: true
 ---
 
 In her book *Once Upon a Time in the West,* Jan Zwicky makes the distinction between lineal logic and oneiric logic. Lineal logic strings thoughts together in the same way that Newtonian physics strings events together --- one thing follows from another. In oneiric syntax, Zwicky writes, "rather than lining themselves up like railway schedules," "events are understood to cluster, to form ecologies."
