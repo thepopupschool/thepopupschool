@@ -6,6 +6,7 @@ prev: false
 next:
     label: "Christopher Alexander: Generating a Living World "
     link: christopher-alexander-generating-a-living-world
+comments: true
 ---
 
 > [!note]

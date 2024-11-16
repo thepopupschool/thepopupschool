@@ -8,6 +8,7 @@ prev:
 next:
     label: "Pragmatic Imagination: Ann Pendleton-Julian & John Seely Brown"
     link: pragmatic-imagination
+comments: true
 ---
 
 <iframe src="https://www.youtube-nocookie.com/embed/o6q1dDAv6zY" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="100%" height="500"></iframe>

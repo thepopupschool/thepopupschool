@@ -6,6 +6,7 @@ prev:
     label: "Christopher Alexander: Generating a Living World "
     link: christopher-alexander-generating-a-living-world
 next: false
+comments: true
 ---
 
 We ended the last session of the previous course with an exercise:
