@@ -3,8 +3,8 @@ title: "Sagehood: Wu-Wei & the Sages of Old"
 description: "A SEEDS Essay"
 date: 2022-09-03
 next:
-    label: "Visual Meditation - The Wisdom Stack"
-    link: visual-meditation-the-wisdom-stack
+    label: "Sagehood: The Wisdom Stack"
+    link: sagehood-the-wisdom-stack
 ---
 
 Two characteristics stand out when considering the early Chinese understanding of Sagehood: *wu-wei* and *the Sages of Old.*

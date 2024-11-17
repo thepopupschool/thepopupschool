@@ -5,6 +5,7 @@ date: 2022-10-11
 prev:
     label: "Sagehood: Wu-Wei & the Sages of Old"
     link: wu-wei-the-sages-of-old
+next: false
 ---
 
 The [[seeds/wu-wei-the-sages-of-old|previous post]] reintrepreted Sagehood's central notion of wu-wei as the unfolding of the evolutionary processes of human-becoming-into-being. What might wu-wei mean to us today, and how can we re-invigorate the role of Sagehood into our lives?
@@ -15,9 +16,16 @@ In the following series of SEEDS article, I will present a model of Sagehood tha
 2. Liberating Wisdom - *Spacious Choice*
 3. Activating Wisdom - *Wu-wei*
 
-You will notice that there each of these are rooted in an ontological prior - the endogenous root, as it were, of the wisdom. The three priors are: *the real, spaciousness, *and *spontaneous action. *These are ontologically embedded in nature *as our original nature. *Contrast this with the three *verbs*: *awakening, liberating, *and *activating. *They suggest a *becoming*, a process, a certain *specific *participation with the prior given. *Awakening* suggests pointing a light onto the real so it can be more perfectly seen, i.e. enlightening. *Liberating* suggests allowing what is actually there, to participate in the process, to release the space of possibility. *Activating*, suggest turning on or powering up a latent capacity. These are associated with the exogenous characteristics --- the practices, methodologies, pedagogies, mentorships and apprenticeships that convene to awake, liberate, and activate the prior potentials.
+You will notice that there each of these are rooted in an ontological prior - the endogenous root, as it were, of the wisdom. The three priors are: *the real, spaciousness,* and *spontaneous action.* These are ontologically embedded in nature *as our original nature.* Contrast this with the three *verbs*: *awakening, liberating,* and *activating.* They suggest a *becoming*, a process, a certain *specific* participation with the prior given. *Awakening* suggests pointing a light onto the real so it can be more perfectly seen, i.e. enlightening. *Liberating* suggests allowing what is actually there, to participate in the process, to release the space of possibility. *Activating*, suggest turning on or powering up a latent capacity. These are associated with the exogenous characteristics – the practices, methodologies, pedagogies, mentorships and apprenticeships that convene to awake, liberate, and activate the prior potentials.
 
-This then, is the Wisdom stack model I am proposing for Sagehood. I hope you will enjoy and benefit from the upcoming series.
+This then, is the Wisdom stack model I am proposing for Sagehood.
+
+---
+
+Here is a visual meditation on the three wisdoms of Sagehood, I hope you find it both meaningful and useful.
+
+<iframe src="https://www.youtube-nocookie.com/embed/B6jB5hiHm8Q" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="100%" height="500"></iframe>
+
 
 ## Further Resources
 
