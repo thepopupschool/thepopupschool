@@ -5,7 +5,9 @@ date: 2024-10-11
 prev:
     label: "Christopher Alexander: Generating a Living World "
     link: christopher-alexander-generating-a-living-world
-next: false
+next:
+    label: "Wuwei (Effortless Action)"
+    link: wuwei-effortless-action
 comments: true
 ---
 
