@@ -1,5 +1,10 @@
+## 0.2.0 (2024-11-17)
 
-## 0.1.0
+### Minor Changes
+
+- f4f2eae: Add [[course/ontological-design-for-back-loop-realities/wuwei-effortless-action]] module
+
+## 0.1.0 (2024-11-16)
 
 ### Patch Changes
 
