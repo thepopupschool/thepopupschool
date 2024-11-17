@@ -2,4 +2,4 @@
 "content": minor
 ---
 
-Add [[seeds/sagehood]]
+Add seeds serie [[seeds/sagehood]]
