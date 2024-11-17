@@ -2,4 +2,4 @@
 "content": patch
 ---
 
-add [[seeds]] intro text
+Add [[seeds]] intro text

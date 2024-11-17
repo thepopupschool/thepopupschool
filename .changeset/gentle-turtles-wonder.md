@@ -2,4 +2,4 @@
 "content": minor
 ---
 
-add seed essay [[seeds/saying-without-naming]]
+Add seed essay [[seeds/saying-without-naming]]
