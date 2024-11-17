@@ -6,7 +6,7 @@
 
 ## 0.1.0 (2024-11-16)
 
-### Patch Changes
+### Minor Changes
 
 - 1343376: enable discussions on [[course/ontological-design-for-back-loop-realities]]
 - 4052723: enable discussions on [[course/new-theory-of-the-body]]
