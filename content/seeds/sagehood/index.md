@@ -29,9 +29,6 @@ In this new [[seeds/index|SEEDS]] series, I would like to make the case for the 
 ## Further Resources
 
 - [Original Content Material](https://bonnittaroy.substack.com/p/sagehood)
-- [Wish-fulfilling gems - by Bonnitta Roy - The Pop-Up School](https://bonnittaroy.substack.com/p/wish-fulfilling-gems)
-- [Wisdom Series Conversations - Video Recordings](https://bonnittaroy.substack.com/p/wisdom-series-video-recordings/comments)
-- [Wisdom Series Conversations - Video Recordings](https://bonnittaroy.substack.com/p/wisdom-series-conversations-video)
 
 [^1]: This is why we were working on a meta-curriculum, because we wanted to generate design principles that covered the whole spectrum of wisdom modalities--- princicples that could support teachers and improve pedagogical methods.
 

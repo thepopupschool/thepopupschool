@@ -8,7 +8,7 @@ prev:
 next: false
 ---
 
-The [[seeds/wu-wei-the-sages-of-old|previous post]] reintrepreted Sagehood's central notion of wu-wei as the unfolding of the evolutionary processes of human-becoming-into-being. What might wu-wei mean to us today, and how can we re-invigorate the role of Sagehood into our lives?
+The [[seeds/sagehood/wu-wei-the-sages-of-old|previous post]] reintrepreted Sagehood's central notion of wu-wei as the unfolding of the evolutionary processes of human-becoming-into-being. What might wu-wei mean to us today, and how can we re-invigorate the role of Sagehood into our lives?
 
 In the following series of SEEDS article, I will present a model of Sagehood that includes three wisdoms, making Sagehood the *sine qua non* condition of combining them into a fully integrated "Wisdom-Stack" [^1]
 
@@ -30,6 +30,9 @@ Here is a visual meditation on the three wisdoms of Sagehood, I hope you find it
 ## Further Resources
 
 - [Original Content Material](https://bonnittaroy.substack.com/p/sagehood-the-wisdom-stack)
+- [Wish-fulfilling gems - by Bonnitta Roy - The Pop-Up School](https://bonnittaroy.substack.com/p/wish-fulfilling-gems)
+- [Wisdom Series Conversations - Video Recordings](https://bonnittaroy.substack.com/p/wisdom-series-video-recordings/comments)
+- [Wisdom Series Conversations - Video Recordings](https://bonnittaroy.substack.com/p/wisdom-series-conversations-video)
 
 [^1]: There is a corrollary here with the three jhana's or vehicles in Buddhism: Hinayana (awakening perception), Mahayana (awakening compassion) and Vajrayana (enlightenend action) especially as articulated by Chogyam Trungpa in *The Profound Treasury of the Ocean of Dharma* (3 volumes). Trungpa emphasized that the three vehicles represent a continuous journey, wherein "advances toward" the Vajrayana requires returning again and again to the "earlier vehicles" in order to increase capacities for sustaining Vajra wisdom.
     > In the hinayana we see reality in a factual, ordinary, but extremely wise way: as cause and effect, the manifestation of pain, the origin of pain, and so forth. In the Hinayana we look at the way things function in terms of interdependent origination ... and trace things back to the origin of reality, or matter and mind. (vol. 3 p. 48)
