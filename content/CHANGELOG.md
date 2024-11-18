@@ -1,4 +1,14 @@
-# content
+## 0.4.0 (2024-11-18)
+
+### Minor Changes
+
+- [e28d079](https://github.com/thepopupschool/thepopupschool/commit/e28d079): Add [[course/new-theory-of-the-body/affect-and-emotion/glossary]] and [[course/new-theory-of-the-body/affect-and-emotion/study-guide]] to [[course/new-theory-of-the-body/affect-and-emotion]]
+- [1596d91](https://github.com/thepopupschool/thepopupschool/commit/1596d91): Add ai generated conversation of [[course/new-theory-of-the-body/affect-and-emotion]]
+- [afc3233](https://github.com/thepopupschool/thepopupschool/commit/afc3233): Add ai generated conversation of [[seeds/why-metaphysics-matters]]
+
+### Patch Changes
+
+- [ddc1268](https://github.com/thepopupschool/thepopupschool/commit/ddc1268): show explorer on page folders
 
 ## 0.3.0 (2024-11-17)
 
