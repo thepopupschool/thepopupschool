@@ -180,14 +180,20 @@ A new theory of the body would incorporate an ecological theory of perception an
 
 ## Further Resources
 
+<figure>
+    <iframe width="100%" height="1000" src="https://www.youtube.com/embed/0RqdXqxhfqk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <figcaption>
+        <a target="_blrank" href="https://bonnittaroy.substack.com/p/video-on-perceptual-density/comments">View Original Content</a></figcaption>
+</figure>
+
+<figure>
+    <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/17148626?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Documentaire - I feel... (Ik voel, ik voel, wat jij niet voelt...)"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+    <figcaption>
+        <a target="_blrank" href="https://bonnittaroy.substack.com/p/video-on-perceptual-density/comments">View Original Content</a></figcaption>
+</figure>
+
 - [Original Content Material](https://bonnittaroy.substack.com/p/on-perception/comments)
 - https://thesideview.co/journal/cognition-in-the-wild/
-- links shared in the comments
-    - [From Evan Thompson... on consciousness : "I wouldn't say that consciousness is separate from nature, but we need a new theory of nature to account for that." (He's working our project from the reverse direction. Maybe we'll meet in the middle."](https://www.youtube.com/watch?v=9ejW63jqP4U&t=2904s)
-    - https://en.wikipedia.org/wiki/Troxler's_fading
-
-![[perceptual-density]]
-![[organs-of-perception]]
 
 ## Cohorts
 
