@@ -5,6 +5,13 @@ order: 5
 comments: true
 ---
 
+> [!tip] AI generated Conversation
+> <audio controls>
+>   <source src="https://www.dropbox.com/scl/fi/s9n7npajoz53a9zi8rulx/affect-gap.mp3?rlkey=tpmoih60g8o5twrdh1rlg9r4z&raw=1" type="audio/mpeg" >
+> </audio>
+
+---
+
 The first module in our 2023 series A New Theory of the Body involves an examination of affect and emotion, but we will also include a third component - that of disposition. We will need rigorous definitions of these terms.
 
 > [!note] Note
