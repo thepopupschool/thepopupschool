@@ -7,7 +7,7 @@ comments: true
 
 The first module in our 2023 series A New Theory of the Body involves an examination of affect and emotion, but we will also include a third component - that of disposition. We will need rigorous definitions of these terms.
 
-> [!info] Title
+> [!note] Note
 > Note that in the literature, the terms are used in different, often contradictory ways. So if you are reading, make sure you figure out what definitions the author is using, before you get too deep in the weeds.
 
 ## Disposition is actually the most fundamental term.
@@ -80,7 +80,7 @@ After discovering Russel's work I added two dimensions to her grid--- a more ser
 From the standpoint of transformational practices, this grid tells us that we can start where we are and move the signature of the affect first down from the emotional narrative-imaginal-mimetic stack where it presents only an avenue for hopelessly complexifying the present moment into a simluation, an obvious obstacle for healing, and secondly toward the direction not only of well-being, but also toward liberating wisdom. [^9]
 
 
-> [!info] Side note 1: Anxiety
+> [!note] Note: Anxiety
 > Before we go further, I just want to add another definition that is useful. It comes from the method/work of [Habib Davanloo](https://www.amazon.com/Intensive-Short-Term-Dynamic-Psychotherapy-Selected/dp/0471497045) he called Intensive Short-term Dynamic Psychotherapy (which was foundational work for Diana Fosha's AEDP). For our purposes we don't need to get into all the details, so here is our working definition
 >
 > **Anxiety = dispositional state that results in the down-regulation of arousal energy.**
@@ -91,7 +91,7 @@ From the standpoint of transformational practices, this grid tells us that we ca
 >
 >Or let's say I get caught in a bad situation and am called out for it. Instead of getting angry, I begin to justify my actions with all kinds of bullshit. I probably will also experience quite a bit of anxiety, as I down-regulate the anger. Which brings us to side note 2:
 
-> [!info] Side note 2: Guilt and Shame
+> [!note] Note: Guilt and Shame
 > Guilt and shame are *emotions* not affects, because they depend on culturally conditioned interpretations of affect states. Guilt is the emotion that is associated with having done something wrong that *one knew was wrong to do.* This "knowing what is wrong" --- what is against the cultural norms and rules--- is the conditioned part. Guilt can trigger anger or fear, but it also can bring up play and seeking, as when the guilty person takes a game-theoretic approach to getting off the hook.
 >
 > Shame, on the contrary, is a deeper, more complex emotion that always comes as a double-bind. It happens early in life when you have an authentic impulse to do something (like jump and clap for the fun of it) and it is reflected back to you as something wrong (stop it!). You are in a double-bind in the sense you either have to discomfirm the authentic impulse, or go against the cultural norm. You cannot accommodate both, you are forced to choose.
@@ -120,8 +120,15 @@ If there is anger wanting to be acknowledged, you might explore what play or mas
 
 One final piece of this pie is the relationship between all of this and action protocols. The practice here is to build a system of robust action protocols that, when a specific affect stream is called forth, moves the energy in an up-hierarhcy, from affect-laden drives toward clarity of perception in the external habitat (what is *actually happening here, what is actually the case*) and keep that flowing toward actionable choices (or real actions taken) that will satisfy the arousal state. *Only then* the information in the experience is updated in the memory stack (it actually happens overnight in sleep phases, when working current memory processes are downloaded from hippocampal areas in the mid brain to deeper, episodic memory stacks in the lower brain, essentially completing the descending "global updating" of the sensemaking up-hierarhcy). We will develop this more as we move on to perception and memory in the next modules.
 
+---
+
+> [!todo] [[course/new-theory-of-the-body/affect-and-emotion/study-guide|Ingress the Material with a study guide]]
+
+---
+
 ## Further Resources
 
+- [[course/new-theory-of-the-body/affect-and-emotion/glossary|Glossary of Key Terms]]
 - [Original Content Material](https://bonnittaroy.substack.com/p/affect-and-emotion-and-disposition/comments)
 
 ## Cohorts
@@ -131,6 +138,7 @@ One final piece of this pie is the relationship between all of this and action p
 - [Cohorts 1,2,3,4](https://bonnittaroy.substack.com/p/affect-recordings-first-4-cohorts) 
 - [Cohort 5](https://bonnittaroy.substack.com/p/affect-cohort-5-recording/) 
 - [Cohort 5](https://bonnittaroy.substack.com/p/affect-cohort-6-recording/) 
+
 
 [^1]: From Wikipedia: Vagal tone is activity of the [vagus nerve](https://en.wikipedia.org/wiki/Vagus_nerve), the 10th [cranial nerve](https://en.wikipedia.org/wiki/Cranial_nerve) and a fundamental component of the [parasympathetic](https://en.wikipedia.org/wiki/Parasympathetic_nervous_system) branch of the [autonomic nervous system](https://en.wikipedia.org/wiki/Autonomic_nervous_system). This branch of the nervous system is not under conscious control and is largely responsible for the regulation of several body compartments at rest. Vagal activity results in various effects, including: [heart rate](https://en.wikipedia.org/wiki/Heart_rate) reduction, [vasodilation/constriction](https://en.wikipedia.org/wiki/Vasodilation) of [vessels](https://en.wikipedia.org/wiki/Blood_vessel), glandular activity in the [heart](https://en.wikipedia.org/wiki/Heart), [lungs](https://en.wikipedia.org/wiki/Lung), and [digestive tract](https://en.wikipedia.org/wiki/Gastrointestinal_tract), liver, immune system regulation as well as control of gastrointestinal sensitivity, motility and inflammation.
 
