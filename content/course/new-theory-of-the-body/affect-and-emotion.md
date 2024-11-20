@@ -10,6 +10,8 @@ comments: true
 >   <source src="https://www.dropbox.com/scl/fi/s9n7npajoz53a9zi8rulx/affect-gap.mp3?rlkey=tpmoih60g8o5twrdh1rlg9r4z&raw=1" type="audio/mpeg" >
 > </audio>
 
+> [!info] [[new-theory-of-the-body/affect-and-emotion/glossary|Glossary of Key Terms]]
+
 ---
 
 The first module in our 2023 series A New Theory of the Body involves an examination of affect and emotion, but we will also include a third component - that of disposition. We will need rigorous definitions of these terms.
@@ -129,13 +131,13 @@ One final piece of this pie is the relationship between all of this and action p
 
 ---
 
-> [!todo] [[course/new-theory-of-the-body/affect-and-emotion/study-guide|Ingress the Material with a study guide]]
+> [!todo] [[new-theory-of-the-body/affect-and-emotion/study-guide|Ingress the Material with a study guide]]
 
 ---
 
 ## Further Resources
 
-- [[course/new-theory-of-the-body/affect-and-emotion/glossary|Glossary of Key Terms]]
+- [[new-theory-of-the-body/affect-and-emotion/glossary|Glossary of Key Terms]]
 - [Original Content Material](https://bonnittaroy.substack.com/p/affect-and-emotion-and-disposition/comments)
 
 ## Cohorts

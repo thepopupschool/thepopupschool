@@ -8,6 +8,9 @@ next: false
 
 > [!info] [[guides/ai|Generate your own study guide]]
 
+> [!note]- Glossary of Key Terms
+> ![[course/new-theory-of-the-body/affect-and-emotion/glossary|Glossary of Key Terms]]
+
 ## Short-Answer Quiz
 
 - What is the key distinction between an affect and an emotion? (2-3 sentences)
@@ -32,9 +35,11 @@ next: false
 > - The "depressive mode" is characterized by energy collapse and shutdown, a highly contracted state. The "awakened mode" is a fully expanded state associated with liberation and wisdom. The author suggests that these modes represent extreme ends of the spectrum within the affect streams, influencing their expression and experience.
 > - Breathwork directly impacts the dispositional state by influencing physiological processes like vagal tone and the balance of the autonomic nervous system. By regulating breathing patterns, we can shift our overall energy level, mood, and emotional reactivity.
 > - If someone experiences the affect of anger, a healthy action protocol might involve taking a break to regulate their breathing and heart rate, identifying the source of the anger, and choosing an assertive but respectful way to communicate their feelings or address the situation constructively.
-> - Essay Questions
-> - Discuss the role of early childhood experiences and caregiver interactions in shaping the emotional valence attached to specific affects. How can these early experiences impact emotional regulation and responses throughout life?
-> - Explain the concept of the sensemaking up-hierarchy and its role in healthy emotional processing. How can the narrative-imaginal-mimetic stack disrupt this process, and what strategies can be employed to restore a balanced flow of energy and information?
-> - Analyze the three affect streams identified by Eileen Russel, exploring their evolutionary roots and their potential adaptive functions. Provide examples of how each stream might manifest in both healthy and unhealthy ways.
-> - Discuss the complexities of guilt and shame, exploring their origins, their relationship to societal norms, and their potential impact on individual well-being. How can understanding the distinction between guilt and shame facilitate emotional healing and growth?
-> - Explore the author's additions to Russel’s model - the "depressive mode" and the "awakened mode." How do these states relate to the core affects and affect streams? What insights do they offer regarding the spectrum of human emotional experience and the potential for transformation?
+
+## Essay Questions
+
+- Discuss the role of early childhood experiences and caregiver interactions in shaping the emotional valence attached to specific affects. How can these early experiences impact emotional regulation and responses throughout life?
+- Explain the concept of the sensemaking up-hierarchy and its role in healthy emotional processing. How can the narrative-imaginal-mimetic stack disrupt this process, and what strategies can be employed to restore a balanced flow of energy and information?
+- Analyze the three affect streams identified by Eileen Russel, exploring their evolutionary roots and their potential adaptive functions. Provide examples of how each stream might manifest in both healthy and unhealthy ways.
+- Discuss the complexities of guilt and shame, exploring their origins, their relationship to societal norms, and their potential impact on individual well-being. How can understanding the distinction between guilt and shame facilitate emotional healing and growth?
+- Explore the author's additions to Russel’s model - the "depressive mode" and the "awakened mode." How do these states relate to the core affects and affect streams? What insights do they offer regarding the spectrum of human emotional experience and the potential for transformation?
