@@ -84,6 +84,20 @@ https://www.moralmachine.net/\
 http://ethicsdilemma.ethics-e-learning.com/main-menu\
 https://quandarygame.org/play
 
+## Cohorts
+
+> [!info] Note that access requires a paid membership.
+
+- [Cohort 1](https://bonnittaroy.substack.com/p/video-recording-wuwei-cohort-1)
+- [Cohort 2](https://bonnittaroy.substack.com/p/video-recording-wuwei-cohort-2/comments)
+- [Cohort 3](https://bonnittaroy.substack.com/p/video-recording-wuwei-cohort-3/comments)
+- [Cohort 4](https://bonnittaroy.substack.com/p/video-recording-wuwei-cohort-4/comments)
+- [Cohort 5](https://bonnittaroy.substack.com/p/video-recording-wuwei-cohort-5/comments)
+
+## Further Resources
+
+- [Original Content Material](https://bonnittaroy.substack.com/p/wuwei-effortless-action)
+
 [^1]: Deontology is a rule-based approach where ethical actions are guided by a hierarchy of maxims; right and wrong depend on where the particular maxim lies on the hierarchy. For example, "do not lie" is lower on the rule-hierarchy than "do not kill" therefore it is ethical to lie in order to save a life. By contrast, utilitarianism proposes that every situation can be presented unproblematically through a kind of computation of costs and benefits --- we simply do the math to compute the right course of action.
 
 [^2]: For the relationship between effortlessness, claustrophobia and spaciousness as definitions of Sagehood, see [[seeds/sagehood/sagehood-the-wisdom-stack|Visual Meditation - The Wisdom Stack]]
