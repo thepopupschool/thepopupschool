@@ -1,5 +1,5 @@
 ---
-title: "Why Metaphysics Matters - Hartshorne's Ultimate Contrasts"
+title: "Why Metaphysics Matters by Bonnitta Roy"
 ---
 
 > [!tip] AI generated Conversation
