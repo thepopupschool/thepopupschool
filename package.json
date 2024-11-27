@@ -16,6 +16,7 @@
     "url": "https://github.com/jackyzha0/quartz.git"
   },
   "scripts": {
+    "preinstall": "python -m venv venv && . venv/bin/activate && echo 'Installing Python Dependencies...' && pip install -r requirements.txt",
     "quartz": "./quartz/bootstrap-cli.mjs",
     "docs": "npx quartz build --serve -d docs",
     "check": "tsc --noEmit && npx prettier . --check",
