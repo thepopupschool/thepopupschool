@@ -41,9 +41,13 @@ My looking at the tree *directly effects their response*--- which means my inte
 
 It would be impossible to draw a simple illustration of the complexity of the relations. But in the next post, I will talk more about action protocols and see if we can build more understanding.
 
+
 ---
 
-> [!todo] [[course/new-theory-of-the-body/habitat-and-habitas/study-guide|Ingress the Material with a study guide]]
+> [!todo] [[new-theory-of-the-body/habitat-and-habitas/study-guide|Ingress the Material with a study guide]]
+
+
+> [!todo] [Download](/new-theory-of-the-body/habitat-and-habitas/deck.apkg) your [Anki](https://apps.ankiweb.net/) Deck to learn using [Spaced Repetition](https://gwern.net/spaced-repetition)
 
 ---
 
