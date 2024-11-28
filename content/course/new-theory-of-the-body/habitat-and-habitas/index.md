@@ -44,10 +44,10 @@ It would be impossible to draw a simple illustration of the complexity of the re
 
 ---
 
-> [!todo] [[new-theory-of-the-body/habitat-and-habitas/study-guide|Ingress the Material with a study guide]]
+> [!todo] [[course/new-theory-of-the-body/habitat-and-habitas/study-guide|Ingress the Material with a study guide]]
 
 
-> [!todo] [Download](/new-theory-of-the-body/habitat-and-habitas/deck.apkg) your [Anki](https://apps.ankiweb.net/) Deck to learn using [Spaced Repetition](https://gwern.net/spaced-repetition)
+> [!todo] [Download](course/new-theory-of-the-body/habitat-and-habitas/deck.apkg) your [Anki](https://apps.ankiweb.net/) Deck to learn using [Spaced Repetition](https://gwern.net/spaced-repetition)
 
 ---
 

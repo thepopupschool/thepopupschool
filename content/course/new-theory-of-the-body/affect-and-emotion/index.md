@@ -10,7 +10,7 @@ comments: true
 >   <source src="https://www.dropbox.com/scl/fi/s9n7npajoz53a9zi8rulx/affect-gap.mp3?rlkey=tpmoih60g8o5twrdh1rlg9r4z&raw=1" type="audio/mpeg" >
 > </audio>
 
-> [!info] [[new-theory-of-the-body/affect-and-emotion/glossary|Glossary of Key Terms]]
+> [!info] [[course/new-theory-of-the-body/affect-and-emotion/glossary|Glossary of Key Terms]]
 
 ---
 
