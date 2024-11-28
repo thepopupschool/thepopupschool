@@ -44,9 +44,9 @@ export const Anki: QuartzEmitterPlugin<Partial<AnkiOptions>> = () => {
 
           const out = spawnSync("mdankideck", ["--prefix", "thepopupschool::", directoryPath, tempDir], { stdio: "inherit" })
           if (out.stderr) {
-            throw new Error(chalk.red(`Error create anki denk: ${out.stderr}`))
+            throw new Error(chalk.red(`Error create anki deck: ${out.stderr}`))
           } else if (out.status !== 0) {
-            throw new Error(chalk.red("Error while pulling updates", JSON.stringify(out, null, 2)))
+            throw new Error(chalk.red("Error create anki deck", JSON.stringify(out, null, 2)))
           }
 
 
