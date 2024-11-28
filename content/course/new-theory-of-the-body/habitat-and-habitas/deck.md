@@ -6,6 +6,8 @@ prev:
 next: false
 ---
 
+> [!note] [[course/new-theory-of-the-body/habitat-and-habitas/deck.apkg|Download]] Anki Deck
+
 
 # Habitat and Habitas
 
