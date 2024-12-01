@@ -1,6 +1,6 @@
 # Content
 
-## 0.6.0 (date)
+## 0.6.0 (2024-12-01)
 
 ### Minor Changes
 
