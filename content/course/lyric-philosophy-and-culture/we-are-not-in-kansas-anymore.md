@@ -17,7 +17,7 @@ Hollings has recently called the Anthropocene "the Back Loop." The back loop of 
 
 > We are not in Kansas anymore.
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/uPnfuczOWb8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](https://www.youtube.com/watch?v=uPnfuczOWb8)
 
 Holling's point is that we are not in the Holocene anymore. And though we like to talk about resilience and resilience thinking, this is merely a way to fool ourselves into thinking that the Holocene might outlast its period. Because, you see, once people had the idea of the panarchy in their minds, they believed they could strategize themselves out of the back-loop phase. But that is not what the panarchy is meant to illustrate. The back loop is, *by definition*, a place where all strategies break down, and we should not be surprised to be surprised, because it is a phase of unprecedented events and novel occassions. I don't want to say much more about this, but please read (or re-read) [this post](https://open.substack.com/pub/bonnittaroy/p/time-change-and-causality-notes-toward-8e7?r=108vl&utm_campaign=post&utm_medium=web) before you continue on.
 
@@ -63,7 +63,7 @@ Unlike singing which is expansive and open, saying begins to be much more direct
 
 Narrative forms of saying begin with story (tell) ing and swell to the great epics: Gilgamesh, Beowulf, Le Morte D'Arthur, The Illiad, The Odyssey. The epics go to great lengths to tell us more than what they say--- they withdraw the invitation to respond, but as a result, open themselves up to questions of interpretation. Unlike saying which is an invitation to *participate with*, telling creates *a thing* that can be *commented on*. Even before text was invented, meaning becomes more fixed--- more thing-like.
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/BV9t3Cp18Rc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](https://www.youtube.com/watch?v=BV9t3Cp18Rc)
 
 Cue the axial age "naming game", and we begin to think with thing-thoughts.
 

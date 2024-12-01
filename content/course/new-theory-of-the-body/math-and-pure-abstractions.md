@@ -32,13 +32,13 @@ Here is another illustration. Can you see what is not there?
 We can also think of "simple rules" as "patterns that connect." Think of how a triangle is like a circle in some respect. The 6 trigonometry equations are answers to this question.
 
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/Dsf6ADwJ66E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](https://www.youtube.com/watch?v=Dsf6ADwJ66E)
 
 
 There are many beautiful visualizations of these kind of geometrical functions. Here is another one
 
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/JteQEN1XPyc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](https://www.youtube.com/watch?v=JteQEN1XPyc)
 
 The following shows how the Fibonacci sequence is related to nested rectangles and squares. Can you see what the rules are for nesting?
 
@@ -95,23 +95,23 @@ But, he emphasizes, it arises *now*, "not as a religious or superstitious belie
 
 One of the most fascinating areas of abstraction, is how musicians find math in music, and mathematicians see music in the equations. Here is an animated version of how music can reveal the rhythmic patterns of the prime numbers:
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/8x374slJGuo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](https://www.youtube.com/watch?v=8x374slJGuo)
 
 Here is a musical representation of the Fibonacci Sequence
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/IGJeGOw8TzQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](https://www.youtube.com/watch?v=IGJeGOw8TzQ)
 
 And here is a video showing how music is related to geometric shape
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/ZWzwb4BumIk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](https://www.youtube.com/watch?v=ZWzwb4BumIk)
 
 And of course, we all know how different frequencies can create mandala-like shapes. Here are some particularly spectacular ones:
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/EdXkFfzYZPU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](https://www.youtube.com/watch?v=EdXkFfzYZPU)
 
 This video, although it's really a cheeky advertisement, shows us why the Indian, Tibetan and other eastern traditions, developed harmonic chants (like OM) to create a holographic resonance in the body, mind, and space.
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/vN-n3Q9d6Q8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](https://www.youtube.com/watch?v=vN-n3Q9d6Q8)
 
 ## Meta-mathematics
 
@@ -119,7 +119,7 @@ Once we find hidden patterns in nature, and turn them into mathematical formulas
 
 This is why I claim that math is the way the mind *directly enters the world*. It is, in a very literal sense, an organ of perception. We can work out the spatial relations and imaginary terrain of a torus (and other dimensional surfaces called Riemann surfaces or Lawson Surfaces) and that imaginary landscape is found to represent some parts of "physical" reality, whether those be processes in laminar flow, or vector-space forces in space-time.
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/cermfDnqQ5M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](https://www.youtube.com/watch?v=cermfDnqQ5M)
 
 ## Meta(mind)
 
@@ -131,8 +131,8 @@ Sometimes abstractions are created by the mind in order to represent itself as i
 
 Finally, the very possibility of the mind's working with geometric and abstract forms might be attributable to the fundamental global patterns that the mind assumes when the sensori-motor elements of experience--- sensation, perception, movement --- are suspended as in, for example, deep meditation states, hypnotic trance. Phenomena such as kaleidoscopic tetrads, intersecting vortices, and complex mandala-like theatres can spontaneously arise and display in awareness. These experiences are often also induced by dark-meditation retreats, or psychedelics. Once the psychological and social content of memory and imagination are quiesced, the "raw material" of the mind itself foregrounds into the spaces of awareness. These spaces can be point-like lights (0 D), slivers or rays of luminosity (2D), crystals or geometric shapes (3D) or blow up into a planetarium-like experience where one is surrounded by magical imagery that is laden with non-linguistic meaning (4 D). This later experience is considered 4 dimensional, because the planetarium-like surround constitutes both the spatial and temporal experience of being "in it" rather than of looking at it. Kasina meditations are specifically designed for these purposes. In other words, I am suggesting that our ordinary experience is constituted by 3 D space, and the temporal dimension that situates us "inside it" as experiential awareness, rather than as an outside observer. The fascinating shift that happens in Kasina meditation, for example, is that one is able to experience that which one is initially observing, wrapping around oneself into a larger reality that one belongs to, rather than is witness from afar. Here the boundary that separates is time, not space. For when one is witnessing the 3 D world from somewhere else, for example, observing the earth from the space station, one is situated in a different temporal dimension. One has stepped out of the temporal frame that is the pulse of the living earth, and into the temporal frame that is elsewhere. This I believe is what we mean by time being relative to travel in space. We are literally, transporting ourselves into and out of temporal frames which are felt *psychologically,* because they are *real features* of the universe. It is this sense in time also functions as Gibson's perceptual array, a gradient-field that constitutes the causal manifold of universal relations. In short, what I am proposing is that the Kasina meditation experience of the shift from outside observer of 3 D objects, to inside inhabitant of that very same 3 D world, (the object-to-subject shift), while experienced as something that has to do with spatial dimensions, is *in reality the shift between temporal realms*. This is something Gebser intuited--- the primacy of temporics with respect to aperspectival consciousness.[^2] These kinds of experiences infer, affirm, or confirm --- i.e. validate to one degree or another --- that the original patterns are encoded by the underlying process-nature-intelligence of the universe, rather than merely stamped on our minds through the contingent evolution of our species on this planet, or the conditioned development of individuals. Rather there is a deep sense what is being revealed are the very same patterns-process-intelligence that underlies sentience, consciousness and awareness itself. The question of whether we can see dimensional patterns, like mandalas and fractals, because we live in a dimensional world, or whether we see the world as dimensional and fractal, because those are the properties that our mind draws upon to organize it--- this debate is no longer meaningful. Reality-pattern and mind-pattern are seen as isomorphic, twins, as it were, branched from the womb of source, and connected there still.
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/2a9jH8yT454" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/kQssmpgZMQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](https://www.youtube.com/watch?v=2a9jH8yT454)
+![](https://www.youtube.com/watch?v=kQssmpgZMQc)
 
 ## Action Protocols
 
@@ -146,22 +146,22 @@ In our New Theory of the Body, we are employing the core term of "action protoco
 
 **Many mathematical operations** are action protocols involving geometric shape. As we already discussed, math can reveal the hidden shape behind what appears. Math can also reveal the hidden relationships --- the mechanism, which may be a real or hypothetical mechanism. We can say the movement is such because it is "as if" it were constrained by an ellipse. The "ellipse may be a discrete physical thing, or it may be a particular force or field --- something more virtual, that is operating in a much more complex or subtle way. Consider for example, this video
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/-VjbYI-eaTQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](https://www.youtube.com/watch?v=-VjbYI-eaTQ)
 
 If you observed something that behaved in this way, you could infer that there was a hidden "ellipse" effecting the behavior. The complexity you are seeing is actually a result of a simple constraint --- a simple rule. The complex patterns and movements of murmurations, are based on simple "rules."
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/eakKfY5aHmY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](https://www.youtube.com/watch?v=eakKfY5aHmY)
 
 I think that you can see how the term "action protocol" covers the idea here, where simple rules (the protocols) "code" for complex patterns:
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/Fgu5-3ihVVI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](https://www.youtube.com/watch?v=Fgu5-3ihVVI)
 
 **Here is another example.**\
 We have already covered how rats can simulate their environments by running a maze several times, and then extracting the information into a map which shows them the shortest route. We also saw how rats can simulate hypothetical environments during REM sleep, wherein they combine parts of maze maps with parts of other maze maps, and learn how to run the hypothetical mazes. This explains how the rats accelerate their learning over time, because they anticipate possible mazes that the researcher may present to them.
 
 Now watch this video on robotic mice and the evolution of their software (protocols) and hardware (action potentials).
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/ZMQbHMgK2rw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](https://www.youtube.com/watch?v=ZMQbHMgK2rw)
 
 At around the 16 minute mark, you see something new. The mice are not creating hypothetical paths, but are creating paths that are "pure abstractions" --- they are not constructed by the walls of the maze, but by the "insights" of the creator. In other words, the paths that the mice run, are "real" in the sense that they are "there" in the maze, but "virtual" in the sense that there is a process of "pure abstraction" that happens to reveal them. This is why I say that "pure abstractions" are the way that the mind *directly enters the world*. It means that the mind perceives what is actually there, but not there, actually. It is *there potentially*, depending upon the mind's ability to virtualize its existence.
 
@@ -169,7 +169,7 @@ I can imagine a different maze than the one I am in. But that doesn't help me so
 
 This is where the realm of Magĩk-Realité, in which we enter the causal manifold of reality. This is why mathematicians have spiritual experiences around beautiful equations, like Euler's Equation.
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/v0YEaeIClKY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](https://www.youtube.com/watch?v=v0YEaeIClKY)
 
 Think of the path around the circle in the same way we saw the virtual paths in the maze. These are paths that quantum particles follow --- but they are not constructed by any "thing" --- they are the virtual-real, the Magĩk-Realité of the universal life flow, source code, as it were. In terms of our model of Action Protocols & Habitat/Habitas, these virtual-real orders are pure protocols, pure habitas, and therefore, "pure interiority." They are the way the universe is actually related--- not through external participation, but through a living-tissue-fabric of internal relations, the pure potential of what is not actually the case.
 
@@ -182,10 +182,10 @@ Enlightenment is the ability to "see" the pure paths ... maybe that's why it's c
 
 ![circle trig animation](images/action-protocols.gif)
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/hXOEoH5q3Hw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/SLVSG1H2BC8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/IZEiaF_-FeA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/f1x9lgX8GaE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](https://www.youtube.com/watch?v=hXOEoH5q3Hw)
+![](https://www.youtube.com/watch?v=SLVSG1H2BC8)
+![](https://www.youtube.com/watch?v=IZEiaF_-FeA)
+![](https://www.youtube.com/watch?v=f1x9lgX8GaE)
 
 ## Further Resources
 

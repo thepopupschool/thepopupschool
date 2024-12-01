@@ -51,7 +51,7 @@ David Ronfeldt distinguished between four forms of societal organization based o
 
 Ronfeldt emphasized that each prior form must be rebalanced and integrated into the new form which includes the healthy functioning of all forms; such that, we live not in an N-era, but a TIM+N one. Still during the transition phase, we should expect the feeling of precarity, and philosophical, ideological and material struggles. In other words, we should expect a struggle around *Who Gets to Build the World We Will Live In?*
 
-<iframe src="https://www.youtube-nocookie.com/embed/kYfNvmF0Bqw" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="100%" height="500"></iframe>
+![](https://www.youtube.com/watch?v=kYfNvmF0Bqw)
 
 AJP-JSB offer a revised version of Ronfeldt's framework. They propose that the network effect is not just another add-on, but it is an exponential factor. That we live in a "TIM to the *power of N"* world, which they characterize as "a white-water-world."
 

@@ -20,15 +20,15 @@ comments: true
 
 Two particles "wave" at each other. The principle of ingression means that there is mutual interference. Interference is an unpleasant word here. The physicists say that there is either constructive or destructive interference. The waves either grow together, or cancel each other out. They come into contact and there is a pertubation, a fluxuation, a turbluence. Two particles enter, something new comes out. Resonance means they begin to sing together, conjoining twins. Every atom in your body resonates, within and without. Hummmmming. How the circada makes his song--- captures the universe beneath his skin, resonating for a mate.
 
-<iframe src="https://www.youtube-nocookie.com/embed/3IUPd3yDHGo" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="100%" height="500"></iframe>
+![](https://www.youtube.com/watch?v=3IUPd3yDHGo)
 
 It's resonance, all the wave up and all the wave down.
 
-<iframe src="https://www.youtube-nocookie.com/embed/KWzyQKcJBYg" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="100%" height="500"></iframe>
+![](https://www.youtube.com/watch?v=KWzyQKcJBYg)
 
 All of the molecular work being done in this video is a result of highly sophisticated resonance patterns, formations and deformations.
 
-<iframe src="https://www.youtube-nocookie.com/embed/BD6h-wDj7bw" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="100%" height="500"></iframe>
+![](https://www.youtube.com/watch?v=BD6h-wDj7bw)
 
 > [!quote] ​
 > Rhythm overcomes the epstemological split between subject and object,\
@@ -42,16 +42,16 @@ All of the molecular work being done in this video is a result of highly sophist
 
 Resonance produces order, enabling sentience to emerge. It would be impossible for a merely sentient creature to survive in a disordered environment, because we are defining sentience as an organism that just oscillates in response to what it senses in its envrionment. This creature cannot cognize other possibilities. It just responds to moment-by-moment stimuli. Individual neurons are sentient.
 
-<iframe src="https://www.youtube-nocookie.com/embed/RxBQ1ICEnKE" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="100%" height="500"></iframe>
+![](https://www.youtube.com/watch?v=RxBQ1ICEnKE)
 
 So are these plants and animals
 
-<iframe src="https://www.youtube-nocookie.com/embed/OTv-RQcckQc" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="100%" height="500"></iframe>
+![](https://www.youtube.com/watch?v=OTv-RQcckQc)
 
 The amoeba, tho --- might just be on the cusp of another level.
 
-<iframe src="https://www.youtube-nocookie.com/embed/mv6Ehv06mXY" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="100%" height="500"></iframe>
-<iframe src="https://www.youtube-nocookie.com/embed/io731XY8fH8" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="100%" height="500"></iframe>
+![](https://www.youtube.com/watch?v=mv6Ehv06mXY)
+![](https://www.youtube.com/watch?v=io731XY8fH8)
 
 > [!quote] ​
 > Rhythm is real growth, overcoming the dualism between continuity and discontinuity; it is new creation, both objective and subjective.\
@@ -59,7 +59,7 @@ The amoeba, tho --- might just be on the cusp of another level.
 
 Individual neurons might be merely sentient, but immune cells might be cognizant!
 
-<iframe src="https://www.youtube-nocookie.com/embed/iZYLeIJwe4w" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="100%" height="500"></iframe>
+![](https://www.youtube.com/watch?v=iZYLeIJwe4w)
 
 ## Cognizance
 
@@ -67,7 +67,7 @@ Individual neurons might be merely sentient, but immune cells might be cognizant
 
 Cognizance is just resonance bubbling up from deeper below.... Just?
 
-<iframe src="https://www.youtube-nocookie.com/embed/Gui3IswQ0DI" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="100%" height="500"></iframe>
+![](https://www.youtube.com/watch?v=Gui3IswQ0DI)
 
 Can you see how many new values are being derived here by 007, the crow? Values propogate inside cognitive events that grow.
 
@@ -80,8 +80,8 @@ Can you see how many new values are being derived here by 007, the crow? Values 
 
 ***predictive processing in simulated novel environments that the agent then builds intentionally, creating a conscious feedback loop between the agent and the arena--- world building.***
 
-<iframe src="https://www.youtube-nocookie.com/embed/5sNFveHpkwI" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="100%" height="500"></iframe>
-<iframe src="https://www.youtube-nocookie.com/embed/NPic_MsN-y8" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="100%" height="500"></iframe>
+![](https://www.youtube.com/watch?v=5sNFveHpkwI)
+![](https://www.youtube.com/watch?v=NPic_MsN-y8)
 
 ---
 
@@ -101,11 +101,11 @@ Barry Sandywell describes the problem situation:
 
 Reflexivity in this sense can be seen as a turn inward, toward the virtual self. But where exactly is "inward?" The sense of "interiority" --- that the self somehow resides "inside my body-being" is a *symptom of the simulated self*. It leads to the Homunculus Fallacy:
 
-<iframe src="https://www.youtube-nocookie.com/embed/VthqMOriFAc" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="100%" height="500"></iframe>
+![](https://www.youtube.com/watch?v=VthqMOriFAc)
 
 Many people already know that there is not a "little man" in one's head. Yet, they still operate as if there is a Little Me, or several "me's" or even an "authentic me" that remains behind the scenes, as it were, contemplating reality, making decisions, and running the show (for better or for worse). This version places the seat of the self in the psychological structures (or the soul) oftentimes felt as located in the solar plexus region. What is interesting, is that the brain and the heart are the two centers of electical signalling --- resonant centers, as it were --- in your body.
 
-<iframe src="https://www.youtube-nocookie.com/embed/oXmGyKoJosk" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="100%" height="500"></iframe>
+![](https://www.youtube.com/watch?v=oXmGyKoJosk)
 
 **Lyric Reflexivity** offers an alternative to this kind of reflexivity which bounds the self inside the boundary of the body. Here the body is represented as an interface between "objective reality" on the outside and "subjective reality" on the inside. If you reject the one, you spoil the other--- either being locked inside one's own mind bound to subjective solipsism, or being exiled from your inner life and bound to a world of mere appearances and surfaces. As Erizam Kohak (in The *Embers and the Stars*) writes:
 
@@ -145,7 +145,7 @@ Pure Radiance, or luminosity, is a state where even the subtle separation betwee
 
 **The Rhythms of Being**
 
-<iframe src="https://www.youtube-nocookie.com/embed/ZyXrtODhJEA" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="100%" height="500"></iframe>
+![](https://www.youtube.com/watch?v=ZyXrtODhJEA)
 
 ## Cohort
 

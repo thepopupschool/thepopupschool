@@ -53,7 +53,7 @@ Recursivity means something like "start at square one, you always return to squa
 Infinite regression is a particular kind of recursivity. It often comes up when people are doing awareness practices. First, you notice that "someone is aware," and that comes as an insight. But then you wonder, "who is aware that someone is aware?" and *that *comes as an insight.[^1] In this case, infinite regression occurs because people take the insight to mean that there is someone behind the curtain. This is a subtle reification that we should pay no attention to, *because there is no man behind the curtain*. The experience itself, given in the very first realization *is the insight.* It merely repeats itself as the very same insight in different "meta" versions of itself. The construction remains the same, no matter how meta we go on it. This of course, points to why it is an instance of recursion. No matter how meta we go to escape it, the same insight appears over and over again. Back to square one.
 
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/YWyCCJ6B2WE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](https://www.youtube.com/watch?v=YWyCCJ6B2WE)
 
 ### Reflexivity: sense-full- ness/ mindful heeding
 

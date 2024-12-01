@@ -10,20 +10,20 @@ comments: true
 > An utterance, a gesture, is clear if it is transparent; if it renders what is on the other side of the glass easier to understand, accept, respond to, or love; if it facilitates the integrity of our being in the world.\
 > – Jan Zwicky, Lyric Philosophy
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/OBk3ynRbtsw?si=XK1f-1Q28KDFnc7F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![](https://www.youtube.com/watch?v=OBk3ynRbtsw)
 
 
 > [!quote]
 > A gesture is meaningful to the extent that it addresses a being in its life, from out of the life of the gesturing being. Another way of putting this is to say that meaning lives through, or rides, the recognition of what is common.\
 > – Jan Zwicky, Wisdom & Metaphor
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/rcDaB-P9sK8?si=1lXdwnVhNartHSgJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![](https://www.youtube.com/watch?v=rcDaB-P9sK8)
 
 > [!quote]
 > A gesture is the immediate, untutored response of a human being to meaning.\
 > – Jan Zwicky, Lyric Philosophy
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/Gw4jplu713g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![](https://www.youtube.com/watch?v=Gw4jplu713g)
 
 The skin is the outer stuff of the brain and the brain is the inner stuff of the skin.
 
@@ -55,7 +55,7 @@ What would it mean to develop the intelligence in our hands?
 
 ## Bonus Material
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/PJwDiSBafIQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![](https://www.youtube.com/watch?v=PJwDiSBafIQ)
 
 ## Cohort
 

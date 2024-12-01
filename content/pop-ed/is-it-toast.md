@@ -93,7 +93,7 @@ And that, ultimately is what AI is: people on one end exercising their intellige
 > [!note] ​
 > Language does not compute.
 
-<iframe src="https://www.youtube-nocookie.com/embed/ZBAijg5Betw" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="100%" height="500"></iframe>
+![](https://www.youtube.com/watch?v=ZBAijg5Betw)
 
 **The conversation around AGI parallels the Daoist anti-language period in ancient China.** Put bluntly, the Daoists thought that we would get into big trouble if we started to try to solve important problems, or to understand deep realities through language. The Mohists and Confucians, on the other hand, thought that language was essential for perpetuating the social order, and believed that the task of leaders was to*rectify the names*. In a sense, this is how the modern order was established--- by creating rule books that had the ultimate authority to control the behavior of the people. During the switch from the mythic-oral era in human cultural evolution to the theoretic-text era, the King became displaced by the*sacred text*, which represented the*Logos*or the*word of God.*Religious leaders on the back end, and religious followers on the user end, with a book in between. Sound familiar?
 

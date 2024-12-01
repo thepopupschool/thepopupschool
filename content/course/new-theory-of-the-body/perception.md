@@ -181,7 +181,7 @@ A new theory of the body would incorporate an ecological theory of perception an
 ## Further Resources
 
 <figure>
-    <iframe width="100%" height="1000" src="https://www.youtube.com/embed/0RqdXqxhfqk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    ![](https://www.youtube.com/watch?v=0RqdXqxhfqk)
     <figcaption>
         <a target="_blrank" href="https://bonnittaroy.substack.com/p/video-on-perceptual-density/comments">View Original Content</a></figcaption>
 </figure>

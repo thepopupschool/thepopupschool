@@ -18,7 +18,7 @@ In the end of Stanley Kubrik's *2001 Space Odessey *we see an image popularly 
 
 Alan Watts describes the life force of planets, in this humorous little video:
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/JZbThJg6ehU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](https://www.youtube.com/watch?v=JZbThJg6ehU)
 
 [In 2013, the Plank cosmology probe](https://www.nbcnews.com/sciencemain/planck-probes-cosmic-baby-picture-revises-universes-vital-statistics-1c8986034) released a the mission's first all-sky image of the cosmic background radiation, dubbed "a post-big bang baby picture."
 
@@ -27,11 +27,11 @@ Alan Watts describes the life force of planets, in this humorous little video:
 Returning again to Alan Watts, describing the polarity we set up between "prickly" ones (the scientists, engineers, architects) and the "gooey" ones (the spiritual, religious and artistic) ...
 
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/D4vHnM8WPvU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](https://www.youtube.com/watch?v=D4vHnM8WPvU)
 
 And here we have a "standard" interpretation of human evolution
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/SUCS7l4-EU0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](https://www.youtube.com/watch?v=SUCS7l4-EU0)
 
 We have to be very cautious with this conventional way of looking at evolution. It resembles a developmental sequence in which the prior forms are no longer there. But in evolution, the earlier forms are still here, along with us, evolving. The tree has many branches, some break and fall, some flourish and bear fruit, some are new start-ups budding from the broken ends of other branches. One branch doesn't come from another branch. All the branches come from the tree unfolding from the seed. The way we tell the story of evolution is pre-loaded with the conclusion that we are the be-all and end-all of a great cosmic plan. Is there really a top branch? No. All the branches branch from the trunk.
 
@@ -39,11 +39,11 @@ Let me tell the story of evolution that is closer to the truth. The universe evo
 
 We also like to tell the story of evolution with the Earth as the central protagonist. This is of course, most important perspective for us. But what if we zoom out, and see the Earth and her companions, journeying through space, as an evolving ecology?
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/1lPJ5SX5p08" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](https://www.youtube.com/watch?v=1lPJ5SX5p08)
 
 What about the grand flows of galaxies toward local attractors, and the entire energy system of Laniakea?
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/rENyyRwxpHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](https://www.youtube.com/watch?v=rENyyRwxpHo)
 
 
 Zooming out, we don't see most of the universe making the same experiment as here on earth. We see something larger, grander in scale. What if we contemplated on Laniakea and asked: what is the telos of the universe? Is it toward "complexification" as we understand it, up our branch of the evolutionary tree here on earth? Why are all those *bodies in space*, orchestrating themselves in this way? Where are we going? Who shall we become? Whither, O God?

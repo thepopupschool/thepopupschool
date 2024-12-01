@@ -38,7 +38,7 @@ Attending to in this way requires us to connect with, or resonate with the parti
 
 Finally, attending in this manner, renders the world as fully animated, as fully alive.
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/jOIDXUxYi98?si=UTJ_kIZeWtA3Qzzv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![](https://www.youtube.com/watch?v=jOIDXUxYi98)
 
 
 What is the goal of lyric approach to life?

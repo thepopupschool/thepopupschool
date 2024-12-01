@@ -152,5 +152,5 @@ In this module, we will practice using language as action-protocols, which is a 
 
 [^8]: If you ever wonder about how paticle physics works, based on the triple: fundamental particles, fundamental forces, and fundamental interactions, and why this simple model can explain the entire universe, then you understand how elemental triples are, and that while they are formed in the mind, they arise in interaction with the world, as world. See
 
-    <iframe width="100%" height="300" src="https://www.youtube.com/embed/TDYex6VSd7o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](https://www.youtube.com/watch?v=TDYex6VSd7o)
 

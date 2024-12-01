@@ -8,9 +8,9 @@ draft: true
 
 The first two "After Skool" videos are warm-ups for the final, extremely well done "Line Goes Up" video, which is rather long, so you might have to watch it in two or three session. Please watch it all.
 
-<iframe src="https://www.youtube-nocookie.com/embed/0xQ_OTilgEM" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="100%" height="500"></iframe>
-<iframe src="https://www.youtube-nocookie.com/embed/qGHMyxYSa58" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="100%" height="500"></iframe>
-<iframe src="https://www.youtube-nocookie.com/embed/YQ_xWvX1n9g" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="100%" height="500"></iframe>
+![](https://www.youtube.com/watch?v=0xQ_OTilgEM)
+![](https://www.youtube.com/watch?v=qGHMyxYSa58)
+![](https://www.youtube.com/watch?v=YQ_xWvX1n9g)
 
 [Cosmopolitan Self Session 1 OZ Group - YouTube](https://www.youtube.com/watch?v=MwaFR8pZEr4&embeds_referring_euri=https%3A%2F%2Fbonnittaroy.substack.com%2F)
 [TheCosmopolitan Self 1 Main Session - YouTube](https://www.youtube.com/watch?v=HqNwNbsAcLI)
@@ -21,7 +21,7 @@ The Gold Hole Video from Sebastian Soldago (human labor as “energy for free”
 
 The Great Simplification Animation (series in progress) - You can find lots of presentations he does with lots of information, graphs and data points by googling him
 
-<iframe src="https://www.youtube.com/embed/-xr9rIQxwj4?si=lBOFTA1OWVnWDb2d" frameborder="0" loading="lazy" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" width="100%" height="500"></iframe>
+![](https://www.youtube.com/watch?v=-xr9rIQxwj4?si=lBOFTA1OWVnWDb2d)
 
 **Session Exercises:**
 

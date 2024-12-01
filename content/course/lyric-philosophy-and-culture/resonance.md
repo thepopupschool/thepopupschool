@@ -72,7 +72,7 @@ Alfred Staraat 1979 p. 12-14
 
 ---
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/VPLCk-FTVvw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![](https://www.youtube.com/watch?v=VPLCk-FTVvw)
 
 ## Cohorts
 
