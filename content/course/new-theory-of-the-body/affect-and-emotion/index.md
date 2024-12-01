@@ -133,6 +133,9 @@ One final piece of this pie is the relationship between all of this and action p
 
 > [!todo] [[new-theory-of-the-body/affect-and-emotion/study-guide|Ingress the Material with a study guide]]
 
+> [!todo] [Download](new-theory-of-the-body/affect-and-emotion/deck.apkg) your [Anki](https://apps.ankiweb.net/) Deck to learn using [Spaced Repetition](https://gwern.net/spaced-repetition)
+
+
 ---
 
 ## Further Resources
