@@ -31,7 +31,7 @@ This kind of fractal overlap between asymmetric internal and external relations 
 
 Let me give you an example. When I see a tree in my habitat, this creates a cascade of actions in my body at micro-scales. Think of neurons trying to find each other and attempting to connect:
 
-![](https://www.youtube.com/watch?v=RxBQ1ICEnKE)
+![](https://www.youtube-nocookie.com/watch?v=RxBQ1ICEnKE)
 
 My looking at the tree *directly effects their response*--- which means my interaction with my habitat changes the habitat in which my neurons seek to connect (or disconnect) from each other. In turn, the habitas of the neurons are changing (individually) and also changing their collective habitat. These changes, become a habitas of my self--- action protocols that code for tending to do more of this and less of that. Perhaps it results in me looking more at trees and less at twitter. More interaction, enaction, and habitas-creating together, and I might be embued with the habitas of affection for the tree. If I develop affection for the tree, I will have certain action protocols that I might not have had before.
 

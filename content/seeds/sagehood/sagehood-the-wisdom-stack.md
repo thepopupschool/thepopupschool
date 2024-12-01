@@ -24,7 +24,7 @@ This then, is the Wisdom stack model I am proposing for Sagehood.
 
 Here is a visual meditation on the three wisdoms of Sagehood, I hope you find it both meaningful and useful.
 
-![](https://www.youtube.com/watch?v=B6jB5hiHm8Q)
+![](https://www.youtube-nocookie.com/watch?v=B6jB5hiHm8Q)
 
 
 ## Further Resources

@@ -11,7 +11,7 @@ next:
 comments: true
 ---
 
-![](https://www.youtube.com/watch?v=o6q1dDAv6zY)
+![](https://www.youtube-nocookie.com/watch?v=o6q1dDAv6zY)
 
 The philosopher-architect Christopher Alexander devoted his entire life to the questions of "what creates more life?" and "what creates wholeness?" He considered this question across all categories: people, animals, ecosystems, landscapes, gardens, buildings, artifacts, art, and objects--- from the grandiose to the ordinary. His journey was both intellectual and empirical, philosophical and aesthetic, personal and universal. It led him to discard the many dualisms that plague us today --- subject/object; natural/man-made; wild/domestic; process/pattern. He intuited vast potential in the universe to create beauty and order, and remained persistent in his efforts to convince people that humans had this same capacity, if they were willing to look deeper into the "nature of order," and "principles of wholeness." His seminal work, a four-volume, 2000 page "essay on the art of building and the nature of the universe" is widely regarded as a singular achievement of the human mind and spirit. He inspired many architects, and his "pattern language" approach to design sparked a side industry of pattern languages across many disiciplines.
 
@@ -60,7 +60,7 @@ Lacking "exactness", the promise of the digital revolution was just wishful thin
 >
 > This is an extraordinary vision of the future, in which computers play a fundamental role in making the world---and above all the built structure of the world---alive, humane, ecologically profound, and with a deep living structure. I realize that you may be surprised by my conclusion. This is not what I am, technically, supposed to have been talking about to you. Or you may say, Well, great idea, but we're not interested. I hope that is not your reaction. I hope that all of you, as members of a great profession of the future, will decide to help me, and to help yourselves, by taking part in this enormous world-wide effort. I do think you are capable of it. And I do not think any other professional body has quite the ability, or the natural opportunity for influence, to do this job as it must be done.
 
-![](https://www.youtube.com/watch?v=98LdFA-_zfA)
+![](https://www.youtube-nocookie.com/watch?v=98LdFA-_zfA)
 
 Who, if anyone there, remembers that significant warning? It seems to me that it was the most important part of the occasion. It was both a golden moment and a missed opportunity for designing new ontologies for back loop realities. In 2009, following the OOPSLA event, in anticipation of the influence that Alexander's *The Nature of Origin* might have on the agile community in specific and the programming community in general, a trio of young people[^1] wrote an article titled *[Agile, Anthropology, and Alexander's Architecture: An Essay in Three Voices](https://www.academia.edu/394903/Agile_Anthropology_and_Alexanders_Architecture_An_Essay_In_Three_Voices_co_authored_with_Pam_Postal_and_Dave_West_)* stating:
 
@@ -158,7 +158,7 @@ Working with centers-unfolding-wholeness means capturing the essence of what cre
 > [!note] Watch: Christopher Alexander's photos
 > Can you sense into the living centers of each photograph, notice what gives them life, what makes them wholes?
 >
-![](https://www.youtube.com/watch?v=myXvgYtWMJU)
+![](https://www.youtube-nocookie.com/watch?v=myXvgYtWMJU)
 >
 
 > [!note] ​
@@ -424,7 +424,7 @@ Interactive- Participatory
 
 ## Bonus Material
 
-![](https://www.youtube.com/watch?v=FptmjWzj6Vw)
+![](https://www.youtube-nocookie.com/watch?v=FptmjWzj6Vw)
 
 ## Cohorts
 

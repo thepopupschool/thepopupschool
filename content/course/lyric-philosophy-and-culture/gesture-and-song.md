@@ -10,20 +10,20 @@ comments: true
 > An utterance, a gesture, is clear if it is transparent; if it renders what is on the other side of the glass easier to understand, accept, respond to, or love; if it facilitates the integrity of our being in the world.\
 > – Jan Zwicky, Lyric Philosophy
 
-![](https://www.youtube.com/watch?v=OBk3ynRbtsw)
+![](https://www.youtube-nocookie.com/watch?v=OBk3ynRbtsw)
 
 
 > [!quote]
 > A gesture is meaningful to the extent that it addresses a being in its life, from out of the life of the gesturing being. Another way of putting this is to say that meaning lives through, or rides, the recognition of what is common.\
 > – Jan Zwicky, Wisdom & Metaphor
 
-![](https://www.youtube.com/watch?v=rcDaB-P9sK8)
+![](https://www.youtube-nocookie.com/watch?v=rcDaB-P9sK8)
 
 > [!quote]
 > A gesture is the immediate, untutored response of a human being to meaning.\
 > – Jan Zwicky, Lyric Philosophy
 
-![](https://www.youtube.com/watch?v=Gw4jplu713g)
+![](https://www.youtube-nocookie.com/watch?v=Gw4jplu713g)
 
 The skin is the outer stuff of the brain and the brain is the inner stuff of the skin.
 
@@ -55,7 +55,7 @@ What would it mean to develop the intelligence in our hands?
 
 ## Bonus Material
 
-![](https://www.youtube.com/watch?v=PJwDiSBafIQ)
+![](https://www.youtube-nocookie.com/watch?v=PJwDiSBafIQ)
 
 ## Cohort
 

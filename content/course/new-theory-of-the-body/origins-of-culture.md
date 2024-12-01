@@ -6,7 +6,7 @@ order: 15
 comments: true
 ---
 
-![](https://www.youtube.com/watch?v=U93x9AWeuOA)
+![](https://www.youtube-nocookie.com/watch?v=U93x9AWeuOA)
 
 In the video above, Michael Levin tries to draw strong parallels between individual and collective intelligence. I am trying to understand the intuitive distinction between the compound individual and the collective society of compound individuals. I have been arguing that the terms specified by process relational philosophy: *internal *and *external* relations, can help us proceed with more clarity.
 

@@ -38,7 +38,7 @@ The first account is recognizably *religious, *but what about the second and t
 
 Here is Sadhguru talking about his experience growing up (until 1:07:50). What do you see?
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/_cPD7l1LEDA?start=3603" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://www.youtube-nocookie.com/embed/_cPD7l1LEDA?start=3603" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [watch full episode here](https://youtu.be/_cPD7l1LEDA?si=lrpcnf7j2qmXhocX)
 
@@ -46,7 +46,7 @@ While western religious experiences can lead to self-agrandisement and its extre
 
 What if the entire problem is that we are in pursuit of happiness, but we are resistant to the joy that arises from accessing a natural state? Here is Sadhguru again (util 1:47:37).
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/_cPD7l1LEDA?start=6272" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://www.youtube-nocookie.com/embed/_cPD7l1LEDA?start=6272" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 I only pick Sadhguru now because he popped up into my YouTube feed this morning. There are thousands of different views of reality from all these teachers and preachers. This percolates into billions of different ways to engage reality from everyday people.
 

@@ -4,7 +4,7 @@ date: 2022-02-01
 draft: true
 ---
 
-![](https://www.youtube.com/watch?v=n_kHaCdVjz8)
+![](https://www.youtube-nocookie.com/watch?v=n_kHaCdVjz8)
 
 We can distinguish the selves by the processes through which the potential unfolds. The **core self** unfolds and expands the pre-egoic evolutionary potentials of the affect-laden, sensorimotor core. The **communal self **unfolds and expands the pro-social potentials of the human group/ community.
 

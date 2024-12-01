@@ -5,13 +5,13 @@ order: 17
 comments: true
 ---
 
-![](https://www.youtube.com/watch?v=QivUf1QXtP8)
+![](https://www.youtube-nocookie.com/watch?v=QivUf1QXtP8)
 
 ## Origins of the Self Part 2: From Mine and Me to I and We
 
-![](https://www.youtube.com/watch?v=-dJaUEa02Fo)
+![](https://www.youtube-nocookie.com/watch?v=-dJaUEa02Fo)
 
 ## Origins of the Self Part 3: Individuation Beyond Identity
 
-![](https://www.youtube.com/watch?v=Cg3NFwN3zN4)
+![](https://www.youtube-nocookie.com/watch?v=Cg3NFwN3zN4)
 

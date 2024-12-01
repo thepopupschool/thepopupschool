@@ -9,7 +9,7 @@ next:
 comments: true
 ---
 
-![](https://www.youtube.com/watch?v=CrLm7SiGU8U)
+![](https://www.youtube-nocookie.com/watch?v=CrLm7SiGU8U)
 
 ---
 

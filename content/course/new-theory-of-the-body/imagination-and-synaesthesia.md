@@ -107,8 +107,8 @@ So to the wretched writer I should like to say that there's one body only whose 
 
 One of the most common and primal versions of syn*ae*sthesia is how musical chords come to be felt as emotions. See for example
 
-![](https://www.youtube.com/watch?v=ZJDDwB7aZ3U)
-![](https://www.youtube.com/watch?v=EWHpdmDHrn8)
+![](https://www.youtube-nocookie.com/watch?v=ZJDDwB7aZ3U)
+![](https://www.youtube-nocookie.com/watch?v=EWHpdmDHrn8)
 
 ## Further Resources
 
@@ -129,7 +129,7 @@ One of the most common and primal versions of syn*ae*sthesia is how musical chor
 
     See
 
-![](https://www.youtube.com/watch?v=X3AlKU7dfOM)
+![](https://www.youtube-nocookie.com/watch?v=X3AlKU7dfOM)
 
 [^2]: As you may remember, the dialectic-synthetic is an *upward* path that starts with thesis, antithesis, and resolves them into a higher, more complex, synthetic whole. This new term, functions as a new thesis, which must face its own antithesis. Ad infinitum.
 

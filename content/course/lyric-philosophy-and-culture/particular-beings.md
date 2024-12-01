@@ -38,7 +38,7 @@ Attending to in this way requires us to connect with, or resonate with the parti
 
 Finally, attending in this manner, renders the world as fully animated, as fully alive.
 
-![](https://www.youtube.com/watch?v=jOIDXUxYi98)
+![](https://www.youtube-nocookie.com/watch?v=jOIDXUxYi98)
 
 
 What is the goal of lyric approach to life?
@@ -56,5 +56,5 @@ To become, in body, mind, and community ….
 ## Further Resources
 
 - [Original Content Material](https://bonnittaroy.substack.com/p/lyric-culture-particular-beings)
-- [Thinking vs. Feeling? w/ Vivian Dittmar - YouTube](https://www.youtube.com/watch?v=hPnHBdTDOVg)
-- [ParticularsVIvianDittmar - YouTube](https://www.youtube.com/watch?v=birdjRNKSOQ)
+- [Thinking vs. Feeling? w/ Vivian Dittmar - YouTube](https://www.youtube-nocookie.com/watch?v=hPnHBdTDOVg)
+- [ParticularsVIvianDittmar - YouTube](https://www.youtube-nocookie.com/watch?v=birdjRNKSOQ)

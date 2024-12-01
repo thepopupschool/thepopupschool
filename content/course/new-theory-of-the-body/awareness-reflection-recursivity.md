@@ -53,7 +53,7 @@ Recursivity means something like "start at square one, you always return to squa
 Infinite regression is a particular kind of recursivity. It often comes up when people are doing awareness practices. First, you notice that "someone is aware," and that comes as an insight. But then you wonder, "who is aware that someone is aware?" and *that *comes as an insight.[^1] In this case, infinite regression occurs because people take the insight to mean that there is someone behind the curtain. This is a subtle reification that we should pay no attention to, *because there is no man behind the curtain*. The experience itself, given in the very first realization *is the insight.* It merely repeats itself as the very same insight in different "meta" versions of itself. The construction remains the same, no matter how meta we go on it. This of course, points to why it is an instance of recursion. No matter how meta we go to escape it, the same insight appears over and over again. Back to square one.
 
 
-![](https://www.youtube.com/watch?v=YWyCCJ6B2WE)
+![](https://www.youtube-nocookie.com/watch?v=YWyCCJ6B2WE)
 
 ### Reflexivity: sense-full- ness/ mindful heeding
 
@@ -72,8 +72,8 @@ This brings us to awareness. Which is not reflective, recursive, infinitely regr
 ## Further Resources
 
 - [Original Content Material](https://bonnittaroy.substack.com/p/awareness-reflection-recursivity/)
-- [The Most Misunderstood Concept in Physics](https://www.youtube.com/watch?v=DxL2HoqLbyA)
-- [This is not reflexivity (as we define it). This is recursive reflection. Worth a watch](https://www.youtube.com/watch?v=FZVMB8mrNO0)
+- [The Most Misunderstood Concept in Physics](https://www.youtube-nocookie.com/watch?v=DxL2HoqLbyA)
+- [This is not reflexivity (as we define it). This is recursive reflection. Worth a watch](https://www.youtube-nocookie.com/watch?v=FZVMB8mrNO0)
 
 > Through all beings spreads the one space:\
 > the world's inner space.\

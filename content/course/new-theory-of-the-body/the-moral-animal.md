@@ -12,9 +12,9 @@ It is not possible to consider morality outside of understanding human culture. 
 
 The Greek worldview that we moderns have inherited, which tried to isolate moral virtues such as "courage," "eros," and "agape" --- established a transcendental realm that opened up a rupture between mind and earth, human and nature. But for Paleolithic man, togetherness and kinship were the primary qualities of culture, and this extended into the natural world and non-human beings. We talked about this in our course on the origins of *human culture* --- that at some point in history, people stopped telling the story of themselves as part of a story of the universe, and started tracing their origins to founding human ancestors, often associated with territorial claims.
 
-![](https://www.youtube.com/watch?v=8tIdCsMufIY)
+![](https://www.youtube-nocookie.com/watch?v=8tIdCsMufIY)
 
-![](https://www.youtube.com/watch?v=ymI5Uv5cGU4)
+![](https://www.youtube-nocookie.com/watch?v=ymI5Uv5cGU4)
 
 The term *Moral Animal*, then is meant to remind us of what David Hinton calls the primordial ethics, of kindship and togetherness that constitutes the "single tissue" that we share with all planetary beginnings, beings, and becomings. Hinton echoes Whitehead's notions of external and internal relations when he writes "we inhabit this tissue, and this tissue inhabits us."
 

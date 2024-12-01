@@ -17,7 +17,7 @@ Individuation is a process of becoming whole. If you reflect on how compartmenta
 
 When I taught the MA in Consciousness Studies and Transpersonal Psychology, I used to show the following clip from the movie *Guess Who's COming for Dinner*. It tells the story of a black man and white woman who want to marry meeting each other's parents. The clip begins with Sidney Poitier's character arguing with his father, because his father doesn't approve of bi-racial marriage.
 
-![](https://www.youtube.com/watch?v=LTgahyvBMk4)
+![](https://www.youtube-nocookie.com/watch?v=LTgahyvBMk4)
 
 **What do you see ?**
 
@@ -40,7 +40,7 @@ This has little to do with "progress" as modern people think of it. It has to do
 There is something in the Zeitgeist of modern humans that wants to transform into ... some thing else. Here is one techno-future option that is being pushed by many powerful tech giants, and being pursued by many others.
 
 
-![](https://www.youtube.com/watch?v=qnk9ovzMLy8)
+![](https://www.youtube-nocookie.com/watch?v=qnk9ovzMLy8)
 
 ---
 

@@ -13,7 +13,7 @@ My relationship to Zwicky's notion of integrity is being played out through the 
 
 Integrity means, to me as a writer, writing the way Aretha Franklin sings in the video clip below. It pushes the *lyric sensibility beyond what seems humanly possible. *She takes what is deeply hidden and stretches it toward the sky--- building an arc between earth and heaven. This is the purpose of humans, the daoists say, to thread tether the earth to the heavens, the soil to the sun, life to life-giver.
 
-![](https://www.youtube.com/watch?v=CBKwV6oNYvw)
+![](https://www.youtube-nocookie.com/watch?v=CBKwV6oNYvw)
 
 > [!note] ​
 > Integrity calls for grit.

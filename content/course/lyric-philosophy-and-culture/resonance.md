@@ -72,7 +72,7 @@ Alfred Staraat 1979 p. 12-14
 
 ---
 
-![](https://www.youtube.com/watch?v=VPLCk-FTVvw)
+![](https://www.youtube-nocookie.com/watch?v=VPLCk-FTVvw)
 
 ## Cohorts
 
