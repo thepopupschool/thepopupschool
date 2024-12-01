@@ -1,5 +1,7 @@
 ---
 title: "Why Metaphysics Matters by Bonnitta Roy"
+prev: ../seeds
+next: false
 ---
 
 > [!tip] AI generated Conversation
