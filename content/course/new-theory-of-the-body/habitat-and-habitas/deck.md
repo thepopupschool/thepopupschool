@@ -1,12 +1,12 @@
 ---
-title: "Flashcard Deck"
+title: "Flashcard Deck for Habitat and Habitas"
 prev:
     label: "Habitat and Habitas"
     link: ../habitat-and-habitas
 next: false
 ---
 
-> [!note] [[course/new-theory-of-the-body/habitat-and-habitas/deck.apkg|Download]] Anki Deck
+> [!note] [[course/new-theory-of-the-body/habitat-and-habitas/habitat-and-habitas-deck.apkg|Download]] Anki Deck
 
 
 # Habitat and Habitas

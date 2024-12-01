@@ -57,7 +57,7 @@ export const Anki: QuartzEmitterPlugin<Partial<AnkiOptions>> = () => {
           const dir = path.dirname(pathToAnkiDenk)
           await fs.promises.mkdir(dir, { recursive: true })
 
-          await fs.promises.cp(path.join(tempDir, "deck.apkg"), path.join(dir, "deck.apkg"))
+          await fs.promises.cp(path.join(tempDir, "deck.apkg"), path.join(dir, `${path.basename(directoryPath)}-deck.apkg`))
 
           return pathToAnkiDenk
 

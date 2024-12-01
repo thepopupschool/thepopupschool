@@ -1,5 +1,5 @@
 ---
-title: "Flashcard Deck"
+title: "Flashcard Deck for Affect & Emotion (& Disposition)"
 prev:
     label: "Affect & Emotion (& Disposition)"
     link: ../affect-and-emotion
@@ -7,7 +7,7 @@ next: false
 ---
 
 
-> [!note] [[course/new-theory-of-the-body/affect-and-emotion/deck.apkg|Download]] Anki Deck
+> [!note] [[course/new-theory-of-the-body/affect-and-emotion/affect-and-emotion-deck.apkg|Download]] Anki Deck
 
 # Affect & Emotion (& Disposition)
 
