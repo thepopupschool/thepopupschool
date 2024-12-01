@@ -6,7 +6,7 @@ import { i18n } from "../i18n"
 
 interface Options {
   links: Record<string, string>
-  pagination: boolean
+  pagination?: boolean
 }
 
 const defaultOptions = {
