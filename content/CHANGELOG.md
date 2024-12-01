@@ -1,5 +1,11 @@
 # Content
 
+## 0.6.0 (date)
+
+### Minor Changes
+
+- 9256bda: Add [[guides/flashcards]] guide
+
 ## 0.5.0 (2024-12-01)
 
 ### Minor Changes
