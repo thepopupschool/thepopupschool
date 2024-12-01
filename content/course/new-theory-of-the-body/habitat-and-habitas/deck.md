@@ -7,7 +7,7 @@ next: false
 tag: flashcard
 ---
 
-> [!note] [[course/new-theory-of-the-body/habitat-and-habitas/habitat-and-habitas-deck.apkg|Download]] Anki Deck
+> [!note] [[course/new-theory-of-the-body/habitat-and-habitas/habitat-and-habitas-deck.apkg|Download Anki Deck]]
 
 
 # Habitat and Habitas
@@ -56,3 +56,4 @@ Habitat is constituted by external relations, while habitas is constituted by in
 
 Charles Hartshorne.
 
+> [!note] This is just a sample set of flashcards. You can use these as a starting point and create more flashcards based on your own understanding of the content. Remember to follow the principles of good prompt writing as described in the source material, such as focusing on one detail at a time, being precise about what you are asking for, and making sure your prompts are tractable and effortful.
