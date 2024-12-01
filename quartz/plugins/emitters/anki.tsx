@@ -35,8 +35,8 @@ export const Anki: QuartzEmitterPlugin<Partial<AnkiOptions>> = () => {
       const result = await Promise.all(
         decks.map(async (contentData) => {
 
-            const absoluteFilePath = path.resolve(contentData.filePath!);
-            const directoryPath = path.dirname(absoluteFilePath);
+          const absoluteFilePath = path.resolve(contentData.filePath!);
+          const directoryPath = path.dirname(absoluteFilePath);
 
           const tempDirPrefix = path.join(os.tmpdir(), 'anki-deck');
 
@@ -56,9 +56,8 @@ export const Anki: QuartzEmitterPlugin<Partial<AnkiOptions>> = () => {
           const pathToAnkiDenk = joinSegments(ctx.argv.output, slug + ext) as FilePath
           const dir = path.dirname(pathToAnkiDenk)
           await fs.promises.mkdir(dir, { recursive: true })
-          await fs.promises.rename(path.join(tempDir, "deck.apkg"), path.join(dir, "deck.apkg"))
 
-          console.log("pathToAnkiDenk", pathToAnkiDenk)
+          await fs.promises.cp(path.join(tempDir, "deck.apkg"), path.join(dir, "deck.apkg"))
 
           return pathToAnkiDenk
 
