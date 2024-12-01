@@ -1,3 +1,19 @@
+# Content
+
+## 0.5.0 (2024-12-01)
+
+### Minor Changes
+
+- 7327dda: Generate importable [Anki](https://apps.ankiweb.net/) decks from files with `deck.md` suffix.
+- 8d2effd: add [[course/new-theory-of-the-body/habitat-and-habitas/deck|flashcard]]
+- 24b5cb9: add [[course/new-theory-of-the-body/habitat-and-habitas/deck|flashcard]]
+- 841a200: add cohorts to [[course/ontological-design-for-back-loop-realities/wuwei-effortless-action]]
+- db8a702: add [[course/new-theory-of-the-body/habitat-and-habitas/glossary]], [[course/new-theory-of-the-body/habitat-and-habitas/study-guide]] and ai generated conversation to [[course/new-theory-of-the-body/habitat-and-habitas]]
+
+### Patch Changes
+
+- 3a8fd4e: add [[new-theory-of-the-body/affect-and-emotion/glossary|info-callout]] and fix "Essay Questions" formatting in [[new-theory-of-the-body/affect-and-emotion/]].
+
 ## 0.4.0 (2024-11-18)
 
 ### Minor Changes
