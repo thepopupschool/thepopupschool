@@ -8,6 +8,13 @@ prev: false
 comments: true
 ---
 
+> [!tip] AI generated Conversation
+> <audio controls>
+>   <source src="https://www.dropbox.com/scl/fi/675gy2qvned7tpz3b2ail/up-hierarchy.mp3?rlkey=inu444stt23fed1mvxlzbgfvo&raw=1" type="audio/mpeg" >
+> </audio>
+
+---
+
 ## An interaction metaphor
 
 Fortunately, we can draw on many others who have already established strong scientific, philosophical, and mythopoetic foundations for the work we want to do. Unfortunately, these exist as fragments of an unfolding story that has yet to be realized as a coherent composition. In an upcoming SEEDS essay, I will explain how metaphor governs our fundamental organization of reality, and is the basis not only for ordinary language, but also function as "interaction metaphors" --- blending inchoate ideas and intuitions into coherent wholes.
@@ -62,6 +69,14 @@ For example,
 - in generative, organismic processes, the whole is prior to the parts and...
     wholes evolve from prior wholes
     What other kinds of paradox / confusion around parts and wholes can you think of?
+
+## Sculpt your insights further
+
+> [!info] [[course/new-theory-of-the-body/up-hierarchy/glossary|Glossary of Key Terms]]
+
+> [!todo] [[course/new-theory-of-the-body/up-hierarchy/study-guide|Study guide]]
+
+> [!todo]  [Optain](course/new-theoy-of-the-body/up-hierarchy/up-hierarchy-deck.apkg) your own [[guides/flashcards#using-anki|Anki Deck]]
 
 ## Further Resources
 
