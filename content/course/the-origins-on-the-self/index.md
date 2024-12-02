@@ -2,7 +2,7 @@
 title: Origins on the Self
 prev: false
 next: false
-draft: false
+draft: true
 ---
 
 
