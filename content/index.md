@@ -5,7 +5,7 @@ prev: false
 next: false
 ---
 
-<img src="/static/logo.png" alt="Logo" />
+<img src="/static/logo.webp" alt="Logo" />
 
 <div style="font-size: 1.5rem">
 
