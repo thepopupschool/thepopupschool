@@ -2,7 +2,7 @@
 title: How to use Flashcards
 ---
 
-[Flashcards](https://en.wikipedia.org/wiki/Flashcard) in combination with a [Spaced Repetition](https://gwern.net/spaced-repetition) system are a fun and effective way to learn.
+[Flashcards](https://en.wikipedia.org/wiki/Flashcard) in combination with a [Spaced Repetition](https://memex.samho.xyz/spaced-repetition) system are a fun and effective way to learn.
 
 > [!note] Find an overview of all available flashcards [here](/tags/flashcard).
 
