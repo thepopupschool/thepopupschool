@@ -133,7 +133,7 @@ One final piece of this pie is the relationship between all of this and action p
 
 > [!todo] [[course/new-theory-of-the-body/affect-and-emotion/study-guide|Study guide]]
 
-> [!todo]  [Optain](course/new-theoy-of-the-body/affect-and-emotion/affect-and-emotion-deck.apkg) your own [[guides/flashcards#using-anki|Anki Deck]]
+> [!todo]  [Optain](course/new-theory-of-the-body/affect-and-emotion/affect-and-emotion-deck.apkg) your own [[guides/flashcards#using-anki|Anki Deck]]
 
 ## Cohorts
 

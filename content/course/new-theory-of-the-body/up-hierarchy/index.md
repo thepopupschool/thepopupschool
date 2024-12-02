@@ -76,7 +76,7 @@ For example,
 
 > [!todo] [[course/new-theory-of-the-body/up-hierarchy/study-guide|Study guide]]
 
-> [!todo]  [Optain](course/new-theoy-of-the-body/up-hierarchy/up-hierarchy-deck.apkg) your own [[guides/flashcards#using-anki|Anki Deck]]
+> [!todo]  [Optain](course/new-theory-of-the-body/up-hierarchy/up-hierarchy-deck.apkg) your own [[guides/flashcards#using-anki|Anki Deck]]
 
 ## Further Resources
 
