@@ -7,10 +7,17 @@ order: 0
 
 > ... because the shift is more radical than you imagine and the malware runs deeper than you suspect
 
-**Dear Friends of the POP-UP School,**
+---
 
-> [!note] old context
-> For some reason, there has been a flurry of new subscribers to this site. We've received 600 new free subscribers in this last week alone. I would like to take this occassion to reflect on the main reasons why a school like this exists, and* why it should exist.*
+> [!tip] AI generated Conversation
+> <audio controls>
+>   <source src="https://www.dropbox.com/scl/fi/str7j6iw3ma4dxgvkqvj1/why-we-need-a-school-like-this.mp3?rlkey=dmeft9h8a4rj1lm2kw0o5ve59&raw=1" type="audio/mpeg" >
+> </audio>
+
+---
+
+
+**Dear Friends of the POP-UP School,**
 
 **A wee bit of history**\
 I had been teaching a 2-year Masters course in Consciousness Studies and Transformational Psychology for over a decade for The Graduate Institute. In the pre-Covid years, cohorts would meet every other month for a 3-day intensive weekend. For the students, the commitment was large in terms of time, workload, and money --- many of whom would travel from other parts of the country. Certainly, the experience was transformational for all of us, and would be very hard to replicate on a digital platform. However, when COVID came upon us, the program moved online. The experience was grueling --- imagine being in a 30 hour intensive over zoom!
@@ -33,7 +40,7 @@ Accelerating transformative shifts in ourselves and others is tricky business. O
 
 There are two main reasons why we need something different than what you might be able to find elsewhere. These reasons are:
 
-## 1. The shift required is more radical than you imagine
+### 1. The shift required is more radical than you imagine
 
 If we are in a time of epochal change, then we should expect a transformation in consciousness as big as the axial age. The axial age shift was more radical than the emergence of Buddhism, Christianity, the Renaissance or the Enlightenment. The epochal changes in the axial age *set the conditions for those to happen!* Similarly, the shift we are awaiting, if it were to be epochal, would set the conditions for a radically new kind of consciousness, spirituality, culture, science and reason. The reason why, try as we might to come up with "novel solutions" to the meta-crisis, we seem to exacerbate its complexity and accelerate its eventuality, is because we are merely compounding the existing ways--- those children of the axial age--- into a foreseable convergence. In the meantime, a great reversal in untility has descended upon us, where the more effort we exert, the worse the outcome, the more complex we think, the further away from a solution we get, the more money we poor into mitigating risk, the dicier everying becomes. As Illich predicted:
 
@@ -62,9 +69,8 @@ If so, we might need a school like this to reveal it.
 
 Finally, this necessary ingredient of *intimacy*, and those of deep mutuality, held in relations of trust and enacted in spheres of care --- ingredients that lead us toward a convivial society--- these are the main ingredients steeping in our collective conversations here at the POP-UP School. We maintain them to be self-evident truths of a deeper possibility, and a potential that is already *inclined to appear --- as our reason for being here.*
 
----
 
-## 2. The malware runs deeper than you suspect
+### 2. The malware runs deeper than you suspect
 
 > *We are trapped in our own nets of knowing.*
 
@@ -76,7 +82,6 @@ The post-modernists deplored the language-game called "science," and yet, whatev
 
 Ultimately, these language games masqueraded as critique, but in reality got swept up in discursive and reactionary meme wars that we see on social media today. And so this is something we have to get away from--- the single use of langauge as re-presentation, as second, and third order abstraction. The move toward meta-language and meta-analysis is not helpful here.
 
----
 
 ## Pointing Language
 
@@ -105,8 +110,6 @@ The primary function of the core self is to organize reality into self-other-wor
 
 The story of separation is held in the illusion of perceptual experience, where inner sensation and outer perception become decoupled in our consciousness. In other words, as moderns, we have a sense-perceptual deviation which occludes the co-variance of self and other, self and world. In the POP-UP School 2022 courses we studied this. Together, we are on a journey to keep working with it, in order to restore it and reclaim it as our human nature.
 
----
-
 ## What malware are we focused on?
 
 -   **Mind-Body Dualism**
@@ -132,20 +135,18 @@ The story of separation is held in the illusion of perceptual experience, where 
 - **Original Sin**
   - This malware is in a category of its own and I want to debunk it. There is a deep, hidden belief in almost every human being, outside of intact indigenous cultures, that humans are born flawed. In Christianity we have original sin--- the condition that says not that you are a sinner because you have sinned, but that you sin because you are born a sinner. It is your originary nature. Most of expect that Buddhism avoids this malfeasance. Yet there is an insidious message in Buddhism that says, if you are born at all, you are still paying off your karmic debt (if your lucky) or still accumulating it. Here the "saved ones" are no longer born. Except of course, you might claim Bodhisattva status from the start.
 
----
 
-> Creative thought does not add, it empties. 
+<br>
+<br>
+
+> [!quote] Creative thought does not add, it empties.
 > – Jason W Brown
-
-
-Hope to see you in class. New course series starts January 7th.
-
----
-
-[^1]: This is what I call "epistemic leakage" where the model is meant to suggest one thing, but in reality, how it is drawn out and presented tells another story. For example, people vested in developmental stage theory like Spiral Dynamics and the whole lot, will take care to say "but its the health of the whole spiral that matters." And yet, within the terms of their own model, only one direction is "higher" or "more complex" --- which given the malware of compleification is tautological--- it is clear that value is added in one direction only, and lost in the opposite direction.
 
 
 ## Lookup
 
-- https://bonnittaroy.substack.com/p/why-we-need-a-school-like-this
-- https://bonnittaroy.substack.com/p/why-we-need-a-school-like-this-part
+- [Original Content Material Part 1](https://bonnittaroy.substack.com/p/why-we-need-a-school-like-this)
+- [Original Content Material Part 2](https://bonnittaroy.substack.com/p/why-we-need-a-school-like-this-part)
+
+[^1]: This is what I call "epistemic leakage" where the model is meant to suggest one thing, but in reality, how it is drawn out and presented tells another story. For example, people vested in developmental stage theory like Spiral Dynamics and the whole lot, will take care to say "but its the health of the whole spiral that matters." And yet, within the terms of their own model, only one direction is "higher" or "more complex" --- which given the malware of compleification is tautological--- it is clear that value is added in one direction only, and lost in the opposite direction.
+
