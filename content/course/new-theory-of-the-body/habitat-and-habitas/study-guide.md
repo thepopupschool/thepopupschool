@@ -8,9 +8,6 @@ next: false
 
 > [!info] [[guides/ai|Generate your own study guide]]
 
-> [!note]- Glossary of Key Terms
-> ![[course/new-theory-of-the-body/habitat-and-habitas/glossary|Glossary of Key Terms]]
-
 ## Short Answer Quiz
 
 Instructions: Answer each question in 2-3 sentences.

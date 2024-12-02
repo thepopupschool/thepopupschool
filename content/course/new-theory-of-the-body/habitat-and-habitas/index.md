@@ -11,8 +11,6 @@ comments: true
 >   <source src="https://www.dropbox.com/scl/fi/va3uyubw9opey0f581rz6/habitat-and-habitas.mp3?rlkey=nbg4j7el81q5zwv4rzmweojv3&raw=1" type="audio/mpeg" >
 > </audio>
 
-> [!info] [[course/new-theory-of-the-body/habitat-and-habitas/glossary|Glossary of Key Terms]]
-
 ---
 
 One helpful way to think about natural, embodied, and cognitive up-hierarhcies is in terms of *habitat and habitas*. Both words come from the root word for "dwell." You might think of habitat as a dwelling, and habitas as an in-dwelling.[^1] Habitat-habitas is also a helpful way to think of interpenetration and the point that everything is mutually dependent on everything else (the Buddhist doctrine of co-origination). What we will add to these models is the realization that on the micro-scale, no one thing is dependent on another thing in the exact same way. Or, in other words, while it is true that any one entity is dependent on every other entity, no one entity is dependent on an other entity in the very same way the other entity is dependent on it. This is a fundamental law of asymmetry in process philosophy that recognizes the necessity of assymetric relations in a generative and creative universe.
@@ -42,13 +40,13 @@ My looking at the tree *directly effects their response*--- which means my inte
 It would be impossible to draw a simple illustration of the complexity of the relations. But in the next post, I will talk more about action protocols and see if we can build more understanding.
 
 
----
+## Ingress the material further
 
-> [!todo] [[course/new-theory-of-the-body/habitat-and-habitas/study-guide|Ingress the Material with a study guide]]
+> [!info] [[course/new-theory-of-the-body/habitat-and-habitas/glossary|Glossary of Key Terms]]
 
-> [!todo] [Download](course/new-theory-of-the-body/habitat-and-habitas/habitat-and-habitas-deck.apkg) your [[guides/flashcards|Anki Deck]]
+> [!todo] [[course/new-theory-of-the-body/habitat-and-habitas/study-guide|Study guide]]
 
----
+> [!todo] [Acquire](course/new-theory-of-the-body/habitat-and-habitas/habitat-and-habitas-deck.apkg) your own [[guides/flashcards#using-anki|Anki Deck]]
 
 ## Further Resources
 

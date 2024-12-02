@@ -10,8 +10,6 @@ comments: true
 >   <source src="https://www.dropbox.com/scl/fi/s9n7npajoz53a9zi8rulx/affect-gap.mp3?rlkey=tpmoih60g8o5twrdh1rlg9r4z&raw=1" type="audio/mpeg" >
 > </audio>
 
-> [!info] [[course/new-theory-of-the-body/affect-and-emotion/glossary|Glossary of Key Terms]]
-
 ---
 
 The first module in our 2023 series A New Theory of the Body involves an examination of affect and emotion, but we will also include a third component - that of disposition. We will need rigorous definitions of these terms.
@@ -129,27 +127,25 @@ If there is anger wanting to be acknowledged, you might explore what play or mas
 
 One final piece of this pie is the relationship between all of this and action protocols. The practice here is to build a system of robust action protocols that, when a specific affect stream is called forth, moves the energy in an up-hierarhcy, from affect-laden drives toward clarity of perception in the external habitat (what is *actually happening here, what is actually the case*) and keep that flowing toward actionable choices (or real actions taken) that will satisfy the arousal state. *Only then* the information in the experience is updated in the memory stack (it actually happens overnight in sleep phases, when working current memory processes are downloaded from hippocampal areas in the mid brain to deeper, episodic memory stacks in the lower brain, essentially completing the descending "global updating" of the sensemaking up-hierarhcy). We will develop this more as we move on to perception and memory in the next modules.
 
----
+## Sculpt your insights further
 
-> [!todo] [[new-theory-of-the-body/affect-and-emotion/study-guide|Ingress the Material with a study guide]]
+> [!info] [[course/new-theory-of-the-body/affect-and-emotion/glossary|Glossary of Key Terms]]
 
-> [!todo] [Download](new-theory-of-the-body/affect-and-emotion/affect-and-emotion-deck.apkg) your [[guides/flashcards|Anki Deck]]
+> [!todo] [[course/new-theory-of-the-body/affect-and-emotion/study-guide|Study guide]]
 
-
----
-
-## Further Resources
-
-- [[new-theory-of-the-body/affect-and-emotion/glossary|Glossary of Key Terms]]
-- [Original Content Material](https://bonnittaroy.substack.com/p/affect-and-emotion-and-disposition/comments)
+> [!todo]  [Optain](new-theoy-of-the-body/affect-and-emotion/affect-and-emotion-deck.apkg) your own [[guides/flashcards#using-anki|Anki Deck]]
 
 ## Cohorts
 
 > [!info] Note that access requires a paid membership.
 
-- [Cohorts 1,2,3,4](https://bonnittaroy.substack.com/p/affect-recordings-first-4-cohorts) 
-- [Cohort 5](https://bonnittaroy.substack.com/p/affect-cohort-5-recording/) 
-- [Cohort 5](https://bonnittaroy.substack.com/p/affect-cohort-6-recording/) 
+- [Cohorts 1,2,3,4](https://bonnittaroy.substack.com/p/affect-recordings-first-4-cohorts)
+- [Cohort 5](https://bonnittaroy.substack.com/p/affect-cohort-5-recording/)
+- [Cohort 5](https://bonnittaroy.substack.com/p/affect-cohort-6-recording/)
+
+## Further Resources
+
+- [Original Content Material](https://bonnittaroy.substack.com/p/affect-and-emotion-and-disposition/comments)
 
 
 [^1]: From Wikipedia: Vagal tone is activity of the [vagus nerve](https://en.wikipedia.org/wiki/Vagus_nerve), the 10th [cranial nerve](https://en.wikipedia.org/wiki/Cranial_nerve) and a fundamental component of the [parasympathetic](https://en.wikipedia.org/wiki/Parasympathetic_nervous_system) branch of the [autonomic nervous system](https://en.wikipedia.org/wiki/Autonomic_nervous_system). This branch of the nervous system is not under conscious control and is largely responsible for the regulation of several body compartments at rest. Vagal activity results in various effects, including: [heart rate](https://en.wikipedia.org/wiki/Heart_rate) reduction, [vasodilation/constriction](https://en.wikipedia.org/wiki/Vasodilation) of [vessels](https://en.wikipedia.org/wiki/Blood_vessel), glandular activity in the [heart](https://en.wikipedia.org/wiki/Heart), [lungs](https://en.wikipedia.org/wiki/Lung), and [digestive tract](https://en.wikipedia.org/wiki/Gastrointestinal_tract), liver, immune system regulation as well as control of gastrointestinal sensitivity, motility and inflammation.

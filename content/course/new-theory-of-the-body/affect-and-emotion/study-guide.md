@@ -8,9 +8,6 @@ next: false
 
 > [!info] [[guides/ai|Generate your own study guide]]
 
-> [!note]- Glossary of Key Terms
-> ![[course/new-theory-of-the-body/affect-and-emotion/glossary|Glossary of Key Terms]]
-
 ## Short-Answer Quiz
 
 - What is the key distinction between an affect and an emotion? (2-3 sentences)
