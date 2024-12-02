@@ -7,12 +7,11 @@ next: false
 
 <img src="/static/logo.png" alt="Logo" />
 
-> [!question]
-> **You might wonder [[seeds/why-we-need-a-school-like-this|why we need a school like this?]]**
+<div style="font-size: 1.5rem">
 
-> [!info] [[seeds|Seeds]]
+> [!question] **You might wonder [[seeds/why-we-need-a-school-like-this|why we need a school like this?]]**
 
-> [!info] [[pop-ed|POP-ED]]
+</div>
 
 # Courses
 
