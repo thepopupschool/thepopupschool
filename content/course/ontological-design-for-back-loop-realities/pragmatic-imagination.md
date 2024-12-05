@@ -15,7 +15,7 @@ We ended the last session of the previous course with an exercise:
 
 1. Draw a circle that represents what is possible. By definition, what is outside that circle is impossible. Like this:
 
-![possible impossble venn](images/possible-impossile-venn.png)
+![possible impossble venn](../../images/possible-impossile-venn.png)
 
 2. Now, draw one circle that represents "what is real" --- making its placement and size specifically to illustrate the relationships.
 
@@ -27,11 +27,11 @@ We ended the last session of the previous course with an exercise:
 
 Pragmatic Imagination begins when you discover that the True is atiny subset of the Real, and the Real is a tiny subset of the Possible. Like this:
 
-![possible impossble venn](images/possible-impossile-venn-2.png)
+![possible impossble venn](../../images/possible-impossile-venn-2.png)
 
 Furthermore, it is important to see that what is True, what is Real, and what is Possible *continuously* *advance into novel spaces.*
 
-![possible impossble venn](images/possible-impossile-venn-3.png)
+![possible impossble venn](../../images/possible-impossile-venn-3.png)
 
 Consider *elephants*, for example. As a category, they are *possible*; as concrete indiviuals they are *real;* and we can specify somethings (but not everything) about them that are *true*. There was a time before, when the elephants were *possible*, but not real. There may be a time when we still can say something *true* about elephants, but it may not be possible for any real elephants to exist anymore. Now consider a certain gut bacterium that only lives inside the elephant digestive system. Before there were elephants, that bacterium was *not possible in any real sense*, because it's own possibility dependent on something that was not yet *real*. There is a relation of retroactive causality here. The existence of the elephant retroactively sets the (never before) possibility of the bacterium, back in the distant past. (In other words, it makes no sense to think that a certain bacteria living in a completely imaginary animal is somehow "possible.") Once the causal relations are closed, we can specify a true fact about the bacteria.
 
@@ -63,7 +63,7 @@ This first book is an exploration of what modes of human activity are themselves
 
 Human existence has been predicated on the relatively stable geological era called the Holocene. Today, and increasingly, this is not the case. The very earth systems that have provided the necessary conditions for human flourishing are breaking apart.
 
-![humanitys journey on earth](images/humanitys-journey-on-earth.jpg)
+![humanitys journey on earth](../../images/humanitys-journey-on-earth.jpg)
 
 The ways in which we interact with the earth's systems --- climate, land use, pollution, toxicity, ecological destruction, large scale agriculture and animal farms --- has a devastating feedback loop with the natural systems of the earth. Our actions have reached destructive influences at planetary scales, threatening the conditions for our own existence.
 
@@ -71,7 +71,7 @@ The ways in which we interact with the earth's systems --- climate, land use, po
 
 Every ecological register constitutes its own sphere of values. We belong to the material register as much as the social and the informational--- but the material is fundamental to the existence of the social, in the same way that the informational could not be possible without a social ecology. Today, we mostly ignore the values inherent in the biosphere, which includes the material and geological earth. Today, we grossly underestimate the consequences of this. Ecological and material trends are strongly coupled to social, governmental, and demographic ones:
 
-![risks](images/risks.jpg)
+![risks](../../images/risks.jpg)
 
 These risk vectors have been shifting, undermining what we belive about our world today. National borders and powers have shifted dramatically from the US-dominance that emerged from the Bretton-Woods Accords after WWII, to situations that are largely and increasingly ambiguous today. Interactions in such as world are nonlinear and disproportionate--- minor actions can result in major consequences.
 

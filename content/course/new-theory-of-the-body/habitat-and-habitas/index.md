@@ -42,11 +42,11 @@ It would be impossible to draw a simple illustration of the complexity of the re
 
 ## Ingress the material further
 
-> [!info] [[course/new-theory-of-the-body/habitat-and-habitas/glossary|Glossary of Key Terms]]
+> [!info] [[glossary|Glossary of Key Terms]]
 
-> [!todo] [[course/new-theory-of-the-body/habitat-and-habitas/study-guide|Study guide]]
+> [!todo] [[study-guide|Study guide]]
 
-> [!todo] [Acquire](course/new-theory-of-the-body/habitat-and-habitas/habitat-and-habitas-deck.apkg) your own [[guides/flashcards#using-anki|Anki Deck]]
+> [!todo] [Acquire](habitat-and-habitas-deck.apkg) your own [[guides/flashcards#using-anki|Anki Deck]]
 
 ## Further Resources
 

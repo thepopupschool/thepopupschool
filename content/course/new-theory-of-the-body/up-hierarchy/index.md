@@ -72,11 +72,11 @@ For example,
 
 ## Sculpt your insights further
 
-> [!info] [[course/new-theory-of-the-body/up-hierarchy/glossary|Glossary of Key Terms]]
+> [!info] [[glossary|Glossary of Key Terms]]
 
-> [!todo] [[course/new-theory-of-the-body/up-hierarchy/study-guide|Study guide]]
+> [!todo] [[study-guide|Study guide]]
 
-> [!todo]  [Optain](course/new-theory-of-the-body/up-hierarchy/up-hierarchy-deck.apkg) your own [[guides/flashcards#using-anki|Anki Deck]]
+> [!todo]  [Optain](up-hierarchy-deck.apkg) your own [[guides/flashcards#using-anki|Anki Deck]]
 
 ## Further Resources
 

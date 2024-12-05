@@ -7,7 +7,7 @@ next: false
 tag: flashcard
 ---
 
-> [!note] [[course/new-theory-of-the-body/up-hierarchy/up-hierarchy-deck.apkg|Download Anki Deck]]
+> [!note] [[up-hierarchy-deck.apkg|Download Anki Deck]]
 
 # Up Hierarchy
 

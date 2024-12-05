@@ -11,7 +11,7 @@ The ecologists Buzz Holling and Lance Gundersen created the concept of the panar
 
 Holling's panarachy, however, suggests that it is in the places that are far from equilibirum that we want to be, close to chaos are the places where we *should be*. There, at the edges of chaos, there is movement, a phase-like beat, rhythms of constant change through phase transitions, decompositions, and recompositions. The panarchy cylce was meant to illustrate this:
 
-![abstraction 1](images/panarchy.png)
+![abstraction 1](../../images/panarchy.png)
 
 Hollings has recently called the Anthropocene "the Back Loop." The back loop of the panarcy cycle is the Ω (omega, release) phase of living systems, where relations are severed, and the energy stored in conserved systems is released. Hollings argued that the entire era of the Holocene, which began about 10,000 years ago with the retreat of the ice ages until now, was a prolonged period that favored "front loop dynamics," where new forms discover new niches (a- reorgnization) and begin to flourish there (r- growth), eventually developing bonds and relationships with each other such that the entire system complexifies into larger and larger systems that scale (K - conservation.) Everyone alive today is comfortable with thinking of reality in terms of front-loop, Holocene advantages. We like familiar systems that *grow*, *reproduce themselves over time, offer predictable pay-offs.*
 
@@ -123,17 +123,17 @@ and a story of walking along the banks of the Hudson with Paul Olsen, a paleonto
 
 Looking at my beer bottle cap on the floor of the tack room down in the barn, I saw it differently. Not a message *in the bottle*, I thought. A message *from the bottle*. Would some creature marvel at how the edges are flared and collect them as some already do now?
 
-![Message from the bottle](images/message-from-the-bottle.jpg)
+![Message from the bottle](../../images/message-from-the-bottle.jpg)
 
 Vintage Bottle Caps for Sale on Ebay
 
 Could they imagine our world from this flimsy evidence alone, or perhaps, someone might get lucky, like this man from Pompey, and "live" to tell more of our story:
 
-![Message from the bottle](images/man-from-pompey.jpg)
+![Message from the bottle](../../images/man-from-pompey.jpg)
 
 Oh.. and the dog.
 
-![Message from the bottle](images/the-dog.jpg)
+![Message from the bottle](../..images/the-dog.jpg)
 
 ---
 

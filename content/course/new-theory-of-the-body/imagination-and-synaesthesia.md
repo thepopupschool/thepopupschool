@@ -125,7 +125,7 @@ One of the most common and primal versions of syn*ae*sthesia is how musical chor
 
 [^1]: It is interesting to note that what colors are associated with which letters, numbers, months or days varys wisely across synesthetes. For a fascinating example, see Daniel Tammet, the man who could recount pi to 22,000 numerals, by painting a landscape in his mind
 
-    ![Color Synesthetes](images/color-synesthetes.jpg)
+    ![Color Synesthetes](../../images/color-synesthetes.jpg)
 
     See
 

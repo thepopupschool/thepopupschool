@@ -39,7 +39,7 @@ Now, moving down the scale toward the cellular it is easy to see that in brain c
 
 Every neuron acts in a local habitat which is part of this global ecosystem. The neuron, in turn provides a local habitat for intracellular organelles such as the nucleus, nucleolus, endoplasmic reticulum, Golgi apparatus, mitochondria, ribosomes, lysosomes, endosomes, and peroxisomes. God only know what these organelles sense, but they too are alive and active participants which provide the neuron with its own habitas--- the action protocols that they historicize by their metabolic sense and response. The role of the neuron in its location, is the terminus of the sense-making up-hierarchy at this scale. The neuron, through its activity, makes sense for its internal members, and contributes a bit of sense to its external relationships. First travelling in parrallel streams through all the sense-making networks, the information recorded as actions taken, become increasingly more convergent along pathways that reach toward a perceptual experience in the eye of the beholder. The tree-me is born!
 
-![](images/the-tree-me-is-born.jpg)
+![](../../images/the-tree-me-is-born.jpg)
 
 Never before has this particular tree-me existed. Given its vast complexity and participatory immediacy, never again will this particular tree-me exist. Only the generalized trace, grossly imprecise and distorted by generalities and distanced by time, might be brought forth by initiating a simulation which can only serve up the low-resolution replay of memory.
 

@@ -18,11 +18,11 @@ I wrote my [Masters Thesis](https://integral-review.org/issues/vol_14_no_1_roy_a
 
 In the west, Kant argued that the really real (noumenal) world could not be experienced; but that we could achieve a kind of one-to-one correspondence to it (aka make a map of it) if we properly used transcendental categories of math, logic, and analytic reasoning. This leads us to what I call "locked in syndrome." I want to suggest that this should be considered a diagnosis of modern madness, something gone terribly wrong with our human condition.
 
-![perception prison](images/perception.prison.jpg)
+![perception prison](../../images/perception.prison.jpg)
 
 Many people have accepted the popular postmodern phrase "We don't see reality as it is, we see reality as we are." And yet- we don't ususally think this is the case with other animals. Most people, even philosophers who are idealists, believe in naive realism when it comes to their dogs.
 
-![perception prison](images/perception.dog.jpg)
+![perception prison](../../images/perception.dog.jpg)
 
 There are two concise ways to counter these arguments: the case of athletes and the case of illusions.
 
@@ -32,7 +32,7 @@ As part of the sensori-motor core self of our animal nature, perception has evol
 **In the case of illusions\
 **While it may seem that illusions call perception in to question because, after all, they seem to fool the senses--- *that we know they are illusions* is also given to us by our perceptual organs. For example, in the illusion below, you may be simultaneoulsy "seeing" the circles rotate and "knowing" that the rotation is merely an illusion.
 
-![perception prison](images/perception.illusion.jpg)
+![perception prison](../../images/perception.illusion.jpg)
 
 Here is one I like to play around with, which requires a little more imagination to work out what is happening here:
 
@@ -40,7 +40,7 @@ Here is one I like to play around with, which requires a little more imagination
 
 Perception is our primordial cognizing system. "Co-gnize" ("co-gnosis) means to "together know". The first sense of this is that the perceptual organs **participate together** in complex ways to integrate all the information into a gestalt of a cognized whole. Perception, however, is deeply reliant on ***participation with the world** --- *on movement and manipulation with the world that we want to "together-know." Our perception adjusts for "errors" by means of feedback with/in the world. For example, Amazonian spearfishers "intuitively" account for refraction of light in water. And neuroscientists have shown that when you put a camera-goggles on people which flips the scene up-side down, or where the video feedback delays movement, it doesn't take long for people's perceptual system to adjust and re-calibrate the information to fit "actions that satisfy" real world conditions.
 
-![perception prison](images/perception.satify.png)
+![perception prison](../../images/perception.satify.png)
 
 Some people claim these are reasons to argue that direct perception is not possible. My argument is that perception is a holistic participation, and can't be isolated to discrete parts of the body, like the retina + brain. In fact, research has shown us that "sight" is highly dependent on and guided by hearing --- the reason why echolocation with blind people is possible. [^2] What if I told you that "sight" is also dependent on micro-gestures in your body? Eye saccades are important to seeing, but what about your mouth? Consider how you manage to thread a needle when you know that you cannot actually "see" the eye. You can feel the thread against the needle, but did you ever notice what you do with your mouth? Often you are guiding your hands by moving your mouth. The mouth is evolutionarily closely related to the sense of touch, and sight. Before animals evolved hands -- which is most animals-- they had to touch things with their mouths. And horses, who have long noses and literally cannot see what is down and straight in front of them, use their mouths to "see" correctly. Good so far? What if I told you that the perceptual organ we call "sight" is also dependent on your feet? Well, research shows that if you take a litter of kittens (which are born blind) and allow half of them to walk around normally, and put the other half in a wagon, and pull them around with the others, the ones in the wagon-- who were not allowed to use their feet, remain functionally blind![^3]
 

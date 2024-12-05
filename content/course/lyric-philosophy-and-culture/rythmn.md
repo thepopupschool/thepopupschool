@@ -10,7 +10,7 @@ comments: true
 > elusive and presumably nonlocalizable Center.\
 > – Raimon Panikkar, The Rhythm of Being
 
-![resonance](images/resonance.jpg)
+![resonance](../../images/resonance.jpg)
 
 **We start with resonance.**
 

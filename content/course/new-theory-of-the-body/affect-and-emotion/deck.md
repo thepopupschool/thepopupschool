@@ -8,7 +8,7 @@ tag: flashcard
 ---
 
 
-> [!note] [[course/new-theory-of-the-body/affect-and-emotion/affect-and-emotion-deck.apkg|Download Anki Deck]]
+> [!note] [[affect-and-emotion-deck.apkg|Download Anki Deck]]
 
 # Affect & Emotion (& Disposition)
 

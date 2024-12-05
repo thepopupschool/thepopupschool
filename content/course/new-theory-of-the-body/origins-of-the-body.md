@@ -6,7 +6,7 @@ order: 14
 comments: true
 ---
 
-![](images/cosmic-baby.jpg)
+![](../../images/cosmic-baby.jpg)
 
 ## The Cosmic Fetus
 
@@ -14,7 +14,7 @@ In the end of Stanley Kubrik's *2001 Space Odessey *we see an image popularly 
 
 [In 2020, the Jet Propulsion Laboratory](https://www.jpl.nasa.gov/news/a-cosmic-baby-is-discovered-and-its-brilliant) published an image of a cosmic baby, an infant magnetron, only about 240 years old--- extremely young, when considered against a cosmic backdrop close to a billion years.
 
-![](images/cosmic-baby-2.jpg)
+![](../../images/cosmic-baby-2.jpg)
 
 Alan Watts describes the life force of planets, in this humorous little video:
 
@@ -22,7 +22,7 @@ Alan Watts describes the life force of planets, in this humorous little video:
 
 [In 2013, the Plank cosmology probe](https://www.nbcnews.com/sciencemain/planck-probes-cosmic-baby-picture-revises-universes-vital-statistics-1c8986034) released a the mission's first all-sky image of the cosmic background radiation, dubbed "a post-big bang baby picture."
 
-![](images/background-radiation.jpg)
+![](../../images/background-radiation.jpg)
 
 Returning again to Alan Watts, describing the polarity we set up between "prickly" ones (the scientists, engineers, architects) and the "gooey" ones (the spiritual, religious and artistic) ...
 
@@ -55,15 +55,15 @@ When pondering such questions, we immediately bump into the constraints of the h
 The story we tell about the origins of the body are over-determined by the epistemic categories we use. Because of epistemic constraint, there is no pre-ordained or axiomatic way to chose the *correct* epistemic categories. We have the freedom to employ reasonable categories that lead to the kind of story we chose to tell. If we want to emphasize human exceptionalism, and justify anthropocentricism --- we can use the categories of levels and hierarchy of species. But I can argue,as I have above, that these categories are not *reasonable*, given what we actually observe. Therefore I am suggesting a new set of categories. Let's build a matrix of them. The matrix has two axes: a vertical dimension and a horizontal dimension.
 
 
-![](images/compound-individual-1.png)
+![](../../images/compound-individual-1.png)
 
 The horizontal axis goes from "single individual" to "compound individual." For example, the cells in my body are "single individuals" that compose me, the "compound individual." Of course, there is an infinite recusion here, since the molecules in each cell, construed as "single individuals" compose the "compound individual" that is the cell, hence:
 
-![](images/compound-individual-2.png)
+![](../../images/compound-individual-2.png)
 
 Now consider the vertical axis with "deeper" at the bottom and "higher" at the top. This represents collectives of "individuals" (who are actually compounded) that create different orders of intelligence, or some might say, "information processing." given any single individual, there is a kind of "cognitive bowtie"
 
-![](images/compound-individual-3.png)
+![](../../images/compound-individual-3.png)
 
 The term is borrowed from Michael Levin's notion of cognitive lightcone, except the bowtie has two cones, one facing up, and one facing down. Any "single individual" participates with higher-order, collective intelligences, and with deeper-order, collective intelligences. Each "single individual" has a limited range of access in either direction. For example, I have participatory and cognitive access to social media, but I don't have either participatory or cognitive access to the social life of my immune system. Whereas the society of immune cells have a very sophisticated communication, response and collective intelligence.
 

@@ -6,7 +6,7 @@ prev: false
 next: false
 ---
 
-![abstraction 1](images/chess-shadow.jpg)
+![abstraction 1](../images/chess-shadow.jpg)
 
 > [!note]
 > Dear Friends of the POP-UP School. I know this is not relevant to many of you, but I didn't know where else to park this, so I created an "POP-ED" section of this newsletter for (very) occasssional commentary on current events. You will see, I hope, that some of the implications of this "who-dunnit" story relates to POP-UP themes on learning without knowing and enactive cognition.
@@ -103,7 +103,7 @@ And this is the point I am making, albeit woven into a story about a chess scand
 ***Eventually, as a species we become 'great' at things we don't actually understand.***
 
 [^1]: The HEC is one piece of Clark's larger Theory of Ecological Assembly which I will quote here for the reader who would like to delve deeper into this story:
-    ![the hec](images/the-hec.jpg)
+    ![the hec](../images/the-hec.jpg)
     Clark Andy (2011) Supersizing the mind, Oxford, NY: Oxford University Press
 
 [^2]: Hans had been invited as a replacement for Richard Rappaport, who was unable to make it to the tournament.

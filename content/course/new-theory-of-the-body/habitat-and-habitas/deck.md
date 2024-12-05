@@ -7,7 +7,7 @@ next: false
 tag: flashcard
 ---
 
-> [!note] [[course/new-theory-of-the-body/habitat-and-habitas/habitat-and-habitas-deck.apkg|Download Anki Deck]]
+> [!note] [[habitat-and-habitas-deck.apkg|Download Anki Deck]]
 
 
 # Habitat and Habitas

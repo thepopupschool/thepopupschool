@@ -52,8 +52,8 @@ Just as mimetic memory is rooted in episodic memory, theoretic memory is rooted 
 
 ## A Theory of Ecological Assembly
 
-![](images/memory-1.jpg)
-![](images/memory-2.jpg)
+![](../../images/memory-1.jpg)
+![](../../images/memory-2.jpg)
 *Gygory Buzsaki*
 
 In this section I want to highlight that as humans, we store a great deal of what we remember, both individually and collectively, on external things in our environment. We jot down notes. We rely on Google Calendar to handle our schedule. We build digital "second brains," etc.. This is not as trivial as it might seem at first. In the following discussion I will rely on Andy Clark's Theory of Ecological Assembly[^7]

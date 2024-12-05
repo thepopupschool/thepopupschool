@@ -5,7 +5,7 @@ prev: false
 next: false
 ---
 
-![](images/saying-without-naming.jpg)
+![](../images/saying-without-naming.jpg)
 
 Whitehead protested that educational curricula were overladen with "inert ideas" that were both useless and harmful to students. (Hendley 1986).  Whitehead called for "relating ideas to that stream, compounded of sense perceptions, feelings, hopes, desires, and of mental activities adjusting thought to thought, which forms our life." The architect Christopher Alexander pointed to a faculty of evaluative judgment that people possess as deep intuitive feeling around "what is most alive, or alternately, what has more life." To which we can add "what gives more life?" A transformative attitude toward education would evaluate students' learning journeys along these questions, through aesthetically attuned intuitive sensibilities and collectively shared evaluative discourse. Evaluative discourse would orbit around a certain implicit quality we are aiming for, a quality too refined to be succinctly labelled or categorized – a *quality without a name* (Alexander 1979): *There is a central quality which is the root criterion of life and spirit in man... . The quality is objective and precise, but it cannot be named.* It cannot be named, but it can still function as an evaluative compass that unfolds meaning in individual contemplation and collective dialogue. Christopher Alexander folds and unfolds its meaning in a series of beautiful passages:
 

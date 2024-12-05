@@ -15,8 +15,8 @@ comments: true
 Abstractions are patterns that are there and not there at the same time. Take drawings of mine as examples
 
 
-![abstraction 1](images/abstraction-1.jpg)
-![abstraction 2](images/abstraction-2.jpg)
+![abstraction 1](../../images/abstraction-1.jpg)
+![abstraction 2](../../images/abstraction-2.jpg)
 
 They are composed by simple "rules" ---\
 1\. Draw geometric shapes over the ruled music lines\
@@ -27,7 +27,7 @@ They are composed by simple "rules" ---\
 
 Here is another illustration. Can you see what is not there?
 
-![abstraction 3](images/abstraction-3.jpg)
+![abstraction 3](../../images/abstraction-3.jpg)
 
 We can also think of "simple rules" as "patterns that connect." Think of how a triangle is like a circle in some respect. The 6 trigonometry equations are answers to this question.
 
@@ -42,21 +42,21 @@ There are many beautiful visualizations of these kind of geometrical functions. 
 
 The following shows how the Fibonacci sequence is related to nested rectangles and squares. Can you see what the rules are for nesting?
 
-![Squares in the size of Fibonacci numbers form a  series of rectangles that converge to the golden ratio: a curious number  that even appears in sunflowers and pinecones](images/fibonacci.jpg)
+![Squares in the size of Fibonacci numbers form a  series of rectangles that converge to the golden ratio: a curious number  that even appears in sunflowers and pinecones](../../images/fibonacci.jpg)
 
 
 Fibonacci's also arise from nesting circles:
 
-![290+ Fibonacci Circle Illustrations, Royalty-Free Vector Graphics & Clip  Art - iStock](images/fibonacci-2.png)
+![290+ Fibonacci Circle Illustrations, Royalty-Free Vector Graphics & Clip  Art - iStock](../../images/fibonacci-2.png)
 
 There are thousands, perhaps hundreds of thousands of Fibonacci art on the internet. Here is one I particularly like today
 
 
-![](images/fibonacci-3.jpg)
+![](../../images/fibonacci-3.jpg)
 
 The artist/mathematician/polymath [Robert Edward Grant drew](https://robertedwardgrant.com/tag/drawing/) this tesseract.
 
-![](images/tesseract.jpg)
+![](../../images/tesseract.jpg)
 
 Shapes come from simple rules, which is the same as saying "rule-based processes." The shapes may be real or abstract, appearing or invisible. When they are invisible, we intuit them by a felt-sense that there is an underlying pattern that connects. Together, the rules, the processes, and the patterns can be said to compose "a pattern language."
 
@@ -125,7 +125,7 @@ This is why I claim that math is the way the mind *directly enters the world*. 
 
 Sometimes abstractions are created by the mind in order to represent itself as it grapples with the deepest questions of reality. Consider, for example, the long history of the development of the ancient [Chinese Bagua](https://en.wikipedia.org/wiki/Bagua) used in Taoist cosmology to express the fundamental cosmological principles of reality. Here we can see that it expresses not 3rd-person objective principles, but the principles of the mind --- the metaphysical properties of thought itself. However, because the mind and reality are "twins," the Bagua is useful as a sense-making analog across various disciplines. [Use this link to take see of some of the earliest versions of the Bagua, as it evolved.](https://miro.com/app/board/o9J_kyQ1XHI=/?share_link_id=314531428419) (Note: you can zoom in on the board.)
 
-![](images/meta-mind.png)
+![](../../images/meta-mind.png)
 
 ## Mandala Mind
 
@@ -180,7 +180,7 @@ Enlightenment is the ability to "see" the pure paths ... maybe that's why it's c
 **Bonus Material -** we might be playing with these in the live sessions. *Do you see/feel the action protocols?*
 
 
-![circle trig animation](images/action-protocols.gif)
+![circle trig animation](../../images/action-protocols.gif)
 
 ![](https://www.youtube-nocookie.com/watch?v=hXOEoH5q3Hw)
 ![](https://www.youtube-nocookie.com/watch?v=SLVSG1H2BC8)

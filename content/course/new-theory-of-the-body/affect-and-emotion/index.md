@@ -27,7 +27,7 @@ Breath work is one of the most popular practices that directly affects your disp
 
 In a previous course on embodiment I shared the GAP table which highlights **g**roundedness, **a**wareness, and **p**resence as qualities of a healthy, responsive, alive dispositional state. You can ask yourself the following questions.
 
-![GAP](images/gap.jpg)
+![GAP](../../../images/gap.jpg)
 
 ## Affect streams
 
@@ -69,7 +69,7 @@ This then, is how the affect streams work in unison. A Diana Fosha, a clinical p
 
 She organized six of the seven affects into three affect streams: the *Connection *affects, *Tremulous *affects, and *Mastery* affects
 
-![Affect Streams](images/affect-streams.png)
+![Affect Streams](../../../images/affect-streams.png)
 
 Russel realized that there were pairs of affects that had the same "energy signature" as it were, but were distinguished by being either an expanded or contracted mode. [^6]
 CARE and PANIC, for example, both have to do with the energy of "human connection," but whereas care is nurturing and expansive (creates reciprocal openings) panic is the fear of losing someone (thing, situation) you care for/about. Russel realized that there was a therapeutic leverage point if you could get the patient/client to see that the contracted mode was "in the same arena" as the expanded mode, and could work, from an embodied, experiential sense [^7] from the existing mode to the expanded mode.
@@ -81,8 +81,8 @@ Russel paired the affects "seeking" and "fear" together, noting that fine line b
 After discovering Russel's work I added two dimensions to her grid--- a more seriously contracted state I call "depressive mode" (which is a energy collapse- shut down) and also a fully expanded state I call "awakened mode" (which has the energy of liberation)
 
 
-![Affect Streams Extended](images/affect-streams-extended.jpg)
-![Affect Streams Full](images/affect-streams-full.jpg)
+![Affect Streams Extended](../../../images/affect-streams-extended.jpg)
+![Affect Streams Full](../../../images/affect-streams-full.jpg)
 
 From the standpoint of transformational practices, this grid tells us that we can start where we are and move the signature of the affect first down from the emotional narrative-imaginal-mimetic stack where it presents only an avenue for hopelessly complexifying the present moment into a simluation, an obvious obstacle for healing, and secondly toward the direction not only of well-being, but also toward liberating wisdom. [^9]
 
@@ -129,11 +129,11 @@ One final piece of this pie is the relationship between all of this and action p
 
 ## Sculpt your insights further
 
-> [!info] [[course/new-theory-of-the-body/affect-and-emotion/glossary|Glossary of Key Terms]]
+> [!info] [[glossary|Glossary of Key Terms]]
 
-> [!todo] [[course/new-theory-of-the-body/affect-and-emotion/study-guide|Study guide]]
+> [!todo] [[study-guide|Study guide]]
 
-> [!todo]  [Optain](course/new-theory-of-the-body/affect-and-emotion/affect-and-emotion-deck.apkg) your own [[guides/flashcards#using-anki|Anki Deck]]
+> [!todo]  [Optain](affect-and-emotion-deck.apkg) your own [[guides/flashcards#using-anki|Anki Deck]]
 
 ## Cohorts
 

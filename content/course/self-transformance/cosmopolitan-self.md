@@ -20,7 +20,7 @@ Following Chandler and others [^2], the notion here is that the **cosmopolitan s
 > In this course we will explore the conditions of the production of subjectivity, take a critically-reflective attitude toward the neoliberal subject and its hold on the cosmopolitan self, and imagine alternative conditions that shape alternative selves at planetary scale**.
 
 
-![](images/cosmo-self.jpg)
+![](../../images/cosmo-self.jpg)
 
 - All major social transformations (phases of civilization) are associated with human migratory patterns
   - pastoral/ nomadic/ hunter-gatherer migration patterns
@@ -33,7 +33,7 @@ Following Chandler and others [^2], the notion here is that the **cosmopolitan s
 - Human migratory patterns create new conditions for the production of subjectivity
 - What are the migratory patterns of humans today?
 
-![](images/cosmo-self-2.jpg)
+![](../../images/cosmo-self-2.jpg)
 
 
 **Quiz: Can you guess what country these images are from?**
@@ -63,7 +63,7 @@ Perhaps Cosmopolitanism is afforded by the digital revolution, and the blockchai
 
 **What kind of cosmopolitanism would best afford human needs?**
 
-![](images/human-needs-matrix.jpg)
+![](../../images/human-needs-matrix.jpg)
 
 ---
 

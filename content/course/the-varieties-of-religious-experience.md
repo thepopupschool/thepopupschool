@@ -64,11 +64,11 @@ So, for example, when I am sleeping, I do not have the perception of my body. Bu
 
 A second way to consider all these accounts is based on a grid with two axes. The first axis is especially relevant to religious experiences:
 
-![matrix 1](images/varieties-of-religious-experience-matrix-1.png)
+![matrix 1](../images/varieties-of-religious-experience-matrix-1.png)
 
 Since meditative experiences negate symbolic and conceptual content as "elaborations", and reject the notion of transcendent experience --- we ascribe the grid with different terms:
 
-![matrix 2](images/varieties-of-religious-experience-matrix-2.png)
+![matrix 2](../images/varieties-of-religious-experience-matrix-2.png)
 
 When parsed out in this way, it suggests that we can map the religious onto the meditative in some interpretive way. One such way is to see that while the religious person is having a *religious* experience, the meditator is aware of the phenomenal correlates of a religious experience. In similar fashion, we might say that the neuroscientist Jill Bolte (in the 3rd of the opening accounts) differs from the psychotic because she is *aware* of the phenomenal correlates of her condition.
 

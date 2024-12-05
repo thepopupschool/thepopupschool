@@ -127,29 +127,29 @@ Alexander goes on to describe and illustrate how objects and scenes have differe
 
 Alexander identifies what he calls "wholeness and the theory of centers" as the essential qualities in what has more life. A center does not have to be "in the center" of something. A center is a point of relation, a grounding point from which life can propagate. Take a blank sheet of paper. Mark it with a dot anywhere on the paper. The location of the dot determines what becomes possible --- the kinds of symmetries of asymmetries unfold from the chosen spot. A sheet of paper with a dot on it has a kind of wholeness that the paper does not. We might say *the paper remains latent until the dot potentiates in it*. The dot sits in a specific location, and *implies* what might unfold. There is a gradient array susbsisting in the possible relationships that the dot can unfold. The dot becomes a provocation. It already has meaning and generates meaning ...
 
-![dot unfolding 1](images/dot-unfolding-1.jpg)
+![dot unfolding 1](../../images/dot-unfolding-1.jpg)
 
 There is a felt sense of the latent potential of a greater wholeness and forces that make the situation come alive ...
 
-![dot unfolding 2](images/dot-unfolding-2.jpg)
+![dot unfolding 2](../../images/dot-unfolding-2.jpg)
 
 This simple exercise allows us to attend to the way that the body anticipates what comes next, where life is going --- perhaps the multiple directions that the forces are moving within. It is not a given. We get to amplify some of those forces and set aside others. [^5]
 
 The word "center" and the term "wholeness" are very closely related. Something that is "whole" not only is composed of parts, wholes are composed of *centers* which ground, and free up the forces to generate wholeness. Look at the image of the tree below. Can you relieve yourself of seeing only whole-part relations and look more deeply to see the centers at all scales from which the wholeness grows ...
 
-![tree roots](images/tree-roots.jpg)
+![tree roots](../../images/tree-roots.jpg)
 
 In your minds eye, looking both from above or below, you might be seeing something like this
 
-![tree above](images/tree-above.jpg)
+![tree above](../../images/tree-above.jpg)
 
 Look closer, look deeper, you would see incredibly rich complexity
 
-![tree above details](images/tree-above-details.jpg)
+![tree above details](../../images/tree-above-details.jpg)
 
 Now take a look at a forest of trees from above --- they produce more living centers, more dense patterns of wholeness ...
 
-![forest above](images/forest-above.jpg)
+![forest above](../../images/forest-above.jpg)
 
 Working with centers-unfolding-wholeness means capturing the essence of what creates these living patterns and employing that essence, that process of creating beauty, and generating more life.
 
@@ -166,7 +166,7 @@ Working with centers-unfolding-wholeness means capturing the essence of what cre
 
 Centers co-create themselves. This is not the same as a simple holarchy where there are lower parts and greater wholes. Wholeness can unfold from an original center, establishing other centers at both smaller and larger scales, and the original center may "disappear" and yet, still, somehow contribute to the wholeness and its ongoing unfoldment. For example, think of a tree that is a center in an opening of a forest. A strangler fig begins to grow around it and the tree eventually dies, leaving something like this:
 
-![dead tree structure](images/dead-tree-structure.png)
+![dead tree structure](../../images/dead-tree-structure.png)
 
 The original tree is somehow still the center of this wholeness, and yet it is no longer there. It is somehow *there and not there at the same time*. It is in a sense *the center of the historical epoch of what today is the strangler fig landscape.* The center is a seed or, as Carlos Casteneda would say, *the assemblage point*. It is an assemblage point in time, that is concretized as a living structure in space. Like the wind, which cannot be seen, only the effects of which can be perceived ---- the center is there and not there at the same time. It is pure temporicity.
 
@@ -174,16 +174,16 @@ The original tree is somehow still the center of this wholeness, and yet it is n
 
 Alexander also talks about centers as being composed of vector-like forces within a dynamic field. We intuitively perceive these forces and intuitively sense their center as the still point, the still point which is held by the balance of forces. The center is destroyed when the balance is distorted. Consider the following figure as an example of vector-flows or forces in a field:
 
-![vector flos](images/vector-flows.png)
+![vector flos](../../images/vector-flows.png)
 
 Consider also these images. Is there a still point or are there many still points that somehow compose a wholeness that has a center, although it is not the kind of center that you can point to--- it doesn't exist in space, it is a reconciliation of forces in and across time.
 
-![forces center pattern 1](images/forces-center-pattern-1.jpg)
-![forces center pattern 2](images/forces-center-pattern-2.jpg)
-![forces center pattern 3](images/forces-center-pattern-3.jpg)
-![forces center pattern 4](images/forces-center-pattern-4.jpg)
-![forces center pattern 5](images/forces-center-pattern-5.jpg)
-![forces center pattern 6](images/forces-center-pattern-6.jpg)
+![forces center pattern 1](../../images/forces-center-pattern-1.jpg)
+![forces center pattern 2](../../images/forces-center-pattern-2.jpg)
+![forces center pattern 3](../../images/forces-center-pattern-3.jpg)
+![forces center pattern 4](../../images/forces-center-pattern-4.jpg)
+![forces center pattern 5](../../images/forces-center-pattern-5.jpg)
+![forces center pattern 6](../../images/forces-center-pattern-6.jpg)
 
 A structure, garden or landscape in which the forces are working against itself, has no center, and thus leans toward destroying itself. But what does "destroying itself" mean here? It means the tendency of the thing to seek life, to establish a living center around which the forces may become coherently whole. All "destructive tendencies" are actually this --- the force of life wanting to become whole.
 
@@ -281,7 +281,7 @@ The feeling itself grows toward a greater wholeness, from anticipation and perha
 
 And above all, it is a movement toward a structure which makes us feel our own existence more deeply.
 
-![meaning of feeling](images/meaning-of-feeling.jpg)
+![meaning of feeling](../../images/meaning-of-feeling.jpg)
 
 ## Book Three : A Vision of a Living World
 
@@ -309,10 +309,10 @@ At the very end of Book Three, Alexander takes up the role of color. Color, when
 It seems, for Alexander, that the purpose of architecture is to start with space, its own unique flows that are imperceptible to most, and from that unfolding, the architect opens space up to inner light. Architecture, properly defined, is the unfolding of inner light such that the thing, the building, the garden, the street, the alleyway becomes self-luminous--- they disclose themselves. (In book four, Alexander discovers that this disclosure runs in both directions, and the self is encountered... )
 
 
-![color feeling 1](images/color-feeling-1.jpg)
-![color feeling 2](images/color-feeling-2.jpg)
-![color feeling 3](images/color-feeling-3.jpg)
-![color feeling 4](images/color-feeling-4.jpg)
+![color feeling 1](../../images/color-feeling-1.jpg)
+![color feeling 2](../../images/color-feeling-2.jpg)
+![color feeling 3](../../images/color-feeling-3.jpg)
+![color feeling 4](../../images/color-feeling-4.jpg)
 
 "Often, in conceiving a building, before I even have the outline of the volume clear, I look, in my mind, for a vision of the color," Alexander writes
 
@@ -320,7 +320,7 @@ It seems, for Alexander, that the purpose of architecture is to start with space
 >
 > And, once the building exists, months or years later, the importance of light continues. Even the paint on the building, on the walls, on the furniture, on the garden fence, this is all essential.
 
-![color vision](images/color-vision.jpg)
+![color vision](../../images/color-vision.jpg)
 
 In order to allow the wholeness to unfold, the architect doesn't work with ideas--- they work with space, feeling, color, and an intense sense of living centers --- each of which acts as a guide from this step to the next step. If you get too stuck in drawing centers, you must return to the colors; too much obsession with the colors means you must work with the feeling; overwhelmed with the feeling you must step back and ask the space what is wanting to be shaped by the process. These become the core themes of the final book.
 

@@ -70,7 +70,7 @@ ChatGPT:
 
 **Similarly**, ChatGPT doesn't get the gist of the following joke because, just like the dog in the image, it cannot adopt a reflexive perspective. [^2]
 
-![abstraction 1](images/dog-question.jpg)
+![abstraction 1](../images/dog-question.jpg)
 
 ---
 

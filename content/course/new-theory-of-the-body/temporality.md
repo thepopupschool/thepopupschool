@@ -28,7 +28,7 @@ This sequence of events, however, is too simplistic to describe the micro- gener
 
 Jason W Brown uses the term microgenesis to describe a process theory of experience. Here is a slide from one of [his presentations](https://youtu.be/wNZW5hKlDSQ), illustrating the overlapping temporics of the waves, where UCS is unconscious background processing which remains below the threshold of consciously experienced (CS) moments, T-1 and T-2.
 
-![](images/threshold-of-consciously-experienced-moments.jpg)
+![](../../images/threshold-of-consciously-experienced-moments.jpg)
 
 Notice how this overlap --- what we might think of an "excess of creativity in nature" accounts for the continuity of process in the heart of the experience of discrete moments.[^2] According to Brown, the microgenetic processes of human experience reflect a deeper universal generative principle of the creative cosmos.
 
@@ -58,4 +58,4 @@ Meditative awareness, stretches the duration across more of the epoch, such that
 [^2]: This represents a counter-valence to the Buddhists' notion of phenomenon arising in discrete moments from emptiness, and eliminates the need for positing a thrd term like "storehouse consciousness" to explain how the discrete moments provide a coherent experience.
 
 [^3]: Consider, for example, how well the theory of microgenesis of experience maps onto these illustrations by Shinzen Young
-    ![](images/illustrations-by-shinzen-young.jpg)
+    ![](../../images/illustrations-by-shinzen-young.jpg)

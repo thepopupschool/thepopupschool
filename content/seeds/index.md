@@ -5,7 +5,7 @@ prev: false
 next: false
 ---
 
-![](images/seeds.jpg)
+![](../images/seeds.jpg)
 
 **Dear Friends of the POP-UP School,**
 
