@@ -18,6 +18,8 @@ Disposition; it is more subtle because it is a state that can be described as a 
 ## What are three qualities of a healthy dispositional state?
 Groundedness, awareness, and presence.
 
+![GAP](gap.jpg)
+
 ## Name two practices that can directly affect your dispositional state.
 Breathwork and posture/movement practices like Qigong and Tai Chi.
 
@@ -63,6 +65,8 @@ Eileen Russel.
 
 ## What are the three affect streams?
 Connection, Tremulous, and Mastery.
+
+![Affect Streams Full](affect-streams-full.jpg)
 
 ## How does the source define anxiety?
 Anxiety = dispositional state that results in the down-regulation of arousal energy.
