@@ -6,8 +6,14 @@ import { GlobalConfiguration } from "../cfg"
 
 export type SortFn = (f1: QuartzPluginData, f2: QuartzPluginData) => number
 
+/* in addition this function first looks for an order field */
 export function byDateAndAlphabetical(cfg: GlobalConfiguration): SortFn {
   return (f1, f2) => {
+
+    if (f1.frontmatter?.order && f2.frontmatter?.order) {
+      return f1.frontmatter?.order - f2.frontmatter?.order
+    }
+
     if (f1.dates && f2.dates) {
       // sort descending
       return getDate(cfg, f2)!.getTime() - getDate(cfg, f1)!.getTime()

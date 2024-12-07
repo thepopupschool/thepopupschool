@@ -98,7 +98,8 @@ declare module "vfile" {
         enableToc: string
         cssclasses: string[]
         prev: boolean | string | { link?: string; label?: string }
-        next: boolean | string | { link?: string; label?: string }
+        next: boolean | string | { link?: string; label?: string },
+        order: number
       }>
   }
 }
