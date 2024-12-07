@@ -2,7 +2,7 @@
 title: Up Hierarchy
 description: "... putting the mind back into the body and the body back into nature"
 date: 2022-12-26
-order: 0
+order: 1
 tags: "interaction metaphor"
 prev: false
 comments: true
@@ -76,7 +76,7 @@ For example,
 
 > [!todo] [[study-guide|Study guide]]
 
-> [!todo]  [Optain](up-hierarchy-deck.apkg) your own [[guides/flashcards#using-anki|Anki Deck]]
+> [!todo]  [Optain](up-hierarchy-deck.apkg) your own [[../../../guides/flashcards#using-anki|Anki Deck]]
 
 ## Further Resources
 

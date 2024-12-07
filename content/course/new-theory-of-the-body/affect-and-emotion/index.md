@@ -133,7 +133,7 @@ One final piece of this pie is the relationship between all of this and action p
 
 > [!todo] [[study-guide|Study guide]]
 
-> [!todo]  [Optain](affect-and-emotion-deck.apkg) your own [[guides/flashcards#using-anki|Anki Deck]]
+> [!todo]  [Optain](affect-and-emotion-deck.apkg) your own [../../../guides/flashcards#using-anki|Anki Deck]
 
 ## Cohorts
 

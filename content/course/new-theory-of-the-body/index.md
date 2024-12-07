@@ -3,6 +3,9 @@ title: A new theory of the body
 description: "... putting the mind back into the body and the body back into nature"
 date: 2022-12-04
 prev: false
+next:
+    label: "Up Hierarchy"
+    link: ./up-hierarchy
 ---
 
 **Dear Friends of the POP-UP School,**
@@ -23,6 +26,6 @@ It occurs to me now, that *emergentism* also sets an unbridgeable gap between 
 
 ---
 
-## Start [[course/new-theory-of-the-body/up-hierarchy|here]]
+## Start [[up-hierarchy|here]]
 
 ---

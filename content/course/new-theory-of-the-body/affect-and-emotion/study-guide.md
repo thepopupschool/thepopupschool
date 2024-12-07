@@ -6,7 +6,7 @@ prev:
 next: false
 ---
 
-> [!info] [[guides/ai|Generate your own study guide]]
+> [!info] [[../../../guides/ai|Generate your own study guide]]
 
 ## Short-Answer Quiz
 
