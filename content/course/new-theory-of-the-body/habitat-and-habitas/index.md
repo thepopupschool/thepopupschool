@@ -46,7 +46,7 @@ It would be impossible to draw a simple illustration of the complexity of the re
 
 > [!todo] [[study-guide|Study guide]]
 
-> [!todo] [Acquire](habitat-and-habitas-deck.apkg) your own [../../../guides/flashcards#using-anki|Anki Deck]
+> [!todo] [Acquire](habitat-and-habitas-deck.apkg) your own [[../../../guides/flashcards#using-anki|Anki Deck]]
 
 ## Further Resources
 

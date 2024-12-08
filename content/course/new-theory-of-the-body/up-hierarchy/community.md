@@ -1,5 +1,5 @@
 ---
-title: "Up Hierarchy"
+title: "Up Hierarchy videos"
 comments: true
 tags: ["community-video"]
 ---
