@@ -1,5 +1,19 @@
 # Content
 
+## 0.7.0 (2024-12-08)
+
+### Minor Changes
+
+- 39ac3d6: add ai conversion to [[seeds/why-we-need-a-school-like-this]]
+- 6967052: dates show last modified instead of created
+- bb84cfc: add images to `affect-and-emotion` flashcards
+- 3e57c58: expand [[content/course/new-theory-of-the-body/up-hierarchy]] with [[content/course/new-theory-of-the-body/up-hierarchy/glossary]], [[content/course/new-theory-of-the-body/up-hierarchy/study-guide]] and [[content/course/new-theory-of-the-body/up-hierarchy/deck]]
+
+### Patch Changes
+
+- defff4f: reduce logo/cover image size by converting to `webp` format
+- 36d4c30: set link resolution to `relative` (to allow images in flashcards the current implementation requires them to be co-located)
+
 ## 0.6.0 (2024-12-01)
 
 ### Minor Changes
