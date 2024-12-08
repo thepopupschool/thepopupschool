@@ -5,6 +5,11 @@ date: 2024-01-04
 comments: true
 ---
 
+> [!tip] AI generated Conversation
+> <audio controls>
+>   <source src="https://www.dropbox.com/scl/fi/lb6ytaznwbuastbj85jt0/lyric-culture-ontological-design-for-back-loop-realities.mp3?rlkey=yu1lfn8b1uua1x8o95x3blk3b&raw=1" type="audio/mpeg" >
+> </audio>
+
 ## We are not in Kansas anymore
 
 The ecologists Buzz Holling and Lance Gundersen created the concept of the panarchy cycle to explain non-linear dynamics in living systems. Holling's original research told him that living systems are not abject to chaos, but actually seek out the edges of choas where they thrive. In those early days of ecological thinking, this came as a surprise. Previous notions of ecological health were based on metaphors of homeostasis and balance, not chaos and resilience. People today talk about the [search for a 5th attractor. ](https://medium.com/@memetic007/fifth-attractor-6d1a54fcda2e)Jim Rutt defines attractors in complexity science as "basins" in which different strategies can get caught in, and achieve a more stable (meta-stable is the best we should hope for) state. He argues that currently, both as a society and a planetary ecology, we operate in dangerous, unstable spaces, and the obvious attractor basins, such as AI-governed authoritarianism, or neo-liberal accelerationism, lead to extinction events. Rutt identifies 4 attractors that are unacceptable: neo-feudalism, neo-fascism, neo-dark ages, endogenous social collapse with environmental collapse. Hence, he is "in search for a 5th attractor."
