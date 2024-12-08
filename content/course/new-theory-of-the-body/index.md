@@ -6,6 +6,7 @@ prev: false
 next:
     label: "Up Hierarchy"
     link: ../up-hierarchy
+comments: true
 ---
 
 **Dear Friends of the POP-UP School,**

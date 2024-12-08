@@ -3,7 +3,6 @@ title: Up Hierarchy
 description: "... putting the mind back into the body and the body back into nature"
 date: 2022-12-26
 order: 1
-tags: "interaction metaphor"
 prev: false
 comments: true
 ---

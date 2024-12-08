@@ -7,33 +7,39 @@ function truncate(str: string, n: number) {
 
 const explorerConfig: Parameters<typeof Component.Explorer>[0] = {
   folderClickBehavior: "link",
-  sortFn: (a, b) => {
-
-    const folderOrderMap: Record<string, number> = {
-      "why-we-need-a-school-like-this": 100,
-      "new-theory-of-the-body": 200,
-      "lyric-thought": 300,
+  //sortFn: (a, b) => {
+  //
+  //  const folderOrderMap: Record<string, number> = {
+  //    "why-we-need-a-school-like-this": 100,
+  //    "new-theory-of-the-body": 200,
+  //    "lyric-thought": 300,
+  //  }
+  //  let orderA = 0
+  //  let orderB = 0
+  //
+  //  if (Number(a.file?.frontmatter?.order) < Number(b.file?.frontmatter?.order)) {
+  //    return -1
+  //  }
+  //
+  //  if (!a.file) {
+  //    orderA = folderOrderMap[a.name] || 0
+  //  }
+  //
+  //  if (!b.file) {
+  //    orderB = folderOrderMap[b.name] || 0
+  //  }
+  //
+  //  return orderA - orderB
+  //},
+  filterFn: (node) => {
+    if (node.file?.slug?.startsWith("tags")) {
+      //return ["community-video"].includes(node.name)
     }
-    let orderA = 0
-    let orderB = 0
-
-    if (Number(a.file?.frontmatter?.order) < Number(b.file?.frontmatter?.order)) {
-      return -1
-    }
-
-    if (!a.file) {
-      orderA = folderOrderMap[a.name] || 0
-    }
-
-    if (!b.file) {
-      orderB = folderOrderMap[b.name] || 0
-    }
-
-    return orderA - orderB
+    return true
   },
   mapFn: (node) => {
     if (node.file) {
-      node.displayName = truncate(node.displayName, 25)
+      //node.displayName = truncate(node.displayName, 25)
     }
   },
 }
