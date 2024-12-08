@@ -5,7 +5,7 @@ date: 2022-12-04
 prev: false
 next:
     label: "Up Hierarchy"
-    link: ../up-hierarchy
+    link: ./up-hierarchy
 comments: true
 ---
 
