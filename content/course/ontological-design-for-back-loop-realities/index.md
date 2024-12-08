@@ -10,6 +10,6 @@ comments: true
 ---
 
 > [!note]
-> [[course/lyric-philosophy-and-culture/we-are-not-in-kansas-anymore|Lyric Culture: Ontological Design for Back Loop Realities]]
+> [[../lyric-philosophy-and-culture/we-are-not-in-kansas-anymore|Lyric Culture: Ontological Design for Back Loop Realities]]
 
 
