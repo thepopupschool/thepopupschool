@@ -3,4 +3,4 @@ title: "Community Videos"
 comments: true
 ---
 
-TODO: Intro
+> We Need to Watch Each Other Grow
