@@ -1,5 +1,17 @@
 # Content
 
+## 0.8.0 (2025-01-25)
+
+### Minor Changes
+
+- f7cb4af: Name tags "Area" in the Explorer
+- 52d1ff2: Add community sections
+- 0592419: add ai conversation to [[course/lyric-philosophy-and-culture/we-are-not-in-kansas-anymore]]
+
+### Patch Changes
+
+- ffc3756: move comments below pagination
+
 ## 0.7.0 (2024-12-08)
 
 ### Minor Changes
