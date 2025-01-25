@@ -49,6 +49,7 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
+    Component.Pagination({}),
     Component.Comments({
       provider: 'giscus',
       options: {

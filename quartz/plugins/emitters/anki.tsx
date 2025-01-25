@@ -13,7 +13,13 @@ export const Anki: QuartzEmitterPlugin<Partial<AnkiOptions>> = () => {
   return {
     name: "Anki",
     getQuartzComponents() { return [] },
-    async emit(ctx, content, resources): Promise<FilePath[]> {
+    async emit(ctx, content): Promise<FilePath[]> {
+
+      // ignore in serve mode
+      if (ctx.argv.serve) {
+        return []
+      }
+
       const decks = content.flatMap(element => {
 
         const contentData = (element[1].data ?? {})

@@ -5,3 +5,9 @@
 .hidden {
   display: none
 }
+
+.page-footer {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
