@@ -7,7 +7,7 @@ prev: false
 comments: true
 ---
 
-> [!tip] AI generated Conversation
+> [!info]- AI generated Conversation
 > <audio controls>
 >   <source src="https://www.dropbox.com/scl/fi/675gy2qvned7tpz3b2ail/up-hierarchy.mp3?rlkey=inu444stt23fed1mvxlzbgfvo&raw=1" type="audio/mpeg" >
 > </audio>

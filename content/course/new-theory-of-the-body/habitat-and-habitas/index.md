@@ -6,10 +6,11 @@ order: 1
 comments: true
 ---
 
-> [!tip] AI generated Conversation
-> <audio controls>
+> [!info]- AI generated Conversation
+> > [!warning] Don't take what the LLM says for granted. It's use is to stimulate critical thinking and to test whether you understand the material at a level that is deeper than the conventional take-aways.
+> <p><audio controls>
 >   <source src="https://www.dropbox.com/scl/fi/va3uyubw9opey0f581rz6/habitat-and-habitas.mp3?rlkey=nbg4j7el81q5zwv4rzmweojv3&raw=1" type="audio/mpeg" >
-> </audio>
+> </audio></p>
 
 ---
 

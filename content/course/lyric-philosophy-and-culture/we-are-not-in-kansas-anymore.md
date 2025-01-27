@@ -5,10 +5,11 @@ date: 2024-01-04
 comments: true
 ---
 
-> [!tip] AI generated Conversation
-> <audio controls>
+> [!info]- AI generated Conversation
+> > [!warning] Don't take what the LLM says for granted. It's use is to stimulate critical thinking and to test whether you understand the material at a level that is deeper than the conventional take-aways.
+> <p></p><audio controls>
 >   <source src="https://www.dropbox.com/scl/fi/lb6ytaznwbuastbj85jt0/lyric-culture-ontological-design-for-back-loop-realities.mp3?rlkey=yu1lfn8b1uua1x8o95x3blk3b&raw=1" type="audio/mpeg" >
-> </audio>
+> </audio></p>
 
 ## We are not in Kansas anymore
 

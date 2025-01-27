@@ -4,10 +4,11 @@ prev: ../seeds
 next: false
 ---
 
-> [!tip] AI generated Conversation
-> <audio controls>
+> [!info]- AI generated Conversation
+> > [!warning] Don't take what the LLM says for granted. It's use is to stimulate critical thinking and to test whether you understand the material at a level that is deeper than the conventional take-aways.
+> <p></p><audio controls>
 >   <source src="https://www.dropbox.com/scl/fi/bsivfg2atz3eobq92unqm/why-metaphysics-matters.mp3?rlkey=n1p3tk7v8v3sjycg7107z2usx&raw=1" type="audio/mpeg" >
-> </audio>
+> </audio></p>
 
 ## Further Resources
 

@@ -5,10 +5,11 @@ order: 5
 comments: true
 ---
 
-> [!tip] AI generated Conversation
-> <audio controls>
+> [!info]- AI generated Conversation
+> > [!warning] Don't take what the LLM says for granted. It's use is to stimulate critical thinking and to test whether you understand the material at a level that is deeper than the conventional take-aways.
+> <p><audio controls>
 >   <source src="https://www.dropbox.com/scl/fi/s9n7npajoz53a9zi8rulx/affect-gap.mp3?rlkey=tpmoih60g8o5twrdh1rlg9r4z&raw=1" type="audio/mpeg" >
-> </audio>
+> </audio></p>
 
 ---
 
