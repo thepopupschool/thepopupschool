@@ -1,5 +1,11 @@
 # Content
 
+## 0.9.0 (2025-01-27)
+
+### Minor Changes
+
+- 34d0f2f: Add hint to "ai generated conversation" callouts
+
 ## 0.8.0 (2025-01-25)
 
 ### Minor Changes
