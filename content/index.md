@@ -1,6 +1,7 @@
 ---
 title: Welcome to the Pop-Up School
 enableToc: false
+comments: false
 prev: false
 next: false
 ---

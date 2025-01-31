@@ -1,5 +1,7 @@
 ---
 title: How to use Flashcards
+prev: false
+next: false
 ---
 
 Combine [flashcards](https://en.wikipedia.org/wiki/Flashcard) with a [spaced repetition](https://memex.samho.xyz/spaced-repetition) system to invite a sense of playfulness and effectiveness into your learning journey.

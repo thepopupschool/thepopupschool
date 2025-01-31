@@ -3,6 +3,7 @@ title: Seeds
 description: "Short essays, informative briefs, timely observations and philosophical reflections for all friends of the POP-UP School"
 prev: false
 next: false
+comments: false
 ---
 
 ![](../images/seeds.jpg)

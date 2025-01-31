@@ -1,5 +1,7 @@
 ---
 title: Create your study guide
+prev: false
+next: false
 ---
 
 1. open https://notebooklm.google.com

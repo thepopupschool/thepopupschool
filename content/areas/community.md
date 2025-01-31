@@ -1,6 +1,8 @@
 ---
 title: "Community Videos"
 comments: true
+prev: false
+next: false
 ---
 
 > We Need to Watch Each Other Grow
