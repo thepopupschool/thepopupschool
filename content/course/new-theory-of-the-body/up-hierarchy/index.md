@@ -8,9 +8,10 @@ comments: true
 ---
 
 > [!info]- AI generated Conversation
-> <audio controls>
+> > [!warning] Don't take what the LLM says for granted. It's use is to stimulate critical thinking and to test whether you understand the material at a level that is deeper than the conventional take-aways.
+> <p><audio controls>
 >   <source src="https://www.dropbox.com/scl/fi/675gy2qvned7tpz3b2ail/up-hierarchy.mp3?rlkey=inu444stt23fed1mvxlzbgfvo&raw=1" type="audio/mpeg" >
-> </audio>
+> </audio></p>
 
 ---
 
