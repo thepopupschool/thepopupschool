@@ -54,7 +54,7 @@ export const sharedPageComponents: SharedLayout = {
       provider: 'giscus',
       options: {
         // from data-repo
-        repo: 'thepopupschool/discussions',
+        repo: 'thepopupschool/thepopupschool',
         // from data-repo-id
         repoId: 'R_kgDONPdMVg',
         // from data-category
