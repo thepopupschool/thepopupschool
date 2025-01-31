@@ -2,9 +2,11 @@
 title: "Individuation & the New Human"
 description: Putting the mind back into the body and the body back into nature
 date: 2023-10-31
-order: 18
-next: false
 comments: true
+prev:
+    label: "Origins of the Self: An Integrated Model"
+    link: ./origins-of-the-self
+next: false
 ---
 
 Facing Latency

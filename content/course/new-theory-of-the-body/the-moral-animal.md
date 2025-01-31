@@ -2,8 +2,13 @@
 title: "The Moral Animal"
 description: A Surprising New Vision for a Sacred World
 date: 2023-10-25
-order: 16
 comments: true
+prev:
+    label: "Origins of Culture: Collective Consciousness"
+    link: ./origins-of-culture
+next:
+    label: "Origins of the Self: An Integrated Model"
+    link: ./origins-of-the-self
 ---
 
 ## Primordial Ethics

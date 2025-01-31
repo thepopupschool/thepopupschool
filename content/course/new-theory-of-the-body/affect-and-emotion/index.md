@@ -1,8 +1,13 @@
 ---
 title: Affect & Emotion (& Disposition)
 date: 2023-01-08
-order: 5
 comments: true
+prev:
+    label: "Action Thresholds"
+    link: ../action-tresholds
+next:
+    label: "On Perception"
+    link: ../perception
 ---
 
 > [!info]- AI generated Conversation

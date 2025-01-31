@@ -1,8 +1,13 @@
 ---
 title: Memory
 date: 2023-03-07
-order: 7
 comments: true
+prev:
+    label: "On Perception"
+    link: ./perception
+next:
+    label: "On flow and flux"
+    link: ./flux-and-flow
 ---
 
 > Human memory is short and terribly fickle.

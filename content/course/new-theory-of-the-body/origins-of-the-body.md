@@ -2,8 +2,13 @@
 title: Origin of the body
 description: Putting the mind back into the body and the body back into nature
 date: 2023-09-08
-order: 14
 comments: true
+prev:
+    label: "Recap"
+    link: ./recap
+next:
+    label: "Origins of Culture: Collective Consciousness"
+    link: ./origins-of-culture
 ---
 
 ![](../../images/cosmic-baby.jpg)

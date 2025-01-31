@@ -2,9 +2,13 @@
 title: Up Hierarchy
 description: "... putting the mind back into the body and the body back into nature"
 date: 2022-12-26
-order: 1
-prev: false
 comments: true
+prev:
+    label: "A new theory of the body"
+    link: ./index
+next:
+    label: "Habitat and Habitas"
+    link: ../habitat-and-habitas
 ---
 
 > [!info]- AI generated Conversation

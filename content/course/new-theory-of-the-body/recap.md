@@ -2,8 +2,13 @@
 title: Recap
 description: Putting the mind back into the body and the body back into nature
 date: 2023-07-22
-order: 13
 comments: true
+prev:
+    label: "Awareness: Reflection, Recursivity, Reflexivity"
+    link: ./awareness-reflection-recursivity
+next:
+    label: "Origin of the body"
+    link: ./origins-of-the-body
 ---
 
 > [!info] Note that access requires a paid membership.

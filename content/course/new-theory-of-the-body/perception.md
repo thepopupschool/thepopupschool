@@ -1,10 +1,12 @@
 ---
 title: On Perception
 date: 2023-02-04
-order: 6
+prev:
+    label: "Affect & Emotion (& Disposition)"
+    link: ./affect-and-emotion
 next:
     label: "Memory"
-    link: memory
+    link: ./memory
 comments: true
 ---
 

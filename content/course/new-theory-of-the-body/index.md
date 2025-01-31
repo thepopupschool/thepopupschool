@@ -2,11 +2,11 @@
 title: A new theory of the body
 description: "... putting the mind back into the body and the body back into nature"
 date: 2022-12-04
+comments: true
 prev: false
 next:
     label: "Up Hierarchy"
     link: ./up-hierarchy
-comments: true
 ---
 
 **Dear Friends of the POP-UP School,**

@@ -1,8 +1,13 @@
 ---
 title: "Origins of the Self: An Integrated Model"
 date: 2023-10-27
-order: 17
 comments: true
+prev:
+    label: "The Moral Animal"
+    link: ./the-moral-animal
+next:
+    label: "Individuation & the New Human"
+    link: ./individuation-and-the-new-human
 ---
 
 ![](https://www.youtube-nocookie.com/watch?v=QivUf1QXtP8)

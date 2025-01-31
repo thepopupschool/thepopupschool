@@ -2,8 +2,13 @@
 title: Imagination & Syn(ae)sthesia
 description: Putting the mind back into the body and the body back into nature
 date: 2023-04-03
-order: 9
 comments: true
+prev:
+    label: "On flow and flux"
+    link: ./flux-and-flow
+next:
+    label: "Representational Thinking, Narrative, Meaning & the Justification System"
+    link: ./representational-thinking-narrative
 ---
 
 > Life is like a box of chocolate.

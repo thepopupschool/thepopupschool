@@ -2,8 +2,13 @@
 title: "Origins of Culture: Collective Consciousness"
 description: Putting the mind back into the body and the body back into nature
 date: 2023-10-05
-order: 15
 comments: true
+prev:
+    label: "Origin of the body"
+    link: ./origins-of-the-body
+next:
+    label: "The Moral Animal"
+    link: ./the-moral-animal
 ---
 
 ![](https://www.youtube-nocookie.com/watch?v=U93x9AWeuOA)
