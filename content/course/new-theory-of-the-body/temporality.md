@@ -44,6 +44,12 @@ In the illustration above, the entire two-beat pattern constitutes an **epoch**
 
 Meditative awareness, stretches the duration across more of the epoch, such that we begin to consciously experience the coming-into-being of the thought forms from the deep netherworlds of bodily process, like a dreamscape slowly unfolding on its way to perishing. In heightened states of perceptual acuity like kensho or satori, there is a phase shift in the opposite direction, such that the conscious perception is simultaneously present with the upswell of its becoming in which the startling beauty of reality arises, and time itself is lost, along with the sense of self which relies on it. Finally, meditative absorptions such as the jhanas, postpone the duration to varying degrees until, in the deepest states, only unconscious processing remains without any shift in phase.[^3]
 
+## Sculpt your insights further
+
+> [!info] [[./temporality/glossary|Glossary of Key Terms]]
+
+> [!todo]  [Optain](./temporality/up-hierarchy-deck.apkg) your own [[../../../guides/flashcards#using-anki|Anki Deck]]
+
 ## Further Resources
 
 - [Original Content Material](https://bonnittaroy.substack.com/p/a-new-theory-of-the-body-temporality)

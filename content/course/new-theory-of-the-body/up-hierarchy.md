@@ -76,11 +76,11 @@ For example,
 
 ## Sculpt your insights further
 
-> [!info] [[glossary|Glossary of Key Terms]]
+> [!info] [[./up-hierarchy/glossary|Glossary of Key Terms]]
 
-> [!todo] [[study-guide|Study guide]]
+> [!todo] [[./up-hierarchy/study-guide|Study guide]]
 
-> [!todo]  [Optain](up-hierarchy-deck.apkg) your own [[../../../guides/flashcards#using-anki|Anki Deck]]
+> [!todo]  [Optain](./up-hierarchy/up-hierarchy-deck.apkg) your own [[../../../guides/flashcards#using-anki|Anki Deck]]
 
 ## Further Resources
 

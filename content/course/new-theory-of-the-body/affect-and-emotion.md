@@ -135,11 +135,11 @@ One final piece of this pie is the relationship between all of this and action p
 
 ## Sculpt your insights further
 
-> [!info] [[glossary|Glossary of Key Terms]]
+> [!info] [[./affect-and-emotion/glossary|Glossary of Key Terms]]
 
-> [!todo] [[study-guide|Study guide]]
+> [!todo] [[./affect-and-emotion/study-guide|Study guide]]
 
-> [!todo]  [Optain](affect-and-emotion-deck.apkg) your own [[../../../guides/flashcards#using-anki|Anki Deck]]
+> [!todo]  [Optain](./affect-and-emotion/affect-and-emotion-deck.apkg) your own [[../../../guides/flashcards#using-anki|Anki Deck]]
 
 ## Cohorts
 

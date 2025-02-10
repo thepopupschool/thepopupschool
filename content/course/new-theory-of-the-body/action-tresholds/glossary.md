@@ -3,7 +3,7 @@ title: "Glossary of Key Terms"
 tag: glossary
 prev:
     label: "Action Tresholds"
-    link: ./action-tresholds
+    link: ../action-tresholds
 next: false
 ---
 

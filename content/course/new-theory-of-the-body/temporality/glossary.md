@@ -3,7 +3,7 @@ title: "Glossary of Key Terms"
 tag: glossary
 prev:
     label: "Temporality"
-    link: ./temporality
+    link: ../temporality
 next: false
 ---
 

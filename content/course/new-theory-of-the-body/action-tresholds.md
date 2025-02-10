@@ -32,6 +32,13 @@ In [his book ](https://www.dukeupress.edu/facing-the-planetary)*[Facing the Pl
 
 This pluripotentiality consitutes the numinous causal field. A New Theory of the Body would correctly situate the body within this field of possibility and its role as a causal agent.
 
+## Sculpt your insights further
+
+> [!info] [[./action-tresholds/glossary|Glossary of Key Terms]]
+
+> [!todo]  [Optain](./action-tresholds/up-hierarchy-deck.apkg) your own [[../../../guides/flashcards#using-anki|Anki Deck]]
+
+
 ## Further Resources
 
 - [Original Content Material](https://bonnittaroy.substack.com/p/a-new-theory-of-the-body-action-thresholds)

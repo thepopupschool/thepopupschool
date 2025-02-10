@@ -2,7 +2,7 @@
 title: "Flashcards"
 prev:
     label: "Temporality"
-    link: ./temporality
+    link: ../temporality
 next: false
 tag: flashcard
 ---

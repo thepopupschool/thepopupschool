@@ -48,6 +48,12 @@ Every neuron acts in a local habitat which is part of this global ecosystem. The
 
 Never before has this particular tree-me existed. Given its vast complexity and participatory immediacy, never again will this particular tree-me exist. Only the generalized trace, grossly imprecise and distorted by generalities and distanced by time, might be brought forth by initiating a simulation which can only serve up the low-resolution replay of memory.
 
+## Sculpt your insights further
+
+> [!info] [[./action-protocols/glossary|Glossary of Key Terms]]
+
+> [!todo]  [Optain](./action-protocols/up-hierarchy-deck.apkg) your own [[../../../guides/flashcards#using-anki|Anki Deck]]
+
 ## Further Resources
 
 - [Original Content Material](https://bonnittaroy.substack.com/p/a-new-theory-of-the-body-action-protocols)
