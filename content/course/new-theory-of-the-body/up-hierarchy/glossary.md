@@ -1,5 +1,6 @@
 ---
 title: "Glossary of Key Terms"
+tag: glossary
 prev:
     label: "Up Hierarchy"
     link: ../up-hierarchy

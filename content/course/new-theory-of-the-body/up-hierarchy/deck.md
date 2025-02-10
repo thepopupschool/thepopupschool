@@ -1,5 +1,5 @@
 ---
-title: "Flashcard Deck for Up Hierarchy"
+title: "Flashcards"
 prev:
     label: "Up Hierarchy"
     link: ../up-hierarchy

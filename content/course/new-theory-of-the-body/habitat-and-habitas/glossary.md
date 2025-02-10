@@ -1,5 +1,6 @@
 ---
 title: "Glossary of Key Terms"
+tag: glossary
 prev:
     label: "Habitat and Habitas"
     link: ../habitat-and-habitas

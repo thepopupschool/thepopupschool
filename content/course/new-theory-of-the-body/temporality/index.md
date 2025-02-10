@@ -4,6 +4,12 @@ description: "... putting the mind back into the body and the body back into nat
 date: 2022-12-31
 order: 4
 comments: true
+prev:
+    label: "Action Thresholds"
+    link: ../action-tresholds
+next:
+    label: "Affect & Emotion (& Disposition)"
+    link: ../affect-and-emotion
 ---
 
 In this series I have been presenting a few [interaction metaphors](new-theory-of-the-body/up-hierarchy) that should be helpful in our co-creating A New Theory of the Body.

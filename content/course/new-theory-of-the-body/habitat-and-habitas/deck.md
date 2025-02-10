@@ -1,5 +1,5 @@
 ---
-title: "Flashcard Deck for Habitat and Habitas"
+title: "Flashcards"
 prev:
     label: "Habitat and Habitas"
     link: ../habitat-and-habitas
