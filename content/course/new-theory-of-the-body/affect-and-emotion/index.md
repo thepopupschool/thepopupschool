@@ -3,8 +3,8 @@ title: Affect & Emotion (& Disposition)
 date: 2023-01-08
 comments: true
 prev:
-    label: "Action Thresholds"
-    link: ../action-tresholds
+    label: "Temporality: Duration & Epoch"
+    link: ../temporality
 next:
     label: "On Perception"
     link: ../perception
