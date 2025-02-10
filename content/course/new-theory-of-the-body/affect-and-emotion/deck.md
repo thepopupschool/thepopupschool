@@ -1,5 +1,5 @@
 ---
-title: "Flashcard Deck for Affect & Emotion (& Disposition)"
+title: "Flashcards"
 prev:
     label: "Affect & Emotion (& Disposition)"
     link: ../affect-and-emotion

@@ -7,8 +7,6 @@ prev:
 next: false
 ---
 
-## Glossary of Key Terms
-
 ### Up-hierarchy
 A term coined by John Heron to describe how people make collective meaning together. It refers to distributed sensing that leads to collective sensemaking, where decisions are reported upwards as actions taken, rather than downwards as instructions to be followed.
 

@@ -7,8 +7,6 @@ prev:
 next: false
 ---
 
-## Glossary of Key Terms
-
 ### Habitat
 The dwelling or environment of an organism. In the context of this text, habitat refers to the external relations and environment that an organism interacts with.
 
