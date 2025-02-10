@@ -1,5 +1,6 @@
 // @ts-ignore
 import { QuartzPluginData } from "../plugins/vfile"
+import { DataMap } from "vfile"
 import {
   joinSegments,
   resolveRelative,
@@ -47,6 +48,7 @@ export class FileNode {
   displayName: string
   file: QuartzPluginData | null
   depth: number
+  dates: DataMap['dates'] | undefined
 
   constructor(slugSegment: string, displayName?: string, file?: QuartzPluginData, depth?: number) {
     this.children = []
@@ -54,6 +56,7 @@ export class FileNode {
     this.displayName = displayName ?? file?.frontmatter?.title ?? slugSegment
     this.file = file ? clone(file) : null
     this.depth = depth ?? 0
+    this.dates = file?.dates
   }
 
   private insert(fileData: DataWrapper) {
@@ -70,6 +73,7 @@ export class FileNode {
         const title = fileData.file.frontmatter?.title
         if (title && title !== "index") {
           this.displayName = title
+          this.dates = fileData.file.dates
         }
       } else {
         // direct child
