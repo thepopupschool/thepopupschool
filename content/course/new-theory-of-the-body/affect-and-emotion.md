@@ -4,10 +4,10 @@ date: 2023-01-08
 comments: true
 prev:
     label: "Temporality: Duration & Epoch"
-    link: ../temporality
+    link: ./temporality
 next:
     label: "On Perception"
-    link: ../perception
+    link: ./perception
 ---
 
 > [!info]- AI generated Conversation

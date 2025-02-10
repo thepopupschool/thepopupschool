@@ -5,10 +5,10 @@ date: 2022-12-27
 comments: true
 prev:
     label: "Up Hierarchy"
-    link: ../up-hierarchy
+    link: ./up-hierarchy
 next:
     label: "Action Protocols"
-    link: ../action-protocols
+    link: ./action-protocols
 ---
 
 > [!info]- AI generated Conversation

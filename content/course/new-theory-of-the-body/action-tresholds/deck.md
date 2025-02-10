@@ -2,7 +2,7 @@
 title: "Flashcards"
 prev:
     label: "Action Tresholds"
-    link: ./index
+    link: ./action-tresholds
 next: false
 tag: flashcard
 ---

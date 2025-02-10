@@ -6,10 +6,10 @@ order: 4
 comments: true
 prev:
     label: "Action Thresholds"
-    link: ../action-tresholds
+    link: ./action-tresholds
 next:
     label: "Affect & Emotion (& Disposition)"
-    link: ../affect-and-emotion
+    link: ./affect-and-emotion
 ---
 
 In this series I have been presenting a few [interaction metaphors](new-theory-of-the-body/up-hierarchy) that should be helpful in our co-creating A New Theory of the Body.

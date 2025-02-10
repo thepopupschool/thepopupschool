@@ -5,10 +5,10 @@ date: 2022-12-30
 comments: true
 prev:
     label: "Action Protocols"
-    link: ../action-protocols
+    link: ./action-protocols
 next:
     label: "Temporality: Duration & Epoch"
-    link: ../temporality
+    link: ./temporality
 ---
 
 

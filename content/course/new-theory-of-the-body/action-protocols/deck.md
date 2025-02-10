@@ -2,7 +2,7 @@
 title: "Flashcards"
 prev:
     label: "Action Protocols"
-    link: ./index
+    link: ../action-protocols
 next: false
 tag: flashcard
 ---

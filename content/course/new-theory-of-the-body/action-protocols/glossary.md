@@ -3,7 +3,7 @@ title: "Glossary of Key Terms"
 tag: glossary
 prev:
     label: "Action Protocols"
-    link: ./index
+    link: ../action-protocols
 next: false
 ---
 

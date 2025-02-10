@@ -8,7 +8,7 @@ prev:
     link: ./index
 next:
     label: "Habitat and Habitas"
-    link: ../habitat-and-habitas
+    link: ./habitat-and-habitas
 ---
 
 > [!info]- AI generated Conversation
