@@ -1,5 +1,20 @@
 # Content
 
+## 0.10.0 (2025-02-10)
+
+### Minor Changes
+
+- 641b05c: Add flashcards and glossaries
+- 77909c7: Add taglisting for [[tags/flashcard]] [[tags/glossary]]
+
+### Patch Changes
+
+- b805837: repair pagination links for [[course/new-theory-of-the-body]]
+- 6a58d9c: Repair Explorer sorting
+- 67d9414: set default datetype to `created`
+- c5aca4f: add warning to ai-conversation [[course/new-theory-of-the-body/up-hierarchy]]
+- 91a8205: hide comments/pagination on certain pages
+
 ## 0.9.0 (2025-01-27)
 
 ### Minor Changes
