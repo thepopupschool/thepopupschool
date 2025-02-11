@@ -48,7 +48,7 @@ Meditative awareness, stretches the duration across more of the epoch, such that
 
 > [!info] [[./temporality/glossary|Glossary of Key Terms]]
 
-> [!todo]  [Optain](./temporality/up-hierarchy-deck.apkg) your own [[../../../guides/flashcards#using-anki|Anki Deck]]
+> [!todo]  [Optain](./temporality/temporality-deck.apkg) your own [[../../../guides/flashcards#using-anki|Anki Deck]]
 
 ## Further Resources
 

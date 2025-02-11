@@ -52,7 +52,7 @@ Never before has this particular tree-me existed. Given its vast complexity and 
 
 > [!info] [[./action-protocols/glossary|Glossary of Key Terms]]
 
-> [!todo]  [Optain](./action-protocols/up-hierarchy-deck.apkg) your own [[../../../guides/flashcards#using-anki|Anki Deck]]
+> [!todo]  [Optain](./action-protocols/action-protocols-deck.apkg) your own [[../../../guides/flashcards#using-anki|Anki Deck]]
 
 ## Further Resources
 

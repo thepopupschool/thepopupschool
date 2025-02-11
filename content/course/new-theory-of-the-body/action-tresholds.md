@@ -36,7 +36,7 @@ This pluripotentiality consitutes the numinous causal field. A New Theory of the
 
 > [!info] [[./action-tresholds/glossary|Glossary of Key Terms]]
 
-> [!todo]  [Optain](./action-tresholds/up-hierarchy-deck.apkg) your own [[../../../guides/flashcards#using-anki|Anki Deck]]
+> [!todo]  [Optain](./action-tresholds/action-tresholds-deck.apkg) your own [[../../../guides/flashcards#using-anki|Anki Deck]]
 
 
 ## Further Resources
