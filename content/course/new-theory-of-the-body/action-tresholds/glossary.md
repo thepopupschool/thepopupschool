@@ -1,6 +1,7 @@
 ---
-title: "Glossary of Key Terms"
+title: "Glossary of Key Terms: Action Tresholds"
 tag: glossary
+comments: false
 prev:
     label: "Action Tresholds"
     link: ../action-tresholds

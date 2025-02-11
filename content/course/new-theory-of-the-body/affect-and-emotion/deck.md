@@ -1,10 +1,11 @@
 ---
-title: "Flashcards"
+title: "Flashcards: Affect & Emotion (& Disposition)"
 prev:
     label: "Affect & Emotion (& Disposition)"
     link: ../affect-and-emotion
 next: false
 tag: flashcard
+comments: false
 ---
 
 

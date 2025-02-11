@@ -1,10 +1,11 @@
 ---
-title: "Flashcards"
+title: "Flashcards: Up Hierarchy"
 prev:
     label: "Up Hierarchy"
     link: ../up-hierarchy
 next: false
 tag: flashcard
+comments: false
 ---
 
 > [!note] [[up-hierarchy-deck.apkg|Download Anki Deck]]

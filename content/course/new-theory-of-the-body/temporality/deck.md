@@ -1,10 +1,11 @@
 ---
-title: "Flashcards"
+title: "Flashcards: Temporality"
 prev:
     label: "Temporality"
     link: ../temporality
 next: false
 tag: flashcard
+comments: false
 ---
 
 

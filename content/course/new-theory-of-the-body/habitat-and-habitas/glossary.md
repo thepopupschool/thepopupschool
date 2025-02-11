@@ -1,6 +1,7 @@
 ---
-title: "Glossary of Key Terms"
+title: "Glossary of Key Terms: Habitat and Habitas"
 tag: glossary
+comments: false
 prev:
     label: "Habitat and Habitas"
     link: ../habitat-and-habitas

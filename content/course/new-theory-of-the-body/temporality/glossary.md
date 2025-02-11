@@ -1,6 +1,7 @@
 ---
-title: "Glossary of Key Terms"
+title: "Glossary of Key Terms: Temporality"
 tag: glossary
+comments: false
 prev:
     label: "Temporality"
     link: ../temporality

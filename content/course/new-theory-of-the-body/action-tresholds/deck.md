@@ -1,10 +1,11 @@
 ---
-title: "Flashcards"
+title: "Flashcards: Action Tresholds"
 prev:
     label: "Action Tresholds"
     link: ../action-tresholds
 next: false
 tag: flashcard
+comments: false
 ---
 
 

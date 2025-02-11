@@ -1,6 +1,7 @@
 ---
-title: "Glossary of Key Terms"
+title: "Glossary of Key Terms: Action Protocols"
 tag: glossary
+comments: false
 prev:
     label: "Action Protocols"
     link: ../action-protocols

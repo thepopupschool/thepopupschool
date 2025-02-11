@@ -1,6 +1,7 @@
 ---
-title: "Glossary of Key Terms"
+title: "Glossary of Key Terms: Affect & Emotion (& Disposition)"
 tag: glossary
+comments: false
 prev:
     label: "Affect & Emotion (& Disposition)"
     link: ../affect-and-emotion

@@ -1,10 +1,11 @@
 ---
-title: "Flashcards"
+title: "Flashcards: Habitat and Habitas"
 prev:
     label: "Habitat and Habitas"
     link: ../habitat-and-habitas
 next: false
 tag: flashcard
+comments: false
 ---
 
 > [!note] [[habitat-and-habitas-deck.apkg|Download Anki Deck]]
