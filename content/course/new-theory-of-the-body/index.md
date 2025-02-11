@@ -21,12 +21,12 @@ I realized that the purpose of a new theory of the body--- a purpose aligned wit
 
 > The sense of separation comes not despite the term, "Emergence" but with it. This is because "emergence" means something like "a miracle happens here" --- a placeholder where no other explantory theory is possible. It is this miracle--- reminiscent of the hand of god--- that separates us. A divine gap that cannot be mended.
 
-It occurs to me now, that *emergentism* also sets an unbridgeable gap between human and the Divine. We need a theory, an understanding, that connects and heals – makes and mends (makes ammends)
+It occurs to me now, that *emergentism* also sets an unbridgeable gap between human and the Divine. We need a theory, an understanding, that connects and heals – makes and mends (makes ammends)
 
 > [!tip] ... putting the mind back into the body and the body back into nature
 
 ---
 
-## Start [[up-hierarchy|here]]
+## Start [[./up-hierarchy|here]]
 
 ---

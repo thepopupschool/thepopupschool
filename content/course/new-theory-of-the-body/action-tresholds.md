@@ -14,7 +14,7 @@ next:
 
 > Never before has this particular tree-me existed.
 
-In the [previous post](new-theory-of-the-body/action-protocols), I described how action *protocols* are internal metabolic signatures of the external world, and function to make sense of it for the person. In this article I introduce the notions of action *thresholds*.
+In the [[./action-protocols|previous post]], I described how action *protocols* are internal metabolic signatures of the external world, and function to make sense of it for the person. In this article I introduce the notions of action *thresholds*.
 
 * * * * *
 

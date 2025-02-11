@@ -14,10 +14,10 @@ next:
 
 In this series I have been presenting a few [interaction metaphors](new-theory-of-the-body/up-hierarchy) that should be helpful in our co-creating A New Theory of the Body.
 
-- [Sense-making up-hierarchy](new-theory-of-the-body/up-hierarchy)
-- [Habitat/ Habitas](new-theory-of-the-body/habitat-and-habitas)
-- [Action Protocols](new-theory-of-the-body/action-protocols)
-- [Action Thresholds](new-theory-of-the-body/action-thresholds)
+- [[./up-hierarchy|Sense-making Up-Hierarchy]]
+- [[./habitat-and-habitas|Habitat/ Habitas]]
+- [[./action-protocols|Action Protocols]]
+- [[./action-tresholds|Action Thresholds]]
 
 In this article I want to introduce you to two terms that play an important role in understanding temporality of experience as a generative process: *duration* and *epoch.*
 
