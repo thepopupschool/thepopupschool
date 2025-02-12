@@ -4,15 +4,15 @@
 
 ### Minor Changes
 
-- 641b05c: Add flashcards and glossaries
-- 77909c7: Add taglisting for [[tags/flashcard]] [[tags/glossary]]
+- 641b05c: Add flashcards and glossaries to [[course/new-theory-of-the-body/action-protocols]], [[course/new-theory-of-the-body/action-tresholds]] and [[course/new-theory-of-the-body/temporality]]
+- 77909c7: Add [[tags/flashcard]] and [[tags/glossary]] to [[/tags|Areas]]
 
 ### Patch Changes
 
-- b805837: repair pagination links for [[course/new-theory-of-the-body]]
-- 6a58d9c: Repair Explorer sorting
-- 67d9414: set default datetype to `created`
-- c5aca4f: add warning to ai-conversation [[course/new-theory-of-the-body/up-hierarchy]]
+- b805837: repair pagination links in [[course/new-theory-of-the-body]]
+- 6a58d9c: correct sorting in sidebar explorer
+- 67d9414: set default datetype back to `created`
+- c5aca4f: add missing ai-conversation warning to [[course/new-theory-of-the-body/up-hierarchy]]
 - 91a8205: hide comments/pagination on certain pages
 
 ## 0.9.0 (2025-01-27)
