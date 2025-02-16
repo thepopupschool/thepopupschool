@@ -12,7 +12,7 @@ next:
     link: ./affect-and-emotion
 ---
 
-In this series I have been presenting a few [interaction metaphors](new-theory-of-the-body/up-hierarchy) that should be helpful in our co-creating A New Theory of the Body.
+In this series I have been presenting a few [interaction metaphors](../../tags/interaction-metaphor) that should be helpful in our co-creating A New Theory of the Body.
 
 - [[./up-hierarchy|Sense-making Up-Hierarchy]]
 - [[./habitat-and-habitas|Habitat/ Habitas]]

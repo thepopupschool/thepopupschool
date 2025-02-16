@@ -3,6 +3,8 @@ title: Habitat and Habitas
 description: "... putting the mind back into the body and the body back into nature"
 date: 2022-12-27
 comments: true
+tags:
+  - interaction-metaphor
 prev:
     label: "Up Hierarchy"
     link: ./up-hierarchy
