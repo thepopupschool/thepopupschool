@@ -205,6 +205,10 @@ A new theory of the body would incorporate an ecological theory of perception an
 - [Cohort 2,3,4](https://bonnittaroy.substack.com/p/video-recordings-perception-cohorts/)
 - [Cohort 5](https://bonnittaroy.substack.com/p/video-recording-perception-cohort-28b/)
 
+## Sculpt your insights further
+
+> [!todo]  [Optain](./perception/perception.apkg) your own [[../../../guides/flashcards#using-anki|Anki Deck]]
+
 [^1]: If perception proved not to be trustworthy in the mind of philosophers it would prove to be more than trustworthy in the bodies of extreme athletes who had trained to be able to give up thinking when it mattered most.
 
     > When he went to strap on his chute, he noticed the canopy was wet. It should have been the end of his plans. A wet chute is unevenly weighted. When deployed, parts will inflate, otherswill not. Potter, not thinking clearly, decided the water was evenly dispersed and wouldn'tbe a problem.
