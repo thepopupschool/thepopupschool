@@ -38,6 +38,8 @@ As part of the sensori-motor core self of our animal nature, perception has evol
 
 Here is one I like to play around with, which requires a little more imagination to work out what is happening here:
 
+![](https://www.youtube-nocookie.com/watch?v=WejznrBMnho)
+
 ## **Perception is Participatory Cognition**
 
 Perception is our primordial cognizing system. "Co-gnize" ("co-gnosis) means to "together know". The first sense of this is that the perceptual organs **participate together** in complex ways to integrate all the information into a gestalt of a cognized whole. Perception, however, is deeply reliant on ***participation with the world** --- *on movement and manipulation with the world that we want to "together-know." Our perception adjusts for "errors" by means of feedback with/in the world. For example, Amazonian spearfishers "intuitively" account for refraction of light in water. And neuroscientists have shown that when you put a camera-goggles on people which flips the scene up-side down, or where the video feedback delays movement, it doesn't take long for people's perceptual system to adjust and re-calibrate the information to fit "actions that satisfy" real world conditions.
@@ -178,23 +180,16 @@ Conceptual thought and direct perception can operate simultaneously, but they ar
 
 A new theory of the body would incorporate an ecological theory of perception and help to build confidence that experience of everyday ordinary affective, perceptual and conceptual phenomena, is offered as a "good enough" starting point, to understand direct perception, since, as Klein tells us, the Gelukbas emphatically believed:
 
-"The starting point is precisely the ordinary type of conceptuality and direct perception one now has."
+> The starting point is precisely the ordinary type of conceptuality and direct perception one now has.
 
 ## Further Resources
 
-<figure>
-    ![](https://www.youtube-nocookie.com/watch?v=0RqdXqxhfqk)
-    <figcaption>
-        <a target="_blrank" href="https://bonnittaroy.substack.com/p/video-on-perceptual-density/comments">View Original Content</a></figcaption>
-</figure>
+![](https://www.youtube-nocookie.com/watch?v=0RqdXqxhfqk)
 
-<figure>
-    <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/17148626?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Documentaire - I feel... (Ik voel, ik voel, wat jij niet voelt...)"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-    <figcaption>
-        <a target="_blrank" href="https://bonnittaroy.substack.com/p/video-on-perceptual-density/comments">View Original Content</a></figcaption>
-</figure>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/17148626?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Documentaire - I feel... (Ik voel, ik voel, wat jij niet voelt...)"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-- [Original Content Material](https://bonnittaroy.substack.com/p/on-perception/comments)
+- [Original Content Material](https://bonnittaroy.substack.com/p/on-perception)
+- [Perceptual Density](https://bonnittaroy.substack.com/p/video-on-perceptual-density)
 - https://thesideview.co/journal/cognition-in-the-wild/
 
 ## Cohorts
