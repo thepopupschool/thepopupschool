@@ -8,6 +8,8 @@ tag: flashcard
 comments: false
 ---
 
+> [!note] [[perception-deck.apkg|Download Anki Deck]]
+
 # On Perception
 
 ## According to the preface of "On Perception," what was the basic conclusion after two years of Consciousness studies regarding human perception?

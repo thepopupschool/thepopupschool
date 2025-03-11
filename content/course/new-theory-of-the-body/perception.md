@@ -207,7 +207,7 @@ A new theory of the body would incorporate an ecological theory of perception an
 
 ## Sculpt your insights further
 
-> [!todo]  [Optain](./perception/perception.apkg) your own [[../../../guides/flashcards#using-anki|Anki Deck]]
+> [!todo]  [Optain](./perception/perception-deck.apkg) your own [[../../../guides/flashcards#using-anki|Anki Deck]]
 
 [^1]: If perception proved not to be trustworthy in the mind of philosophers it would prove to be more than trustworthy in the bodies of extreme athletes who had trained to be able to give up thinking when it mattered most.
 
