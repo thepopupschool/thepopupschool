@@ -5,6 +5,7 @@ date: 2022-12-26
 comments: true
 tags:
   - interaction-metaphor
+  - primer
 prev:
     label: "A new theory of the body"
     link: ./index

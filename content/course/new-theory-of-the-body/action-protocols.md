@@ -4,6 +4,7 @@ description: "... putting the mind back into the body and the body back into nat
 date: 2022-12-28
 tags:
   - interaction-metaphor
+  - primer
 comments: true
 prev:
     label: "Habitat and Habitas"

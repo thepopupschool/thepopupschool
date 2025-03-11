@@ -5,6 +5,7 @@ date: 2022-12-27
 comments: true
 tags:
   - interaction-metaphor
+  - primer
 prev:
     label: "Up Hierarchy"
     link: ./up-hierarchy
