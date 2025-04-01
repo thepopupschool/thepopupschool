@@ -129,6 +129,10 @@ Now I want to challenge this model, because I think it is a circumstance of "as 
 2. **it is what I have experienced as [cognition in the wild. ](https://thesideview.co/journal/cognition-in-the-wild/) [^13], and**
 3. **it is more likely that cognition and learning evolved in unpredictable environments in our evolutionary past, and hence, it doesn't make sense that it relies so heavily on predictive processing. [^14]**
 
+## Sculpt your insights further
+
+> [!todo]  [Optain](./memory/memory-deck.apkg) your own [[../../../guides/flashcards#using-anki|Anki Deck]]
+
 ## Further Resources
 
 - [Original Content Material](https://bonnittaroy.substack.com/p/memory-course-content/comments)
