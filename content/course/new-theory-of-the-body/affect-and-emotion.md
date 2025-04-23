@@ -147,7 +147,7 @@ One final piece of this pie is the relationship between all of this and action p
 
 - [Cohorts 1,2,3,4](https://bonnittaroy.substack.com/p/affect-recordings-first-4-cohorts)
 - [Cohort 5](https://bonnittaroy.substack.com/p/affect-cohort-5-recording/)
-- [Cohort 5](https://bonnittaroy.substack.com/p/affect-cohort-6-recording/)
+- [Cohort 6](https://bonnittaroy.substack.com/p/affect-cohort-6-recording/)
 
 ## Further Resources
 

@@ -65,7 +65,7 @@ While Whitehead adamantly argued for the role of the imagination, he was no fool
 
 ## Syn*ae*sthesia
 
-I first came to think about the possible transformation in consciousness assyn*ae*sthesia, from a book I read over 20 years ago: Harry T. Hunt's *On the Nature of Consciousness*. Although he himself was a transpersonal psychologist and mystic, Hunt dedicated his project to "the necessity of physical metaphor for any description of consciousness, with its implications of an inseparability of consciousness and world."
+I first came to think about the possible transformation in consciousness as syn*ae*sthesia, from a book I read over 20 years ago: Harry T. Hunt's *On the Nature of Consciousness*. Although he himself was a transpersonal psychologist and mystic, Hunt dedicated his project to "the necessity of physical metaphor for any description of consciousness, with its implications of an inseparability of consciousness and world."
 
 Hunt wanted to integrate ideas from transpersonal psychology, meditative and altered states of consciousness, mystical experience with the views of consciousness in cognitive science, neurophysiology and animal psychology, and he put *perceptual awareness* as the core of consciousness as shared across species, and viewed human self-referential symbolic consciousness as continuous with that by reason of being *based on a capacity for cross-modal translation and transformation among multiple perceptual modalities.*
 
