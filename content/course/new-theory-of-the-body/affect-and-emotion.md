@@ -149,6 +149,8 @@ One final piece of this pie is the relationship between all of this and action p
 - [Cohort 5](https://bonnittaroy.substack.com/p/affect-cohort-5-recording/)
 - [Cohort 6](https://bonnittaroy.substack.com/p/affect-cohort-6-recording/)
 
+[Transcript](./affect-and-emotion/transcripts.txt)
+
 ## Further Resources
 
 - [Original Content Material](https://bonnittaroy.substack.com/p/affect-and-emotion-and-disposition/comments)

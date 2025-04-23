@@ -19,6 +19,8 @@ next:
 - [Cohort 5](https://bonnittaroy.substack.com/p/video-recording-recap-cohort-5/)
 - [Cohort 6](https://bonnittaroy.substack.com/p/video-recording-recap-session-finale/)
 
+[Transcript](./recap/transcripts.txt)
+
 ## Further Resources
 
 - https://samchaltain.substack.com/p/wanted-a-new-lexicon-for-humanity

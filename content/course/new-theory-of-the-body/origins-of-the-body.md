@@ -95,3 +95,5 @@ Here is a video showing my own process so far. It starts off describing the diff
 - [Cohort 3](https://bonnittaroy.substack.com/p/video-recording-origins-cohort-3/)
 - [Cohort 4](https://bonnittaroy.substack.com/p/video-recording-origins-cohort-4/)
 - [Cohort 5](https://bonnittaroy.substack.com/p/video-recording-origins-cohort-5/)
+
+[Transcript](./origins-of-the-body/transcripts.txt)

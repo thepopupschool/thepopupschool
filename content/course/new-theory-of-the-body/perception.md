@@ -200,6 +200,8 @@ A new theory of the body would incorporate an ecological theory of perception an
 - [Cohort 2,3,4](https://bonnittaroy.substack.com/p/video-recordings-perception-cohorts/)
 - [Cohort 5](https://bonnittaroy.substack.com/p/video-recording-perception-cohort-28b/)
 
+[Transcript](./perception/transcripts.txt)
+
 ## Sculpt your insights further
 
 > [!todo]  [Optain](./perception/perception-deck.apkg) your own [[../../../guides/flashcards#using-anki|Anki Deck]]

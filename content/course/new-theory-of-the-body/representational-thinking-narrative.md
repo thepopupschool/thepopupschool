@@ -139,6 +139,8 @@ In this module, we will practice using language as action-protocols, which is a 
 
 - [Cohorts 1,2,3](https://bonnittaroy.substack.com/p/video-recordings-representational/)
 
+[Transcript](./representational-thinking-narrative/transcripts.txt)
+
 [^1]: According to their results, the average three-year-old test taker knows just over 3,000 words. The average four-year-old test taker knows over 4,000 words. The average eight-year-old test taker knows over 11,000 words. The average forty-year-old, by contrast, knows about 30,000 words
 
 [^2]: The archetypes originated fomr lyrical poetry, where certain heroic characters were deeply stamped into people's consciousness.

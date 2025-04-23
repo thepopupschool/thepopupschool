@@ -136,6 +136,8 @@ In her essay *What is Lyric Philosophy*, she presents 61 bare bones, the first 
 - [Cohort 3](https://bonnittaroy.substack.com/p/video-recording-culture-cohort-3)
 - [Cohorts 4,5](https://bonnittaroy.substack.com/p/video-recording-culture-cohorts-4)
 
+[Transcript](./origins-of-culture/transcripts.txt)
+
 
 [^1]: I will be introducing Lyric Culture in a new SEEDS essay series early next year. Also, the first [2024 retreat at Sky Meadow](https://www.eventcreate.com/e/pop-upschoolretreatseries) will include reflections on Lyric Philosophy.
 

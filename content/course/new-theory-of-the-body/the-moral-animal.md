@@ -71,3 +71,5 @@ As I wrote in the Prelude for the Before Socrates Series:
 - [Cohort 4](https://bonnittaroy.substack.com/p/video-recording-the-moral-animal-c99)
 - [Cohort 5](https://bonnittaroy.substack.com/p/video-recording-the-moral-animal-10a)
 - [Cohort 6](https://bonnittaroy.substack.com/p/video-recording-the-moral-animal-c8c)
+
+[Transcript](./the-moral-animal/transcripts.txt)

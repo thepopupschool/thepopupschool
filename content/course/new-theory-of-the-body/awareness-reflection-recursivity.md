@@ -95,6 +95,8 @@ This brings us to awareness. Which is not reflective, recursive, infinitely regr
 - [Cohort 5](https://bonnittaroy.substack.com/p/video-recording-awareness-cohort-836)
 - [Cohort 6](https://bonnittaroy.substack.com/p/video-recording-awareness-final-cohort)
 
+[Transcript](./awareness-reflection-recursivity/transcripts.txt)
+
 [^1]: In my masters course I always began the first session with the Daoist story about the knife:
 
     *A knife was happy cutting things for a living, until, after a particularly long day of work, he was captured by the question "Who am I?" This came to him as such a profound experience, that he set out to discover the answer. He journeyed around the world. He cut cheese, and realized "I am not cheese." He cut meat and realized "I am not meat." He cut cloth and realized "I am not cloth." *He tried to cut stone, and destroyed all his teeth. In his very old age, he laid down on the rock and despaired. When suddenly he realized "I am that which cuts!" But it was precisely **then** that he was something else.

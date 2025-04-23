@@ -209,6 +209,8 @@ Enlightenment is the ability to "see" the pure paths ... maybe that's why it's c
 - [Cohort 3](https://bonnittaroy.substack.com/p/video-recording-math-and-pure-abstractions-950/)
 - [Cohort 4,5](https://bonnittaroy.substack.com/p/video-math-and-pure-abstractions/)
 
+[Transcript](./math-and-pure-abstractions/transcripts.txt)
+
 [^1]: > Armed with this view we can unite our personal intuition of religious awe with our sensible scientific understanding of the world. It becoms all one, it all makes sense together. Life and religion fall into place and fit together with physics as necessary consequences of the structure of the world--- that is, of the way that matter-space is made. ~ C. Alexander
 
 [^2]: A similar switch happens when one is looking at a movie on a screen (3 D) versus putting on virtual reality goggles and enters directly into the 3 D world. This is the danger of artificial reality, as once one relegates the 4th, temporal dimension, the last dimension left, to the machine, there is no "fourth wall" as it were, to remind us of the artificiality (and hence manipulative power) of the world that is created therein.

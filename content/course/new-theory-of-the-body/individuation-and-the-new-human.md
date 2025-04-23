@@ -66,3 +66,5 @@ This is not a problem of "who am I becoming?" but a question of "who are we beco
 - [Cohort 4](https://bonnittaroy.substack.com/p/video-recording-the-new-human-cohort-f35)
 - [Cohort 5](https://bonnittaroy.substack.com/p/video-recording-the-new-human-cohort-771)
 - [Cohort 6](https://bonnittaroy.substack.com/p/season-finale-video-recording-the)
+
+[Transcript](./individuation-and-the-new-human/transcripts.txt)

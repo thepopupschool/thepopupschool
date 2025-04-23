@@ -147,6 +147,8 @@ Now I want to challenge this model, because I think it is a circumstance of "as 
 - [Cohort 5](https://bonnittaroy.substack.com/p/memory-cohort-5-recording/)
 - [Cohort 6](https://bonnittaroy.substack.com/p/memory-cohort-6-final-recording/)
 
+[Transcript](./memory/transcripts.txt)
+
 [^1]: Walter Benjamin wrote of collective historical memory's motivation to "blast a unique experience of the past out of the continuum of history" in order to wrestle meaning from the past for the present.
 
     > An episdoe of the past interests us so much only as it becomes an episode of the present wherein our thoughts, actions and strategeis are decided... What interests us is that ideas be events, that history will be at all times a break, a rupture, to be interrogated only from the perspective of the here and now, and only politically ...

@@ -128,6 +128,8 @@ One of the most common and primal versions of syn*ae*sthesia is how musical chor
 - [Cohort 3,4](https://bonnittaroy.substack.com/p/imagination-cohorts-3-and-4-video/)
 - [Cohort 5,6](https://bonnittaroy.substack.com/p/imagination-cohorts-5-6-video-recording/)
 
+[Transcript](./imagination-and-synaesthesia/transcripts.txt)
+
 [^1]: It is interesting to note that what colors are associated with which letters, numbers, months or days varys wisely across synesthetes. For a fascinating example, see Daniel Tammet, the man who could recount pi to 22,000 numerals, by painting a landscape in his mind
 
     ![Color Synesthetes](../../images/color-synesthetes.jpg)

@@ -20,3 +20,6 @@ next:
 
 ![](https://www.youtube-nocookie.com/watch?v=Cg3NFwN3zN4)
 
+---
+
+[Transcript](./origins-of-the-self/transcripts.txt)
