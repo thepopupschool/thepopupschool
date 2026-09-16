@@ -8,6 +8,24 @@ import { FilePath, joinSegments } from "../../util/path"
 
 type AnkiOptions = {}
 
+function resolveMdankideck(): string {
+  const fromEnv = process.env.QUARTZ_ANKI_COMPILER
+  if (fromEnv) {
+    return fromEnv
+  }
+
+  const venvBinary = path.join(process.cwd(), "venv", "bin", "mdankideck")
+  if (fs.existsSync(venvBinary)) {
+    return venvBinary
+  }
+
+  throw new Error(
+    chalk.red(
+      "mdankideck not found. Run `npm ci` to create the Python venv, or set QUARTZ_ANKI_COMPILER to the binary path.",
+    ),
+  )
+}
+
 export const Anki: QuartzEmitterPlugin<Partial<AnkiOptions>> = () => {
 
   return {
@@ -47,14 +65,25 @@ export const Anki: QuartzEmitterPlugin<Partial<AnkiOptions>> = () => {
           const tempDirPrefix = path.join(os.tmpdir(), 'anki-deck');
 
           const tempDir = fs.mkdtempSync(tempDirPrefix);
+          const mdankideck = resolveMdankideck()
 
-          const out = spawnSync("mdankideck", ["--prefix", "thepopupschool::", directoryPath, tempDir], { stdio: "inherit" })
-          if (out.stderr) {
-            throw new Error(chalk.red(`Error create anki deck: ${out.stderr}`))
-          } else if (out.status !== 0) {
+          const out = spawnSync(
+            mdankideck,
+            ["--prefix", "thepopupschool::", directoryPath, tempDir],
+            { stdio: "inherit" },
+          )
+          if (out.status !== 0) {
             throw new Error(chalk.red("Error create anki deck", JSON.stringify(out, null, 2)))
           }
 
+          const generatedApkg = path.join(tempDir, "deck.apkg")
+          if (!fs.existsSync(generatedApkg)) {
+            throw new Error(
+              chalk.red(
+                `mdankideck did not produce deck.apkg in ${tempDir}. Check Python dependencies (requirements.txt).`,
+              ),
+            )
+          }
 
           const slug = contentData.slug
           const ext = ".apkg"
@@ -63,7 +92,10 @@ export const Anki: QuartzEmitterPlugin<Partial<AnkiOptions>> = () => {
           const dir = path.dirname(pathToAnkiDenk)
           await fs.promises.mkdir(dir, { recursive: true })
 
-          await fs.promises.cp(path.join(tempDir, "deck.apkg"), path.join(dir, `${path.basename(directoryPath)}-deck.apkg`))
+          await fs.promises.cp(
+            generatedApkg,
+            path.join(dir, `${path.basename(directoryPath)}-deck.apkg`),
+          )
 
           return pathToAnkiDenk
 

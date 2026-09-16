@@ -1,1 +1,2 @@
 markdown-anki-decks
+click<8.2
