@@ -18,7 +18,7 @@ const config: QuartzConfig = {
       scriptSrc: 'https://stats.thepopupschool.org/count.js'
     },
     locale: "en-US",
-    baseUrl: "thepopupschool.org",
+    baseUrl: process.env.QUARTZ_BASE_URL ?? "thepopupschool.org",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
