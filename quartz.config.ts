@@ -90,7 +90,7 @@ const config: QuartzConfig = {
       Plugin.Assets(),
       Plugin.Static(),
       Plugin.NotFoundPage(),
-      Plugin.Anki()
+      Plugin.Anki({ prefix: "thepopupschool::" }),
     ],
   },
 }
